@@ -19,6 +19,29 @@ Students today are as likely to cite video games or YouTube videos in their acad
 
 The requirements of multimodal projects have left these handbooks outmoded, if you will.
 
+== Some Definitions ==
+For the purposes of this article, we need some definitions
+
+Multimodal: Following the New London Group
+
+Texts: All kinds of projects that students compose, from word processor-based documents to video and audio recordings.
+Documents: Synonymous with Texts.
+
+Word Processor-Based Documents (but what about wiki, webpages, blogs, etc?????)
+Slideshows
+Videos
+Audio Recordings
+Images
+
+Performance-based Projects
+Analog projects
+Digital Projects
+
+Static Texts
+Dynamic Texts
+
+
+
 == Introduction and Review of Articles from the 1998 Kairos Special Issue ==
 
 
@@ -137,7 +160,7 @@ Time for an open source guide to citations and attribution that takes the educat
 Aliprandi, S. (2014). ''Creative Commons: a user guide: A complete manual with a theoretical introduction and practical suggestions''. Milano: Ledizioni. Retrieved from [http://books.openedition.org/ledizioni/199 http://books.openedition.org/ledizioni/199].
 This manual demonstrates the ways to apply licenses to projects, which informs the process of attributing sources.
 
-Arola, K. L., Sheppard, J., & Ball, C. E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
+Arola, Kristin. L., Sheppard, J., & Ball, C. E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
 This student textbook includes complete details on designing citation and credit systems for multimodal projects.
 
 Creative Commons. (2014, March 5). ''Best practices for attribution''. Retrieved September 22, 2017, from [https://wiki.creativecommons.org/wiki/Best_practices_for_attribution https://wiki.creativecommons.org/wiki/Best_practices_for_attribution].
@@ -149,11 +172,10 @@ DeVoss, D. N. (2013). Intellectual Property in “College English”— and Engl
 Eisner, Caroline, and Martha Vicinus, E. (2008). ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age''. Retrieved from [http://hdl.handle.net/2027/spo.5653382.0001.001 http://hdl.handle.net/2027/spo.5653382.0001.001]
 This collection includes a variety of relevant essays, including “‘Fair Use,’ Copyright Law, and the Composition Teacher” by Martine Courant Rife and ‘Reviewing the Author-Function in the Age of Wikipedia” by Amit Ray and Erhardt Graeff.
 
-Hauptman, R. (2008). ''Documentation: A History and Critique of Attribution, Commentary, Glosses, Marginalia, Notes, Bibliographies, Works-Cited Lists, and Citation Indexing and Analysis''. Jefferson, N.C: McFarland.
-Still waiting on ILL of this text. One reviewer states that the book covers documentation from “ancient times” to the present.
-
 Haviland, C. P., & Mullin, J. A. (Eds.). (2008). ''Who Owns This Text?: Plagiarism, Authorship, and Disciplinary Cultures'' (1st edition). Logan, Utah: Utah State University Press.
 This collection covers the ideas of documentation and plagiarism as they relate to such areas as collaborative authoring, open source computer code, and appropriation.
 
 Mages, W. K., & Garson, D. S. (2010). Get the cite right: Design and evaluation of a high-quality online citation tutorial. ''Library & Information Science Research'', 32(2), 138–146. [https://doi.org/10.1016/j.lisr.2009.10.004 https://doi.org/10.1016/j.lisr.2009.10.004]
 This article describes the development of a library guide to explain the need for citations. The primary purpose of the piece is to discuss the composing and revising strategies, but there are relevant details on student needs.
+
+The New London Group. (1996). A pedagogy of multiliteracies: designing social futures. Harvard Educational Review, (1), 60–92.
