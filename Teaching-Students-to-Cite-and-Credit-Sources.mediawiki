@@ -1,0 +1,158 @@
+<div style="font-size: small;float: right;width: 400px;margin-left: 15px;">
+__TOC__
+</div>
+[https://www.poetryfoundation.org/poems/44214/preludes-56d22338dc954 T.S. Eliot’s Preludes]
+[https://flic.kr/p/4APCCz smokestack image on flickr]
+
+[[FILE: 300px-Smokestack.jpg | thumb | right | einstein&#x27;s cloudmaker]]
+
+== Original proposal ==
+The webtext begins with a survey of how (or if) current writing handbooks cover citation and attribution for Creative Commons resources and a comparison to the way these handbooks cover citation and attribution of sources licensed under copyright alone. This research will focus on finding the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. and connecting these findings to common student misconceptions about intellectual property rights.
+
+
+Based on the findings of this survey, the webtext will suggest strategies for teaching what is left out of the surveyed handbooks. These strategies will include examples for a range of source types, with specific emphasis on digital sources such as audio, video, and images. The conclusion will argue that student handbooks should provide more thorough coverage of intellectual property rights and that educators should advocate for a wider understanding of citation and attribution.
+
+== Begin Here ==
+Students today are as likely to cite video games or YouTube videos in their academic writing as they are to quote novels or newspaper articles. The range of publications that writers may mention grows broader every day. Several years ago, there would have been no reason to talk about microblogging platforms like Twitter, photosharing sites like Instagram, or video sharing tools like Vine and Vimeo. Now, publication tools and forums like these are commonplace. Next year, perhaps even next month, there will be new ways of publishing and new kinds of texts that writers will encounter and want to cite—ways that we have no way of anticipating today.
+
+ we rely on in the writing classroom
+
+The requirements of multimodal projects have left these handbooks outmoded, if you will.
+
+== Introduction and Review of Articles from the 1998 Kairos Special Issue ==
+
+
+Johndan Johnson-Eilola, [http://kairos.technorhetoric.net/3.1/binder2.html?coverweb/johndan.html Intellectual Property: Questions and Answers]
+
+''' "Make a prediction about future of ip/copyright/plagiarism" (an open-ended prognostication prompt) '''
+Content will become increasingly devalued, while the right to claim profit from moving information will become more important. (As in late capitalism, the greatest profits aren't extracted directly from capital, but from the *movement* of capital on and through various markets.) The ability to filter, abstract, and reconnect information in useful ways will also become more important than the ability to create information (a sort of meta-production/meta-information skill). Arguably, acadmics will be good at this sort of thing because much of what we do involves these very activities. But we tend to fall back on romantic views of the individual which reposition our work in the older economy.
+
+
+Doherty, Mick. [http://kairos.technorhetoric.net/3.1/coverweb/mick/stupid.htm It's the Interface, Stupid: The Kairos of Copyright and the Copyright of Kairos]
+
+* Who’s Gonna Know? Mick's fys error as a journalist
+* We Make It Up As We Go Along -- what we as teachers and students as writers frequently do
+* We Did Bad Stuff Too -- errors that our students make as well
+
+== Current Methods ==
+
+=== Survey of Current Handbooks ===
+
+[https://bookshelf.vitalsource.com/#/ Vital Source Bookshelf]
+
+Faigley, Lester. (2018). [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html The Writer's Handbook] (6th ed.). New York, NY: Pearson.
+
+Fowler, H. Ramsey, Aaron, Jane E., and Greer, Michael. (2016).  [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html The Little, Brown Handbook] (13th ed.). Boston, MA: Pearson.
+
+Hacker, Diana, and Sommers, Nancy. (2016). [https://www.macmillanlearning.com/Catalog/product/writersreferencewith2016mlaupdate-eighthedition-hacker A Writer’s Reference with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s.
+
+Harris, Muriel, and Kunka, Jennifer L. (2018). [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide] (10th ed.). New York, NY: Pearson.
+
+Lunsford, Andrea A. (2017). [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford The St. Martin’s Handbook with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s.
+
+Palmquist, Mike, and Wallraff, Barbara. (2018). [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook]. Boston, MA: Bedford/St. Martin’s.
+
+Wysocki, Anne Frances, and Lynch, Dennis A. (2017). [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook] (4th ed.).  Boston, MA: Pearson.
+
+Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball Writer/Designer] (2nd ed.). Boston, MA: Bedford/St. Martin's.
+
+Add ptw?
+Check purdue owl as well
+
+and kairos style guides
+
+
+==== Documentation and Citation ====
+Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, as they demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
+
+I feel as if I am just bumbling around and saying things that everyone already knows. What is the point of saying these things that anyone who has ever looked at a few handbooks already knows. People know what is in handbooks. They may not have thought about what is NOT in these texts, but they know the basics. Argh.
+
+
+==== Attribution and Credits ====
+
+Little discussion of attribution and credits in what Writer/Designer refers to as "more overtly multimodal" texts. (p. 8)
+
+[http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png Screenshot from In Conversation]
+KOACSI/Writer2Writer-usingimages.png
+
+
+=== Identification of Gaps in Current Resources ===
+
+Guessing: Little to no support for how to provide attribution for sources used in heavily-multimodal composing. Privileging of linguistic text sources and text-focused systems of attribution.
+
+== Best Practices ==
+
+=== Identification of Alternative Instructional Resources ===
+
+Pull from [http://faq.tracigardner.com/category/graphics/ http://faq.tracigardner.com/category/graphics/]
+
+Fair use is a legal concept that describes when it is acceptable to use works protected by copyright. Fair use is determined by four principles, which you can read more about in your textbook:
+
+* '''How will the work be used?''' Is it for commentary, education, research, etc.? Will someone profit financially from it?
+* '''What kind of work is it?''' In particular, has it been published?
+* '''How much of the work will be used?''' All of it? Most of it? A little of it?
+* '''How will the use effect the sales of the original?''' Will people still buy/use the original?
+
+Use the flowchart on [http://thevisualcommunicationguy.com/2014/07/14/can-i-use-that-picture/ Can I Use that Picture? The Terms, Laws, and Ethics for Using Copyrighted Images], from Curtis Newbold, to decide if you your use of a source is fair use.
+
+Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], from the American Library Association, for a thorough analysis and to write a justification of your use.
+
+---------
+
+=== Discussion of Practices Seen across Resources ===
+
+==== Documentation and Citation ====
+
+==== Attribution and Credits ====
+
+==== Comparison to Gaps in Current Resources (Section II.A.2, above) ====
+
+=== Synthesis and Conclusions on Best Practices ===
+
+== Ideal Strategies ==
+
+=== Arguments for Handbook Revision ===
+
+==== Documentation and Citation ====
+
+==== Attribution and Credits ====
+
+==== Discussion of How Revision Addresses Gaps ====
+
+== Conclusion ==
+
+=== Reflections on Changes Since 1998 ===
+
+=== How More Thorough Coverage Addresses Writers’ Needs ===
+
+=== Call to Advocate for More Friendly and Complete Models and Instruction ===
+
+
+Time for an open source guide to citations and attribution that takes the education away from the publishers, who are more invested in copyright ownership than in free and open systems of citation.
+
+
+
+== Bibliography ==
+Aliprandi, S. (2014). ''Creative Commons: a user guide: A complete manual with a theoretical introduction and practical suggestions''. Milano: Ledizioni. Retrieved from [http://books.openedition.org/ledizioni/199 http://books.openedition.org/ledizioni/199].
+This manual demonstrates the ways to apply licenses to projects, which informs the process of attributing sources.
+
+Arola, K. L., Sheppard, J., & Ball, C. E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
+This student textbook includes complete details on designing citation and credit systems for multimodal projects.
+
+Creative Commons. (2014, March 5). ''Best practices for attribution''. Retrieved September 22, 2017, from [https://wiki.creativecommons.org/wiki/Best_practices_for_attribution https://wiki.creativecommons.org/wiki/Best_practices_for_attribution].
+This online resource walks through strategies for crediting images under various licenses.
+
+DeVoss, D. N. (2013). Intellectual Property in “College English”— and English Studies. ''College English'', 75(5), 534–547.
+:his article traces the ways that intellectual property has been discussed in the journal ''College English''.
+
+Eisner, Caroline, and Martha Vicinus, E. (2008). ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age''. Retrieved from [http://hdl.handle.net/2027/spo.5653382.0001.001 http://hdl.handle.net/2027/spo.5653382.0001.001]
+This collection includes a variety of relevant essays, including “‘Fair Use,’ Copyright Law, and the Composition Teacher” by Martine Courant Rife and ‘Reviewing the Author-Function in the Age of Wikipedia” by Amit Ray and Erhardt Graeff.
+
+Hauptman, R. (2008). ''Documentation: A History and Critique of Attribution, Commentary, Glosses, Marginalia, Notes, Bibliographies, Works-Cited Lists, and Citation Indexing and Analysis''. Jefferson, N.C: McFarland.
+Still waiting on ILL of this text. One reviewer states that the book covers documentation from “ancient times” to the present.
+
+Haviland, C. P., & Mullin, J. A. (Eds.). (2008). ''Who Owns This Text?: Plagiarism, Authorship, and Disciplinary Cultures'' (1st edition). Logan, Utah: Utah State University Press.
+This collection covers the ideas of documentation and plagiarism as they relate to such areas as collaborative authoring, open source computer code, and appropriation.
+
+Mages, W. K., & Garson, D. S. (2010). Get the cite right: Design and evaluation of a high-quality online citation tutorial. ''Library & Information Science Research'', 32(2), 138–146. [https://doi.org/10.1016/j.lisr.2009.10.004 https://doi.org/10.1016/j.lisr.2009.10.004]
+This article describes the development of a library guide to explain the need for citations. The primary purpose of the piece is to discuss the composing and revising strategies, but there are relevant details on student needs.
