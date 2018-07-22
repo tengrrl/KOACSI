@@ -4,7 +4,7 @@ __TOC__
 [https://www.poetryfoundation.org/poems/44214/preludes-56d22338dc954 T.S. Eliot’s Preludes]
 [https://flic.kr/p/4APCCz smokestack image on flickr]
 
-<img src=https://github.com/tengrrl/KOACSI/raw/master/images/Smokestack.jpg />
+<img src=https://github.com/tengrrl/KOACSI/raw/master/images/smokestack.jpg style="float: right;" alt="einstein&#x27;s cloudmaker"]]
 
 == Original proposal ==
 The webtext begins with a survey of how (or if) current writing handbooks cover citation and attribution for Creative Commons resources and a comparison to the way these handbooks cover citation and attribution of sources licensed under copyright alone. This research will focus on finding the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. and connecting these findings to common student misconceptions about intellectual property rights.
