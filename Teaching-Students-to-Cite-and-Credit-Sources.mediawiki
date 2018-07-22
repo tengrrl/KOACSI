@@ -5,9 +5,9 @@ __TOC__
 [https://flic.kr/p/4APCCz smokestack image on flickr]
 
 
-[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]
 
-[[https://github.com/KOACSI/blob/master/img/Writer2Writer-usingimages.png]]
+[https://github.com/tengrrl/KOACSI/blob/master/img/Writer2Writer-usingimages.png]
 [[FILE: 300px-Smokestack.jpg | thumb | right | einstein&#x27;s cloudmaker]]
 
 == Original proposal ==
