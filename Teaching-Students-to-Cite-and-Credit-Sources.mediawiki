@@ -4,7 +4,10 @@ __TOC__
 [https://www.poetryfoundation.org/poems/44214/preludes-56d22338dc954 T.S. Eliot’s Preludes]
 [https://flic.kr/p/4APCCz smokestack image on flickr]
 
-https://tengrrl.github.io/KOACSI/Writer2Writer-usingimages.png
+
+[[https://github.com/username/repository/blob/master/img/octocat.png|alt=octocat]]
+
+[[https://github.com/KOACSI/blob/master/img/Writer2Writer-usingimages.png | thumb | right | writer to writer]]
 [[FILE: 300px-Smokestack.jpg | thumb | right | einstein&#x27;s cloudmaker]]
 
 == Original proposal ==
