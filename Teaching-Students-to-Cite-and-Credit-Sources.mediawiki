@@ -7,7 +7,12 @@ __TOC__
 <img src=https://github.com/tengrrl/KOACSI/raw/master/images/smokestack.jpg style="float: right;" alt="einstein&#x27;s cloudmaker" />
 
 == Original proposal ==
-You have probably heard of Creative Commons, the 
+When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
+
+As compositions in first-year writing turn toward the incorporation and creation of texts such as static images, audio recordings, and videos, students must consider the ownership and copyright of the assets they use as they create these compositions.
+
+
+
 
 The webtext begins with a survey of how (or if) current writing handbooks cover citation and attribution for Creative Commons resources and a comparison to the way these handbooks cover citation and attribution of sources licensed under copyright alone. This research will focus on finding the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. and connecting these findings to common student misconceptions about intellectual property rights.
 
