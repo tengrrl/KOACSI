@@ -7,6 +7,8 @@ __TOC__
 <img src=https://github.com/tengrrl/KOACSI/raw/master/images/smokestack.jpg style="float: right;" alt="einstein&#x27;s cloudmaker" />
 
 == Original proposal ==
+You have probably heard of Creative Commons, the 
+
 The webtext begins with a survey of how (or if) current writing handbooks cover citation and attribution for Creative Commons resources and a comparison to the way these handbooks cover citation and attribution of sources licensed under copyright alone. This research will focus on finding the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. and connecting these findings to common student misconceptions about intellectual property rights.
 
 
@@ -42,7 +44,7 @@ Dynamic Texts
 
 
 
-== Introduction and Review of Articles from the 1998 Kairos Special Issue ==
+12== Introduction and Review of Articles from the 1998 Kairos Special Issue ==
 
 
 Johndan Johnson-Eilola, [http://kairos.technorhetoric.net/3.1/binder2.html?coverweb/johndan.html Intellectual Property: Questions and Answers]
@@ -91,6 +93,12 @@ Most of the handbooks adopted for first-year writing courses focus on the custom
 I feel as if I am just bumbling around and saying things that everyone already knows. What is the point of saying these things that anyone who has ever looked at a few handbooks already knows. People know what is in handbooks. They may not have thought about what is NOT in these texts, but they know the basics. Argh.
 
 <img src=https://github.com/tengrrl/KOACSI/raw/master/images/Writer2Writer-usingimages.png />
+
+The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the authors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
+
+
+
+
 
 ==== Attribution and Credits ====
 
