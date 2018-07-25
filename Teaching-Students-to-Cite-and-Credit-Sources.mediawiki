@@ -1,16 +1,15 @@
-<div style="font-size: small;float: right;width: 400px;margin-left: 15px;">
+<div style="font-size: small;float: right;width: 400px;margin-left: 25px;margin-bottom: 25px;">
 __TOC__
 </div>
-Contributor: Traci Gardner
-Affiliation: Virginia Tech
-Email: tengrrl@tengrrl.com
-Released: xxx
-Published: xxx
-
+'''Contributor''': Traci Gardner<br />
+'''Affiliation''': Virginia Tech<br />
+'''Email''': tengrrl@tengrrl.com<br />
+'''Released''': xxx<br />
+'''Published''': xxx<br />
 
 == Introduction ==
-<img src="https://github.com/tengrrl/KOACSI/raw/master/images/windturbines.jpg" alt="Wind Turbines Visual Argument" style="float: right;width: 50%;height: 50%">The first-year writing course is no longer the realm solely of basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects (like the poster on the right) that combine images and linguistic text to build their message. They may even compose digital projects that include audio recordings and video clips.
-
+The first-year writing course is no longer the realm solely of basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects (like the visual argument poster on the left) that combine images and linguistic text to build their message. They may even compose digital projects that include audio recordings and video clips.
+[[File:windturbines.jpg|300px|thumb|left|Visual Argument on Wind Turbines]]
 The assets that students use in these compositions may be their own work, but that just as frequently include materials created by others. A student’s project may include video footage from a network news story, audio clips from an independent podcast, and photographs posted on Twitter by first-hand observers. As they create these projects, students must consider the ownership and copyright of the assets, which can be covered by a variety of intellectual property rights protections—from copyright to Creative Commons licenses. They may encounter resources that are in the public domain, that are royalty-free, and that are covered by commercial licenses (e.g., assets that you pay to use).
 
 In this article, I survey current first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so that students more fully understand how intellectual property rights as they cite and credit sources.
@@ -37,8 +36,6 @@ Digital Projects
 
 Static Texts
 Dynamic Texts
-
-
 
 == Introduction and Review of Articles from the 1998 Kairos Special Issue ==
 
