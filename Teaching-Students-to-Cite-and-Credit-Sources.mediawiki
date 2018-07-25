@@ -9,7 +9,7 @@ Published: xxx
 
 
 == Introduction ==
-The first-year writing course is no longer the realm solely of basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects that combine images and linguistic text to build their message. They may even compose digital projects that include audio recordings and video clips.
+<img src="https://github.com/tengrrl/KOACSI/raw/master/images/windturbines.jpg" alt="Wind Turbines Visual Argument" style="float: right;">The first-year writing course is no longer the realm solely of basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects (like the poster on the right) that combine images and linguistic text to build their message. They may even compose digital projects that include audio recordings and video clips.
 
 The assets that students use in these compositions may be their own work, but that just as frequently include materials created by others. A student’s project may include video footage from a network news story, audio clips from an independent podcast, and photographs posted on Twitter by first-hand observers. As they create these projects, students must consider the ownership and copyright of the assets, which can be covered by a variety of intellectual property rights protections—from copyright to Creative Commons licenses. They may encounter resources that are in the public domain, that are royalty-free, and that are covered by commercial licenses (e.g., assets that you pay to use).
 
@@ -18,7 +18,7 @@ In this article, I survey current first-year writing handbooks for instruction o
 == Some Definitions ==
 For the purposes of this article, we need some definitions
 
- When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
+When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
 
 Multimodal: Following the New London Group
 
