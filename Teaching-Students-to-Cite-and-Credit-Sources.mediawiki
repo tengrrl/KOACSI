@@ -15,7 +15,7 @@ The assets that students use in these compositions may be their own work, but th
 In this article, I survey current first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so that students more fully understand how intellectual property rights as they cite and credit sources.
 
 == Some Definitions ==
-For the purposes of this article, we need some definitions
+For the purposes of this article, we need some definitions; but yo, bitches, imma wait until i finish the other bits to figure out what those words are that need to be defined.
 
 When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
 
@@ -37,50 +37,34 @@ Digital Projects
 Static Texts
 Dynamic Texts
 
-== Introduction and Review of Articles from the 1998 Kairos Special Issue ==
+== Survey of Current Handbooks ==
 
+For this article, I reviewed seven first-year writing handbooks for the following information:
+* details on citation and attribution of images, audio, and video sources
+* discussion of the composition of static and dynamic texts that go beyond the word processor-based essays
+* coverage of Creative Commons licenses and associated use and attribution practices
 
-Johndan Johnson-Eilola, [http://kairos.technorhetoric.net/3.1/binder2.html?coverweb/johndan.html Intellectual Property: Questions and Answers]
+The review focused on these handbooks:
 
-''' "Make a prediction about future of ip/copyright/plagiarism" (an open-ended prognostication prompt) '''
-Content will become increasingly devalued, while the right to claim profit from moving information will become more important. (As in late capitalism, the greatest profits aren't extracted directly from capital, but from the *movement* of capital on and through various markets.) The ability to filter, abstract, and reconnect information in useful ways will also become more important than the ability to create information (a sort of meta-production/meta-information skill). Arguably, acadmics will be good at this sort of thing because much of what we do involves these very activities. But we tend to fall back on romantic views of the individual which reposition our work in the older economy.
+* [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html The Writer's Handbook, 6th ed. (2018)
+* [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html The Little, Brown Handbook, 13th ed.] (2016)
+* [https://www.macmillanlearning.com/Catalog/product/writersreferencewith2016mlaupdate-eighthedition-hacker A Writer’s Reference with 2016 MLA Update, 8th ed.] (2016)
+* [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide, 10th ed.] (2018)
+* [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford The St. Martin’s Handbook with 2016 MLA Update, 8th ed.] (2017)
+* [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook] (2018)
+* [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook, 4th ed.] (2017)
 
+I used [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball Writer/Designer, 2nd ed.] (2018) by Cheryl E. Ball, Jennifer Sheppard, and Kristin L. Arola as a model of a thorough coverage of Creative Commons and of attribution practices in texts that go beyond the word processor-based essays.
 
-Doherty, Mick. [http://kairos.technorhetoric.net/3.1/coverweb/mick/stupid.htm It's the Interface, Stupid: The Kairos of Copyright and the Copyright of Kairos]
+To ensure a thorough search of these handbooks and ''Writer/Designer'', I used digital versions of the handbooks obtained through the [https://bookshelf.vitalsource.com/#/ Vital Source Bookshelf] and the related search tools on the Vital Source website. I also reviewed the sections on research, documentation, and plagiarism in all the handbooks and checked specifically for references to the following terms using the search tools:
 
-* Who’s Gonna Know? Mick's fys error as a journalist
-* We Make It Up As We Go Along -- what we as teachers and students as writers frequently do
-* We Did Bad Stuff Too -- errors that our students make as well
+* Creative Commons
+* fair use
+* public domain
+* video
+* audio
 
-== Current Methods ==
-
-=== Survey of Current Handbooks ===
-
-[https://bookshelf.vitalsource.com/#/ Vital Source Bookshelf]
-
-Faigley, Lester. (2018). [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html The Writer's Handbook] (6th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134573861].
-
-Fowler, H. Ramsey, Aaron, Jane E., and Greer, Michael. (2016).  [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html The Little, Brown Handbook] (13th ed.). Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780321988430].
-
-Hacker, Diana, and Sommers, Nancy. (2016). [https://www.macmillanlearning.com/Catalog/product/writersreferencewith2016mlaupdate-eighthedition-hacker A Writer’s Reference with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319106041]
-
-Harris, Muriel, and Kunka, Jennifer L. (2018). [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide] (10th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134427959].
-
-Lunsford, Andrea A. (2017). [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford The St. Martin’s Handbook with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319149833].
-
-Palmquist, Mike, and Wallraff, Barbara. (2018). [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook]. Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319159122].
-
-Wysocki, Anne Frances, and Lynch, Dennis A. (2017). [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook] (4th ed.).  Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134151021].
-
-Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball Writer/Designer] (2nd ed.). Boston, MA: Bedford/St. Martin's. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319107789].
-
-Add ptw?
-Check purdue owl as well
-
-and kairos style guides
-
-
-==== Documentation and Citation ====
+== Documentation and Citation ==
 Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, as they demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
 I feel as if I am just bumbling around and saying things that everyone already knows. What is the point of saying these things that anyone who has ever looked at a few handbooks already knows. People know what is in handbooks. They may not have thought about what is NOT in these texts, but they know the basics. Argh.
@@ -122,18 +106,6 @@ Use the flowchart on [http://thevisualcommunicationguy.com/2014/07/14/can-i-use-
 
 Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], from the American Library Association, for a thorough analysis and to write a justification of your use.
 
----------
-
-=== Discussion of Practices Seen across Resources ===
-
-==== Documentation and Citation ====
-
-==== Attribution and Credits ====
-
-==== Comparison to Gaps in Current Resources (Section II.A.2, above) ====
-
-=== Synthesis and Conclusions on Best Practices ===
-
 == Ideal Strategies ==
 
 === Arguments for Handbook Revision ===
@@ -146,18 +118,42 @@ Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], fro
 
 == Conclusion ==
 
-=== Reflections on Changes Since 1998 ===
-
 === How More Thorough Coverage Addresses Writers’ Needs ===
 
 === Call to Advocate for More Friendly and Complete Models and Instruction ===
 
-
 Time for an open source guide to citations and attribution that takes the education away from the publishers, who are more invested in copyright ownership than in free and open systems of citation.
+
+
+Add ptw?
+Check purdue owl as well
+
+and kairos style guides
+
+
 
 
 
 == Bibliography ==
+=== Handbooks Reviewed ===
+Faigley, Lester. (2018). [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html The Writer's Handbook] (6th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134573861].
+
+Fowler, H. Ramsey, Aaron, Jane E., and Greer, Michael. (2016).  [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html The Little, Brown Handbook] (13th ed.). Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780321988430].
+
+Hacker, Diana, and Sommers, Nancy. (2016). [https://www.macmillanlearning.com/Catalog/product/writersreferencewith2016mlaupdate-eighthedition-hacker A Writer’s Reference with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319106041]
+
+Harris, Muriel, and Kunka, Jennifer L. (2018). [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide] (10th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134427959].
+
+Lunsford, Andrea A. (2017). [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford The St. Martin’s Handbook with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319149833].
+
+Palmquist, Mike, and Wallraff, Barbara. (2018). [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook]. Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319159122].
+
+Wysocki, Anne Frances, and Lynch, Dennis A. (2017). [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook] (4th ed.).  Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134151021].
+
+Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball Writer/Designer] (2nd ed.). Boston, MA: Bedford/St. Martin's. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319107789].
+
+=== Other Sources ===
+
 Aliprandi, S. (2014). ''Creative Commons: a user guide: A complete manual with a theoretical introduction and practical suggestions''. Milano: Ledizioni. Retrieved from [http://books.openedition.org/ledizioni/199 http://books.openedition.org/ledizioni/199].
 This manual demonstrates the ways to apply licenses to projects, which informs the process of attributing sources.
 
