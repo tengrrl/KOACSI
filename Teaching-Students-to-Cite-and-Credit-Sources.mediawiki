@@ -1,33 +1,24 @@
 <div style="font-size: small;float: right;width: 400px;margin-left: 15px;">
 __TOC__
 </div>
-[https://www.poetryfoundation.org/poems/44214/preludes-56d22338dc954 T.S. Eliot’s Preludes]
-[https://flic.kr/p/4APCCz smokestack image on flickr]
-
-<img src=https://github.com/tengrrl/KOACSI/raw/master/images/smokestack.jpg style="float: right;" alt="einstein&#x27;s cloudmaker" />
-
-== Original proposal ==
-When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
-
-As compositions in first-year writing turn toward the incorporation and creation of texts such as static images, audio recordings, and videos, students must consider the ownership and copyright of the assets they use as they create these compositions.
+Contributor: Traci Gardner
+Affiliation: Virginia Tech
+Email: tengrrl@tengrrl.com
+Released: xxx
+Published: xxx
 
 
+== Introduction ==
+The first-year writing course is no longer the realm solely of basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects that combine images and linguistic text to build their message. They may even compose digital projects that include audio recordings and video clips.
 
+The assets that students use in these compositions may be their own work, but that just as frequently include materials created by others. A student’s project may include video footage from a network news story, audio clips from an independent podcast, and photographs posted on Twitter by first-hand observers. As they create these projects, students must consider the ownership and copyright of the assets, which can be covered by a variety of intellectual property rights protections—from copyright to Creative Commons licenses. They may encounter resources that are in the public domain, that are royalty-free, and that are covered by commercial licenses (e.g., assets that you pay to use).
 
-The webtext begins with a survey of how (or if) current writing handbooks cover citation and attribution for Creative Commons resources and a comparison to the way these handbooks cover citation and attribution of sources licensed under copyright alone. This research will focus on finding the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. and connecting these findings to common student misconceptions about intellectual property rights.
-
-
-Based on the findings of this survey, the webtext will suggest strategies for teaching what is left out of the surveyed handbooks. These strategies will include examples for a range of source types, with specific emphasis on digital sources such as audio, video, and images. The conclusion will argue that student handbooks should provide more thorough coverage of intellectual property rights and that educators should advocate for a wider understanding of citation and attribution.
-
-== Begin Here ==
-Students today are as likely to cite video games or YouTube videos in their academic writing as they are to quote novels or newspaper articles. The range of publications that writers may mention grows broader every day. Several years ago, there would have been no reason to talk about microblogging platforms like Twitter, photosharing sites like Instagram, or video sharing tools like Vine and Vimeo. Now, publication tools and forums like these are commonplace. Next year, perhaps even next month, there will be new ways of publishing and new kinds of texts that writers will encounter and want to cite—ways that we have no way of anticipating today.
-
- we rely on in the writing classroom
-
-The requirements of multimodal projects have left these handbooks outmoded, if you will.
+In this article, I survey current first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so that students more fully understand how intellectual property rights as they cite and credit sources.
 
 == Some Definitions ==
 For the purposes of this article, we need some definitions
+
+ When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
 
 Multimodal: Following the New London Group
 
@@ -49,7 +40,7 @@ Dynamic Texts
 
 
 
-12== Introduction and Review of Articles from the 1998 Kairos Special Issue ==
+== Introduction and Review of Articles from the 1998 Kairos Special Issue ==
 
 
 Johndan Johnson-Eilola, [http://kairos.technorhetoric.net/3.1/binder2.html?coverweb/johndan.html Intellectual Property: Questions and Answers]
@@ -192,3 +183,8 @@ Mages, W. K., & Garson, D. S. (2010). Get the cite right: Design and evaluation 
 This article describes the development of a library guide to explain the need for citations. The primary purpose of the piece is to discuss the composing and revising strategies, but there are relevant details on student needs.
 
 The New London Group. (1996). A pedagogy of multiliteracies: designing social futures. Harvard Educational Review, (1), 60–92.
+
+[https://www.poetryfoundation.org/poems/44214/preludes-56d22338dc954 T.S. Eliot’s Preludes]
+[https://flic.kr/p/4APCCz smokestack image on flickr]
+
+<img src=https://github.com/tengrrl/KOACSI/raw/master/images/smokestack.jpg style="float: right;" alt="einstein&#x27;s cloudmaker" />
