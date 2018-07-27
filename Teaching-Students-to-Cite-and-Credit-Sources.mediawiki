@@ -49,10 +49,12 @@ The review focused on these handbooks (in alphabetical order by title):
 * [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook, 4th ed.] (2017)
 * [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook] (2018)
 * [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html The Little, Brown Handbook, 13th ed.] (2016)
+* [https://www.mheducation.com/highered/product/M1259988627.html The McGraw-Hill Handbook, 3rd ed.] (2017)
 * [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide, 10th ed.] (2018)
 * [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford The St. Martin’s Handbook with 2016 MLA Update, 8th ed.] (2017)
 * [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html The Writer's Handbook, 6th ed.] (2018)
 * [https://www.macmillanlearning.com/Catalog/product/writersreferencewith2016mlaupdate-eighthedition-hacker A Writer’s Reference with 2016 MLA Update, 8th ed.] (2016)
+* [https://www.mheducation.com/highered/product/M1259693554.html Writing Matters: A Handbook for Writing and Research (Comprehensive Edition with Exercises), 3rd ed.] (2018)
 
 I used [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball Writer/Designer, 2nd ed.] (2018) by Cheryl E. Ball, Jennifer Sheppard, and Kristin L. Arola as a model of a thorough coverage of Creative Commons and of attribution practices in texts that go beyond the word processor-based essays.
 
@@ -67,7 +69,7 @@ To ensure a thorough search of these handbooks and ''Writer/Designer'', I used d
 == Documentation and Citation ==
 Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
-Each of the seven handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in both MLA and APA formats. 
+Each of the seven handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in both MLA and APA formats.
 
 
 
@@ -142,7 +144,11 @@ Hacker, Diana, and Sommers, Nancy. (2016). [https://www.macmillanlearning.com/Ca
 
 Harris, Muriel, and Kunka, Jennifer L. (2018). [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide] (10th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134427959].
 
+Howard, Rebecca Moore. (2018). [https://www.mheducation.com/highered/product/M1259693554.html Writing Matters: A Handbook for Writing and Research (Comprehensive Edition with Exercises)] (3rd ed.). New York, NY: McGraw-Hill. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781259864216].
+
 Lunsford, Andrea A. (2017). [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford The St. Martin’s Handbook with 2016 MLA Update] (8th ed.). Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319149833].
+
+Maimon, Elaine, Peritz, Janice, and Yancey, Kathleen Blake. (2017). [https://www.mheducation.com/highered/product/M1259988627.html The McGraw-Hill Handbook, 3rd ed.] New York, NY: McGraw-Hill. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781260127034].
 
 Palmquist, Mike, and Wallraff, Barbara. (2018). [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook]. Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319159122].
 
