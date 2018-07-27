@@ -65,14 +65,9 @@ To ensure a thorough search of these handbooks and ''Writer/Designer'', I used d
 * audio
 
 == Documentation and Citation ==
-Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, as they demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
+Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
-I feel as if I am just bumbling around and saying things that everyone already knows. What is the point of saying these things that anyone who has ever looked at a few handbooks already knows. People know what is in handbooks. They may not have thought about what is NOT in these texts, but they know the basics. Argh.
-
-<img src=https://github.com/tengrrl/KOACSI/raw/master/images/Writer2Writer-usingimages.png />
-
-The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the authors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
-
+Each of the seven handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in both MLA and APA formats. 
 
 
 
@@ -84,6 +79,7 @@ Little discussion of attribution and credits in what Writer/Designer refers to a
 [http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png Screenshot from In Conversation]
 KOACSI/Writer2Writer-usingimages.png
 
+<img src=https://github.com/tengrrl/KOACSI/raw/master/images/Writer2Writer-usingimages.png />
 
 === Identification of Gaps in Current Resources ===
 
@@ -117,6 +113,8 @@ Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], fro
 ==== Discussion of How Revision Addresses Gaps ====
 
 == Conclusion ==
+The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
+
 
 === How More Thorough Coverage Addresses Writers’ Needs ===
 
