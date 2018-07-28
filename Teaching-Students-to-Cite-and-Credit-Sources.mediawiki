@@ -39,7 +39,7 @@ Dynamic Texts
 
 == Survey of Current Handbooks ==
 
-For this article, I reviewed seven first-year writing handbooks for the following information:
+For this article, I reviewed ten first-year writing handbooks for the following information:
 * details on citation and attribution of images, audio, and video sources
 * discussion of the composition of static and dynamic texts that go beyond the word processor-based essays
 * coverage of Creative Commons licenses and associated use and attribution practices
@@ -48,6 +48,7 @@ The review focused on these handbooks (in alphabetical order by title):
 
 * [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook, 4th ed.] (2017)
 * [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook] (2018)
+* [https://www.cengage.com/c/keys-for-writers-8e-raimes Keys for Writers, 8th ed.] (2018)
 * [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html The Little, Brown Handbook, 13th ed.] (2016)
 * [https://www.mheducation.com/highered/product/M1259988627.html The McGraw-Hill Handbook, 3rd ed.] (2017)
 * [https://www.pearson.com/us/higher-education/product/Harris-Prentice-Hall-Reference-Guide-10th-Edition/9780134427867.html Prentice Hall Reference Guide, 10th ed.] (2018)
@@ -61,15 +62,17 @@ I used [https://www.macmillanlearning.com/Catalog/product/writerdesigner-seconde
 To ensure a thorough search of these handbooks and ''Writer/Designer'', I used digital versions of the handbooks obtained through the [https://bookshelf.vitalsource.com/#/ Vital Source Bookshelf] and the related search tools on the Vital Source website. I also reviewed the sections on research, documentation, and plagiarism in all the handbooks and checked specifically for references to the following terms using the search tools:
 
 * Creative Commons
+* copyright
 * fair use
 * public domain
+* visuals
 * video
 * audio
 
 == Documentation and Citation ==
 Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
-Each of the seven handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in both MLA and APA formats.
+Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in both MLA and APA formats.
 
 
 
@@ -151,6 +154,8 @@ Lunsford, Andrea A. (2017). [https://www.macmillanlearning.com/Catalog/product/s
 Maimon, Elaine, Peritz, Janice, and Yancey, Kathleen Blake. (2017). [https://www.mheducation.com/highered/product/M1259988627.html The McGraw-Hill Handbook, 3rd ed.] New York, NY: McGraw-Hill. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781260127034].
 
 Palmquist, Mike, and Wallraff, Barbara. (2018). [https://www.macmillanlearning.com/Catalog/product/inconversation-firstedition-palmquist In Conversation: A Writer’s Guidebook]. Boston, MA: Bedford/St. Martin’s. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319159122].
+
+Raimes, Ann, and Miller-Cochran, Susan K. (2018). [https://www.cengage.com/c/keys-for-writers-8e-raimes Keys for Writers, 8th ed.] Boston, MA: Cengage Learning. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781337516006].
 
 Wysocki, Anne Frances, and Lynch, Dennis A. (2017). [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html The DK Handbook] (4th ed.).  Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134151021].
 
