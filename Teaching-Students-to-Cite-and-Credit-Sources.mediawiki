@@ -72,7 +72,7 @@ To ensure a thorough search of these handbooks and ''Writer/Designer'', I used d
 == Documentation and Citation ==
 Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
-Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in both MLA and APA formats.
+Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover CSE, with ''A Writer’s Reference'' as the exception.
 
 
 
