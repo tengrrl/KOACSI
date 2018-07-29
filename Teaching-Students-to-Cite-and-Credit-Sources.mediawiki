@@ -88,21 +88,21 @@ Further, only half of the handbooks mention Creative Commons, and seven of the t
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
 
-{| class="wikitable"
-|-
+{| class="wikitable" style="text-align: left;"
+|- style="border: 1px solid #dcdcdc;border-collapse: collapse;"
 ! scope="col"| Textbook
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
 ! scope="col"| Fair Use
 ! scope="col"| Public Domain
-|- style="text-align: left;"
+|-
 ! scope="row" | ''The DK Handbook''
 ! Copyright
 ! Creative Commons
 ! Fair Use
 ! Public Domain
 |-
-! scope="row"| ''In Conversation: A Writer’s Guidebook''
+! scope="row"| ''In Conversation''
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
 ! scope="col"| Fair Use
@@ -150,14 +150,13 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! scope="col"| Fair Use
 ! scope="col"| Public Domain
 |-
-! scope="row"| ''Writing Matters: A Handbook for Writing and Research''
+! scope="row"| ''Writing Matters''
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
 ! scope="col"| Fair Use
 ! scope="col"| Public Domain
 |-
 |}
-
 
 
 ==== Attribution and Credits ====
