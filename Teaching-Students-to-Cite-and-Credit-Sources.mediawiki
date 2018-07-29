@@ -98,43 +98,43 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 |-
 ! scope="row" | ''The DK Handbook''
 ! Copyright
-! Creative Commons
+!
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''In Conversation''
 ! Copyright
-! Creative Commons
+!
 ! Fair Use
 !
 |-
 ! scope="row"| ''Keys for Writers''
 ! Copyright
-! Creative Commons
+! *
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''The Little, Brown Handbook''
 ! Copyright
-! Creative Commons
+! *
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''The McGraw-Hill Handbook''
 ! Copyright
-! Creative Commons
+! *
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''Prentice Hall Reference Guide''
 ! Copyright
-! Creative Commons
+!
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''The St. Martin’s Handbook''
 ! Copyright
-! Creative Commons
+! *
 ! Fair Use
 !
 |-
@@ -146,15 +146,15 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 |-
 ! scope="row"| ''A Writer’s Reference''
 ! Copyright
-! Creative Commons
+!
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''Writing Matters''
 ! Copyright
-! Creative Commons
+! *
 ! Fair Use
-! 
+!
 |-
 |}
 
