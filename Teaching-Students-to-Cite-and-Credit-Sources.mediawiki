@@ -140,13 +140,13 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 |-
 ! scope="row"| ''The Writer's Handbook''
 ! Copyright
-! Creative Commons
+!
 ! Fair Use
 ! *
 |-
 ! scope="row"| ''A Writer’s Reference''
 ! Copyright
-!
+! 
 ! Fair Use
 ! *
 |-
