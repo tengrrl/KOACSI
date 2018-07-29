@@ -97,8 +97,8 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! scope="col"| Public Domain
 |-
 ! scope="row" | ''The DK Handbook''
-| Yes
-| ''No''
+| style="background-color: !green;" | Yes
+| No
 | Yes
 | Yes
 |-
