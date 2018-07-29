@@ -99,61 +99,61 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! scope="row" | ''The DK Handbook''
 ! *
 !
-! Fair Use
+! *
 ! *
 |-
 ! scope="row"| ''In Conversation''
 ! *
 !
-! Fair Use
+! *
 !
 |-
 ! scope="row"| ''Keys for Writers''
 ! *
 ! *
-! Fair Use
+! *
 ! *
 |-
 ! scope="row"| ''The Little, Brown Handbook''
 ! *
 ! *
-! Fair Use
+! *
 ! *
 |-
 ! scope="row"| ''The McGraw-Hill Handbook''
 ! *
 ! *
-! Fair Use
+! *
 ! *
 |-
 ! scope="row"| ''Prentice Hall Reference Guide''
 ! *
 !
-! Fair Use
+!
 ! *
 |-
 ! scope="row"| ''The St. Martin’s Handbook''
 ! *
 ! *
-! Fair Use
+! *
 !
 |-
 ! scope="row"| ''The Writer's Handbook''
 ! *
 !
-! Fair Use
 ! *
-|- 
+! *
+|-
 ! scope="row"| ''A Writer’s Reference''
 !
 !
-! Fair Use
+!
 ! *
 |-
 ! scope="row"| ''Writing Matters''
 ! *
 ! *
-! Fair Use
+! *
 !
 |-
 |}
