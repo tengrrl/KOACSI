@@ -153,9 +153,7 @@ The table below summarizes the references to four IP concepts in the ten handboo
 |-
 |}
 
-As shown in the table, nine of the handbooks mention copyright in reference to the research process. Half of the handbooks refer to Creative Commons. Eight of the handbooks mention fair use, and seven mention public domain.
-
-Only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''.
+As shown in the table, only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''. Nine of the handbooks mention copyright in reference to the research process. Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
 
 == Limitations in Handbook References to IP Concepts ==
 A number of these handbooks xxx copyright, often as part of a discussion of plagiarism.
