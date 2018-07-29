@@ -88,7 +88,7 @@ Further, only half of the handbooks mention Creative Commons, and seven of the t
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
 
-{| class="wikitable sortable" style="width: auto; text-align: left; font-size: smaller; table-layout: fixed;"
+{| class="wikitable sortable" style="width: auto; text-align: left;"
 |-
 ! scope="col"| Textbook
 ! scope="col"| Copyright
@@ -97,7 +97,7 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! scope="col"| Public Domain
 |-
 ! scope="row" | ''The DK Handbook''
-| Yes
+| style="background-color: green;" | Yes
 | No
 | Yes
 | Yes
