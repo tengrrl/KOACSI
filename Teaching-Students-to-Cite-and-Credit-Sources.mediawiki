@@ -96,7 +96,7 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! scope="col"| Fair Use
 ! scope="col"| Public Domain
 |-
-! scope="row"| ''The DK Handbook''
+! scope="row"| style="text-align:left;" | ''The DK Handbook''
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
 ! scope="col"| Fair Use
