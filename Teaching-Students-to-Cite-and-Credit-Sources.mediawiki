@@ -90,20 +90,72 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 
 {| class="wikitable"
 |-
-! scope="col"| Item
-! scope="col"| Quantity
-! scope="col"| Price
+! scope="col"| Textbook
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
 |-
-! scope="row"| Bread
-| 0.3 kg
-| $0.65
+! scope="row"| ''The DK Handbook''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
 |-
-! scope="row"| Butter
-| 0.125 kg
-| $1.25
+! scope="row"| ''In Conversation: A Writer’s Guidebook''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
 |-
-! scope="row" colspan="2"| Total
-| $1.90
+! scope="row"| ''Keys for Writers''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''The Little, Brown Handbook''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''The McGraw-Hill Handbook''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''Prentice Hall Reference Guide''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''The St. Martin’s Handbook''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''The Writer's Handbook''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''A Writer’s Reference''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
+! scope="row"| ''Writing Matters: A Handbook for Writing and Research''
+! scope="col"| Copyright
+! scope="col"| Creative Commons
+! scope="col"| Fair Use
+! scope="col"| Public Domain
+|-
 |}
 
 
