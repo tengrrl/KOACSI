@@ -88,8 +88,8 @@ Further, only half of the handbooks mention Creative Commons, and seven of the t
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
 
-{| class="wikitable" style="text-align: left;"
-|- style="border: 1px solid #dcdcdc;border-collapse: collapse;"
+{| class="wikitable"
+|-
 ! scope="col"| Textbook
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
@@ -100,61 +100,61 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! Copyright
 ! Creative Commons
 ! Fair Use
-! Public Domain
+! *
 |-
 ! scope="row"| ''In Conversation''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+!
 |-
 ! scope="row"| ''Keys for Writers''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! *
 |-
 ! scope="row"| ''The Little, Brown Handbook''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! *
 |-
 ! scope="row"| ''The McGraw-Hill Handbook''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! *
 |-
 ! scope="row"| ''Prentice Hall Reference Guide''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! *
 |-
 ! scope="row"| ''The St. Martin’s Handbook''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+!
 |-
 ! scope="row"| ''The Writer's Handbook''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! *
 |-
 ! scope="row"| ''A Writer’s Reference''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! *
 |-
 ! scope="row"| ''Writing Matters''
-! scope="col"| Copyright
-! scope="col"| Creative Commons
-! scope="col"| Fair Use
-! scope="col"| Public Domain
+! Copyright
+! Creative Commons
+! Fair Use
+! 
 |-
 |}
 
