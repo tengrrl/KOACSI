@@ -10,7 +10,7 @@ __TOC__
 == Introduction ==
 The first-year writing course is no longer the realm solely of basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects (like the visual argument poster on the left) that combine images and linguistic text to build their message. They may even compose digital projects that include audio recordings and video clips.
 [[File:windturbines.jpg|300px|thumb|left|Visual Argument on Wind Turbines]]
-The assets that students use in these compositions may be their own work, but that just as frequently include materials created by others. A student’s project may include video footage from a network news story, audio clips from an independent podcast, and photographs posted on Twitter by first-hand observers. As they create these projects, students must consider the ownership and copyright of the assets, which can be covered by a variety of intellectual property rights protections—from copyright to Creative Commons licenses. They may encounter resources that are in the public domain, that are royalty-free, and that are covered by commercial licenses (e.g., assets that you pay to use).
+The assets that students use in these compositions may be their own work, but that just as frequently include materials created by others. A student’s project may include video footage from a network news story, audio clips from an independent podcast, and photographs posted on Twitter by first-hand observers. As they create these projects, students must consider the ownership and copyright of the assets, which can be covered by a variety of intellectual property (IP) rights protections—from copyright to Creative Commons licenses. They may encounter resources that are in the public domain, that are royalty-free, and that are covered by commercial licenses (e.g., assets that you pay to use).
 
 In this article, I survey current first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so that students more fully understand how intellectual property rights as they cite and credit sources.
 
@@ -80,12 +80,8 @@ Where these ten handbooks differ is in the ways that they address research proje
 
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
-== Handbook References to Intellectual Property Concepts ==
-A number of these handbooks xxx copyright, often as part of a discussion of plagiarism.
-
-While they discuss fair use, some gloss over how the concept applies in different situations.
-
-Further, only half of the handbooks mention Creative Commons, and seven of the ten handbooks mention public domain. For both topics however, the handbooks that do mention the concepts typically do not discuss the concepts fully or explain how they relate to copyright. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388).
+== Handbook References to IP Concepts ==
+The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook, but does not reflect how deeply the handbook discusses the concept.
 
 {| class="wikitable"
 |-
@@ -156,6 +152,15 @@ Further, only half of the handbooks mention Creative Commons, and seven of the t
 | No
 |-
 |}
+
+== Limitations in Handbook References to IP Concepts ==
+A number of these handbooks xxx copyright, often as part of a discussion of plagiarism.
+
+While they discuss fair use, some gloss over how the concept applies in different situations.
+
+Further, only half of the handbooks mention Creative Commons, and seven of the ten handbooks mention public domain. For both topics however, the handbooks that do mention the concepts typically do not discuss the concepts fully or explain how they relate to copyright. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388).
+
+fair use in WH is hardly worth counting
 
 
 ==== Attribution and Credits ====
