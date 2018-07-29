@@ -81,7 +81,7 @@ Where these ten handbooks differ is in the ways that they address research proje
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
 == Handbook References to IP Concepts ==
-The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook, but does not reflect how deeply the handbook discusses the concept.
+The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
 {| class="wikitable"
 |-
@@ -152,6 +152,10 @@ The table below summarizes the references to four IP concepts in the ten handboo
 | No
 |-
 |}
+
+As shown in the table, nine of the handbooks mention copyright in reference to the research process. Half of the handbooks refer to Creative Commons. Eight of the handbooks mention fair use, and seven mention public domain.
+
+Only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''.
 
 == Limitations in Handbook References to IP Concepts ==
 A number of these handbooks xxx copyright, often as part of a discussion of plagiarism.
