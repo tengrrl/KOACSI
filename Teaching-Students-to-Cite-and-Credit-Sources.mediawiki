@@ -77,9 +77,6 @@ Each of the ten handbooks include information on how to write in-text citations 
 
 Where these ten handbooks differ is in the ways that they address research projects that include static images, animations, audio recordings, and videos. Those that discuss these resources, typically mention the importance of citing these sources properly.
 
-
-Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
-
 == Handbook References to IP Concepts ==
 The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
@@ -163,6 +160,10 @@ While they discuss fair use, some gloss over how the concept applies in differen
 Further, only half of the handbooks mention Creative Commons, and seven of the ten handbooks mention public domain. For both topics however, the handbooks that do mention the concepts typically do not discuss the concepts fully or explain how they relate to copyright. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388).
 
 fair use in WH is hardly worth counting
+
+
+
+Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
 
 ==== Attribution and Credits ====
