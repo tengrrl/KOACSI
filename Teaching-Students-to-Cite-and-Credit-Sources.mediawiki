@@ -130,7 +130,7 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! Yes
 ! No
 ! No
-| Yes
+! Yes
 |-
 ! scope="row"| ''The St. Martin’s Handbook''
 ! Yes
