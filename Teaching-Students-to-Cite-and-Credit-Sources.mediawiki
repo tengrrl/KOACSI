@@ -18,6 +18,7 @@ In this article, I survey current first-year writing handbooks for instruction o
 For the purposes of this article, we need some definitions; but yo, bitches, imma wait until i finish the other bits to figure out what those words are that need to be defined.
 
 When works feature a Creative Commons license, the originator of the work has provided specific guidelines on how that work can be used by others, without violation of copyright or other intellectual property rights.
+fair use and public domain
 
 Multimodal: Following the New London Group
 
@@ -70,9 +71,13 @@ To ensure a thorough search of these handbooks and ''Writer/Designer'', I used d
 * audio
 
 == Documentation and Citation ==
-Most of the handbooks adopted for first-year writing courses focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
+Most handbooks adopted for first-year writing courses, including the ten reviewed for this article, focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
-Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover CSE, with ''A Writer’s Reference'' as the exception.
+Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
+
+Where these ten handbooks differ is in the ways that they address research projects that include static images, animations, audio recordings, and videos.
+
+
 
 
 
