@@ -97,64 +97,64 @@ Frustratingly, their coverage of citing these sources relies on adding research-
 ! scope="col"| Public Domain
 |-
 ! scope="row" | ''The DK Handbook''
-! *
-!
-! *
-! *
+! Yes
+! No
+! Yes
+! Yes
 |-
 ! scope="row"| ''In Conversation''
-! *
-!
-! *
-!
+! Yes
+! No
+! Yes
+! No
 |-
 ! scope="row"| ''Keys for Writers''
-! *
-! *
-! *
-! *
+! Yes
+! Yes
+! Yes
+! Yes
 |-
 ! scope="row"| ''The Little, Brown Handbook''
-! *
-! *
-! *
-! *
+! Yes
+! Yes
+! Yes
+! Yes
 |-
 ! scope="row"| ''The McGraw-Hill Handbook''
-! *
-! *
-! *
-! *
+! Yes
+! Yes
+! Yes
+! Yes
 |-
 ! scope="row"| ''Prentice Hall Reference Guide''
-! *
-!
-!
-! *
+! Yes
+! No
+! No
+| Yes
 |-
 ! scope="row"| ''The St. Martin’s Handbook''
-! *
-! *
-! *
-!
+! Yes
+! Yes
+! Yes
+! No
 |-
 ! scope="row"| ''The Writer's Handbook''
-! *
-!
-! *
-! *
+! Yes
+! No
+! Yes
+! Yes
 |-
 ! scope="row"| ''A Writer’s Reference''
-!
-!
-!
-! *
+! No
+! No
+! No
+! Yes
 |-
 ! scope="row"| ''Writing Matters''
-! *
-! *
-! *
-!
+! Yes
+! Yes
+! Yes
+! No
 |-
 |}
 
