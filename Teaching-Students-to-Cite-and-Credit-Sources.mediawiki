@@ -88,7 +88,23 @@ Further, only half of the handbooks mention Creative Commons, and seven of the t
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
 
-
+{| class="wikitable"
+|-
+! scope="col"| Item
+! scope="col"| Quantity
+! scope="col"| Price
+|-
+! scope="row"| Bread
+| 0.3 kg
+| $0.65
+|-
+! scope="row"| Butter
+| 0.125 kg
+| $1.25
+|-
+! scope="row" colspan="2"| Total
+| $1.90
+|}
 
 
 
