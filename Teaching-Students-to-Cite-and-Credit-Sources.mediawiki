@@ -129,7 +129,7 @@ The table below shows the IP concepts covered in the ten handbooks. A “Yes” 
 | Yes
 |-
 ! scope="row"| ''A Writer’s Reference''
-| No
+| Yes
 | No
 | No
 | Yes
@@ -144,7 +144,22 @@ The table below shows the IP concepts covered in the ten handbooks. A “Yes” 
 
 As shown in the table, only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''.
 
-Nine of the handbooks mention copyright in reference to the research process, typically as part of a discussion of plagiarism.
+All ten handbooks mention copyright in relation to the research process. ''The McGraw-Hill Handbook'' includes a thorough introduction to the concept as it relates to plagiarism:
+<blockquote>
+Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
+</blockquote>
+Following this overview, ''McGraw-Hill'' explains the concepts of copyright, fair use, and intellectual property in more detail (20a1–3) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
+
+
+In some of the textbooks, reference to copyright is simple and direct.
+
+
+
+Other handbooks provide thorough explanation of the concept.
+
+''The Little, Brown Handbook''  -- very complete
+Obtaining permission when publishing your work:
+“Visuals, audio, and video: Seek permission to use any copyrighted media from either print or online sources: photographs, charts, maps, cartoons, diagrams, paintings, audio files, video files, and so on.” 44d p. 622
 
 
 
