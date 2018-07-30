@@ -142,8 +142,13 @@ The table below shows the IP concepts covered in the ten handbooks. A “Yes” 
 |-
 |}
 
+Some of the handbooks provide only superficial references to these concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
 
-All ten handbooks mention copyright in relation to the research process. ''The McGraw-Hill Handbook'' includes a thorough introduction to the concept as it relates to plagiarism:
+''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using ''The Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
+
+
+
+''The McGraw-Hill Handbook'' includes a thorough introduction to the concept as it relates to plagiarism:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
 </blockquote>
