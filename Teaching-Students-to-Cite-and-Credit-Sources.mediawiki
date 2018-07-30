@@ -32,7 +32,7 @@ The review focused on these handbooks (in alphabetical order by title):
 * [https://www.macmillanlearning.com/Catalog/product/stmartinshandbookwith2016mlaupdate-eighthedition-lunsford ''The St. Martin’s Handbook'' with 2016 MLA Update, 8th ed.] (2017)
 * [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html ''The Writer's Handbook'', 6th ed.] (2018)
 * [https://www.macmillanlearning.com/Catalog/product/writersreferencewith2016mlaupdate-eighthedition-hacker ''A Writer’s Reference'' with 2016 MLA Update, 8th ed.] (2016)
-* [https://www.mheducation.com/highered/product/M1259693554.html ''Writing Matters: A Handbook for Writing and Research'' (Comprehensive Edition with Exercises), 3rd ed.] (2018)
+* [https://www.mheducation.com/highered/product/M1259693554.html ''Writing Matters: A Handbook for Writing and Research'', 3rd ed.] (2018)
 
 I used [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball ''Writer/Designer'', 2nd ed.] (2018) by Cheryl E. Ball, Jennifer Sheppard, and Kristin L. Arola as a model of a thorough coverage of Creative Commons and of attribution practices in texts that go beyond the word processor-based essays.
 
@@ -130,10 +130,13 @@ The table below summarizes the references to four IP concepts in the ten handboo
 
 As shown in the table, only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''.
 
-Nine of the handbooks mention copyright in reference to the research process. Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
+Nine of the handbooks mention copyright in reference to the research process, typically as part of a discussion of plagiarism. 
+
+
+
+Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
 
 ==== Limitations in Handbook References to IP Concepts ====
-A number of these handbooks xxx copyright, often as part of a discussion of plagiarism.
 
 While they discuss fair use, some gloss over how the concept applies in different situations.
 
