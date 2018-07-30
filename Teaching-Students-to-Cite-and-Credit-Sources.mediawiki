@@ -19,7 +19,7 @@ In this article, I survey current first-year writing handbooks for instruction o
 For this article, I reviewed ten first-year writing handbooks for the following information:
 * documentation of images, audio, and video sources
 * coverage of IP rights
-* attribution in static and dynamic texts that go beyond word processor-based essays
+* attribution and credits in static and dynamic texts that go beyond word processor-based essays
 
 The review focused on these handbooks (in alphabetical order by title):
 
@@ -54,6 +54,8 @@ Each of the ten handbooks include information on how to write in-text citations 
 Where these ten handbooks differ is in the ways that they address research projects that include static images, animations, audio recordings, and videos. Those that discuss these resources, typically mention the importance of citing these sources properly.
 
 === Coverage of IP Rights ===
+Why these 4?
+
 The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
 {| class="wikitable"
@@ -137,14 +139,12 @@ While they discuss fair use, some gloss over how the concept applies in differen
 
 Further, only half of the handbooks mention Creative Commons, and seven of the ten handbooks mention public domain. For both topics however, the handbooks that do mention the concepts typically do not discuss the concepts fully or explain how they relate to copyright. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388).
 
-fair use in WH is hardly worth counting
+fair use in WH is hardly worth counting: “́The Chicago Manual also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319).
 
 
 
-Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
-=== Attribution in Static and Dynamic Texts that Go beyond Word Processor-Based Essays ===
-==== Attribution and Credits ====
+=== Attribution and Credits in Static and Dynamic Texts ===
 
 Little discussion of attribution and credits in what ''Writer/Designer'' refers to as "more overtly multimodal" texts. (p. 8)
 
@@ -156,6 +156,11 @@ KOACSI/Writer2Writer-usingimages.png
 === Identification of Gaps in Current Resources ===
 
 Guessing: Little to no support for how to provide attribution for sources used in heavily-multimodal composing. Privileging of linguistic text sources and text-focused systems of attribution.
+
+
+Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. These solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
+
+
 
 == Best Practices ==
 
