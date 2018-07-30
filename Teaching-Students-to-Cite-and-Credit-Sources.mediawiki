@@ -68,7 +68,7 @@ Following the advice from this list, a student can easily surmise that no docume
 === Coverage of IP Rights ===
 In their discussion of the research and composing processes, these handbooks refer to IP rights as part of their explanation of why documentation is necessary. In particular, the textbooks focus on the ownership of resources that students may incorporate in their projects, addressing how to find sources they can use and how to determine when permission is required to use those sources.
 
-In this context, students need details on how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. While all the handbooks all cover some aspects of IP right, there are wide differences in which of the four concepts are addressed and how those concepts are explored.
+In this context, students need details on how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. All ten handbooks cover some aspects of IP rights, but only ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook'' mention all four IP concepts (copyright, Creative Commons, fair use, and public domain).
 
 The table below shows the IP concepts covered in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
@@ -142,7 +142,6 @@ The table below shows the IP concepts covered in the ten handbooks. A “Yes” 
 |-
 |}
 
-As shown in the table, only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''.
 
 All ten handbooks mention copyright in relation to the research process. ''The McGraw-Hill Handbook'' includes a thorough introduction to the concept as it relates to plagiarism:
 <blockquote>
@@ -154,6 +153,7 @@ Following this overview, ''McGraw-Hill'' explains the concepts of copyright, fai
 In some of the textbooks, reference to copyright is simple and direct.
 
 
+ there are wide differences in which of the four concepts are addressed and how those concepts are explored.
 
 Other handbooks provide thorough explanation of the concept.
 
