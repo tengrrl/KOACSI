@@ -51,10 +51,24 @@ Most handbooks adopted for first-year writing courses, including the ten reviewe
 
 Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
 
-Where these ten handbooks differ is in the ways that they address research projects that include static images, animations, audio recordings, and videos. Those that discuss these resources, typically mention the importance of citing these sources properly.
+Where these ten handbooks differ is in the ways that they address research projects that include (rather than simply refer to, quote, paraphrase, or summarize) static images, animations, audio recordings, and videos. Those that discuss these resources, emphasize the importance of citing these sources properly. ''Keys for Writers'' explains, “As a general rule, whichever style of documentation you use, you need to identify and label a visual source, such as a figure or a table, where you include it in your paper. Be sure to give credit to the original source of the image” (7e, p. 162).
+
+In its discussion of website projects, the ''McGraw-Hill Handbook'' states, “Always cite material that you do not generate yourself,” and outlines these specific suggestions: “If your Web text will be public, request permission for use of material not in the public domain unless the site says permission is not needed. Check for a credit in the source, and if the contact information of the creator is not apparent, e-mail the sponsor of the site and ask for it”  (14c-2, p. 251).
+
+ ''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining that writers should include these resources “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
+
+There are exceptions to the coverage of documentation of images, audio, and video sources however. ''The Prentice Hall Reference Guide'', for example, outlines the following “Information That Requires Documentation,” focusing primarily on “words”:
+<blockquote>
+* '''Words taken directly from a source.''' If you quote a source, enclose the quotation in quotation marks and include an in-text citation.
+* '''Specific ideas, findings, conclusions, and arguments taken from a source, even if you put them in your own words.''' If you put someone else’s ideas in your own words, you are paraphrasing his or her information. If the passage from the source is long and you shorten it and put it in your own words, you are summarizing his or her ideas. In both cases, an in-text citation is needed.
+* '''Statistics, figures, and the results of a study.''' Unless you have conducted your own study and created your own set of statistics, you have probably used a source to get this data. Cite the source of the data. (68b, p. 386)
+</blockquote>
+Following the advice from this list, a student can easily surmise that no documentation is needed for borrowed photographs, drawings, video clips, and other resources that go beyond words on a printable page.
 
 === Coverage of IP Rights ===
 Why these 4?
+
+<s>Because it rarely applies to images, audio, and video sources, I did not review the handbooks for coverage of the concept of common knowledge.</s>
 
 The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
@@ -130,7 +144,7 @@ The table below summarizes the references to four IP concepts in the ten handboo
 
 As shown in the table, only three of the handbooks mention all four concepts: ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook''.
 
-Nine of the handbooks mention copyright in reference to the research process, typically as part of a discussion of plagiarism. 
+Nine of the handbooks mention copyright in reference to the research process, typically as part of a discussion of plagiarism.
 
 
 
