@@ -12,14 +12,14 @@ The first-year writing course is no longer the realm solely of basic word proces
 [[File:windturbines.jpg|300px|thumb|left|Visual Argument on Wind Turbines]]
 The assets that students use in these compositions may be their own work, but they just as frequently include materials created by others. A student’s research project may include video footage from a network news story, audio clips from an independent podcast, and photographs posted on Twitter by first-hand observers. As they create these projects, students must consider the ownership and copyright of the assets, which can be covered by a variety of intellectual property (IP) rights protections—from copyright to Creative Commons licenses. They may encounter resources that are in the public domain, that are royalty-free, and that are covered by commercial licenses (e.g., assets that you pay to use).
 
-In this article, I survey current first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so that students more fully understand how intellectual property rights as they cite and credit sources.
+In this article, I survey current first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so that students more fully understand how IP rights as they cite and credit sources.
 
 == Survey of Current Handbooks ==
 
 For this article, I reviewed ten first-year writing handbooks for the following information:
-* citation and attribution of images, audio, and video sources
-* coverage of Creative Commons licenses and associated use and attribution practices
-* discussion of the composition of static and dynamic texts that go beyond the word processor-based essays
+* documentation of images, audio, and video sources
+* coverage of IP rights
+* attribution in static and dynamic texts that go beyond word processor-based essays
 
 The review focused on these handbooks (in alphabetical order by title):
 
@@ -46,14 +46,14 @@ To ensure a thorough search of these handbooks and ''Writer/Designer'', I used d
 * video
 * audio
 
-== Citation and Attribution of Images, Audio, and Video Sources ==
+=== Documentation of Images, Audio, and Video Sources ===
 Most handbooks adopted for first-year writing courses, including the ten reviewed for this article, focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
 Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
 
 Where these ten handbooks differ is in the ways that they address research projects that include static images, animations, audio recordings, and videos. Those that discuss these resources, typically mention the importance of citing these sources properly.
 
-== Handbook References to IP Concepts ==
+=== Coverage of IP Rights ===
 The table below summarizes the references to four IP concepts in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
 {| class="wikitable"
@@ -130,7 +130,7 @@ As shown in the table, only three of the handbooks mention all four concepts: ''
 
 Nine of the handbooks mention copyright in reference to the research process. Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
 
-== Limitations in Handbook References to IP Concepts ==
+==== Limitations in Handbook References to IP Concepts ====
 A number of these handbooks xxx copyright, often as part of a discussion of plagiarism.
 
 While they discuss fair use, some gloss over how the concept applies in different situations.
@@ -143,10 +143,10 @@ fair use in WH is hardly worth counting
 
 Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Beyond clunky, in fact, these solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
 
-
+=== Attribution in Static and Dynamic Texts that Go beyond Word Processor-Based Essays ===
 ==== Attribution and Credits ====
 
-Little discussion of attribution and credits in what Writer/Designer refers to as "more overtly multimodal" texts. (p. 8)
+Little discussion of attribution and credits in what ''Writer/Designer'' refers to as "more overtly multimodal" texts. (p. 8)
 
 [http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png Screenshot from In Conversation]
 KOACSI/Writer2Writer-usingimages.png
