@@ -192,6 +192,24 @@ KOACSI/Writer2Writer-usingimages.png
 
 === Identification of Gaps in Current Resources ===
 
+In some cases, the information is misleading. In its chapter “Compose in Online Genres,” ''The Writer’s Handbook'' includes a section on creating podcasts that implicitly refers to copyright in this step of its step-by-step “process for creating a podcast”:
+<blockquote>
+'''Know the law'''
+If you use music created by someone else, you likely will have to pay for the right to broadcast that music. If someone agrees to be your guest, you have the right to broadcast that person’s voice. (16b, p 154)
+
+</blockquote>
+Granted, the passage does allow for other options by stating “you ''likely'' will” (emphasis mine); however, the statement glosses over the possibility that the “music created by someone else” may be in the public domain, copyright-protected but royalty-free, or available for free use under a Creative Commons license. While the admonition to “know the law” is important, failing to consider all the situations the student podcaster may encounter creates a significant gap in the coverage.
+
+Further, the chapter does not include the “know the law” step in the other sections of the chapter. The section on creating web pages states only, “Provide links to sources” (16a, p. 152), with no details on the permissions to consider when incorporating images, audio, or video that the student did not create.
+
+The section on creating videos specifically suggests that the composer may incorporate the work of others in the ''Plan your content'' step: “Will all the video be original? Will you incorporate other video such as YouTube clips? Will you include still images? Maps or graphs? Music? Voiceover?” (16c, p. 155). Despite this specific reference to borrowed assets, the step-by-step process for videos does not mention the significance of knowing the related IP rights and laws nor citing borrowed sources.
+
+
+
+
+
+
+
 Guessing: Little to no support for how to provide attribution for sources used in heavily-multimodal composing. Privileging of linguistic text sources and text-focused systems of attribution.
 
 
