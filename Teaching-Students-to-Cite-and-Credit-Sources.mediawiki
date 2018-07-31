@@ -160,17 +160,6 @@ By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the h
 
 ''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
 
-==== Limitations in Handbook References to IP Concepts ====
-
-While they discuss fair use, some gloss over how the concept applies in different situations.
-
-Further, only half of the handbooks mention Creative Commons, and seven of the ten handbooks mention public domain. For both topics however, the handbooks that do mention the concepts typically do not discuss the concepts fully or explain how they relate to copyright. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388).
-
-fair use in WH is hardly worth counting: “́The Chicago Manual also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319).
-
-
-
-
 === Attribution and Credits in Static and Dynamic Texts ===
 
 Little discussion of attribution and credits in what ''Writer/Designer'' refers to as "more overtly multimodal" texts. (p. 8)
