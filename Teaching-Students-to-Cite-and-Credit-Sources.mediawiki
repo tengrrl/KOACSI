@@ -165,7 +165,9 @@ By comparison to the full details in the ''McGraw-Hill Handbook'' and the ''Litt
 
 === Attribution and Credits in Static and Dynamic Texts ===
 
-Little discussion of attribution and credits in what ''Writer/Designer'' refers to as "more overtly multimodal" texts. (p. 8)
+=== Attribution and Credits in Static and Dynamic Texts ===
+Despite the fact that these ten handbooks consider documentation for images, audio, and video and cover at least some aspects of IP rights, they all fall short in their explanation of how to cite borrowed assets in static and dynamic texts that do not fit the form of word processor-style documents and webpages.
+---
 
 [http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png Screenshot from In Conversation]
 KOACSI/Writer2Writer-usingimages.png
