@@ -141,6 +141,7 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 |-
 |}
 
+
 ''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts are introduced in the section on plagiarism:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
@@ -156,7 +157,11 @@ Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intel
 </blockquote>
 While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
 
-By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the handbooks include only superficial references to the IP concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
+Complete coverage of all four IP concepts is also included in the ''Little, Brown Handbook'' section on “Obtaining Permission When Publishing Your Work.” The section provides a general explanation of fair use: “The legal convention of fair use allows an author to use a small portion of copyrighted material without obtaining the copyright holder's permission, as long as the author acknowledges the source” (44d, p. 622). Specific guidelines follow for using text borrowed from print or online sources, using borrowed images, audio, and video, and using borrowed assets that are not copyrighted and for which copyright is not claimed.
+
+==== Limitations in Handbook References to IP Concepts ====
+
+By comparison to the full details in the ''McGraw-Hill Handbook'' and the ''Little, Brown Handbook,'' some of the handbooks include only superficial references to the IP concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
 
 ''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
 
