@@ -51,26 +51,25 @@ Most handbooks adopted for first-year writing courses, including the ten reviewe
 
 Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
 
-Where these ten handbooks differ is in the ways that they address research projects that include (rather than simply refer to, quote, paraphrase, or summarize) static images, animations, audio recordings, and videos. Those that discuss these resources, emphasize the importance of citing these sources properly. ''Keys for Writers'' explains, “As a general rule, whichever style of documentation you use, you need to identify and label a visual source, such as a figure or a table, where you include it in your paper. Be sure to give credit to the original source of the image” (7e, p. 162).
+Where these ten handbooks differ is in the ways that they address research projects that include (rather than simply refer to, quote, paraphrase, or summarize) static images, audio recordings, and videos. Those that discuss these resources, emphasize the importance of citing the sources properly. ''Keys for Writers'' explains, “As a general rule, whichever style of documentation you use, you need to identify and label a visual source, such as a figure or a table, where you include it in your paper. Be sure to give credit to the original source of the image” (7e, p. 162).
 
 In its discussion of website projects, the ''McGraw-Hill Handbook'' states, “Always cite material that you do not generate yourself,” and outlines these specific suggestions: “If your Web text will be public, request permission for use of material not in the public domain unless the site says permission is not needed. Check for a credit in the source, and if the contact information of the creator is not apparent, e-mail the sponsor of the site and ask for it”  (14c-2, p. 251).
 
-''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining that writers should include these resources “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
+ ''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
 
 There are exceptions to the coverage of documentation of images, audio, and video sources however. ''The Prentice Hall Reference Guide'', for example, outlines the following “Information That Requires Documentation,” focusing primarily on “words”:
 <blockquote>
 * '''Words taken directly from a source.''' If you quote a source, enclose the quotation in quotation marks and include an in-text citation.
 * '''Specific ideas, findings, conclusions, and arguments taken from a source, even if you put them in your own words.''' If you put someone else’s ideas in your own words, you are paraphrasing his or her information. If the passage from the source is long and you shorten it and put it in your own words, you are summarizing his or her ideas. In both cases, an in-text citation is needed.
-* '''Statistics, figures, and the results of a study.''' Unless you have conducted your own study and created your own set of statistics, you have probably used a source to get this data. Cite the source of the data. (68b, p. 386)
+* '''Statistics, figures, and the results of a study.''' Unless you have conducted your own study and created your own set of statistics, you have probably used a source to get this data. Cite the source of the data. (emphasis original, 68b, p. 386)
 </blockquote>
-Following the advice from this list, a student can easily surmise that no documentation is needed for borrowed photographs, drawings, video clips, and other resources that go beyond words on a printable page.
-
+Following the advice from this list, a student may surmise that no documentation is needed for borrowed photographs, drawings, video clips, and other resources that go beyond words on a printable page.
 === Coverage of IP Rights ===
 In their discussion of the research and composing processes, these handbooks refer to IP rights as part of their explanation of why documentation is necessary. In particular, the textbooks focus on the ownership of resources that students may incorporate in their projects, addressing how to find sources they can use and how to determine when permission is required to use those sources.
 
-In this context, students need details on how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. All ten handbooks cover some aspects of IP rights, but only ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook'' mention all four IP concepts (copyright, Creative Commons, fair use, and public domain).
+In this context, students need details on how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. All ten handbooks mention copyright and cover some aspects of IP rights, but only ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook'' mention all four IP concepts (copyright, Creative Commons, fair use, and public domain).
 
-The table below shows the IP concepts covered in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
+The table below shows which of the IP concepts are covered in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
 {| class="wikitable"
 |-
@@ -142,29 +141,38 @@ The table below shows the IP concepts covered in the ten handbooks. A “Yes” 
 |-
 |}
 
-Some of the handbooks provide only superficial references to these concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
-
-''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using ''The Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
-
-
-
-''The McGraw-Hill Handbook'' includes a thorough introduction to the concept as it relates to plagiarism:
+''The McGraw-Hill Handbook, The Little, Brown Handbook, Keys for Writers,'' and ''Writing Matters'' include thorough explanations of IP concepts. ''The McGraw-Hill Handbook'' introduces IP rights in the section on plagiarism:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
 </blockquote>
 Following this overview, ''McGraw-Hill'' explains the concepts of copyright, fair use, and intellectual property in more detail (20a1–3) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
 
 
-In some of the textbooks, reference to copyright is simple and direct.
 
 
- there are wide differences in which of the four concepts are addressed and how those concepts are explored.
 
-Other handbooks provide thorough explanation of the concept.
+By comparison to the full details in
 
-''The Little, Brown Handbook''  -- very complete
-Obtaining permission when publishing your work:
-“Visuals, audio, and video: Seek permission to use any copyrighted media from either print or online sources: photographs, charts, maps, cartoons, diagrams, paintings, audio files, video files, and so on.” 44d p. 622
+While , not whether the depth of its coverage is adequate.
+
+Some of the handbooks provide only superficial references to these concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
+
+''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
+
+
+
+
+
+
+
+
+
+The discussion of copyright is expressed as a warning in some texts. ''In Conversation'' embeds a copyright warning in their section on how to “Use Images, Audio, Video, and Animations”:
+<blockquote>
+Including images in your print document and images, audio, video, or animation files in your electronic document can enhance its effectiveness. ''Use caution, however, when taking images and audio, video, or animations from other sources. Simply copying a photograph into your document might violate copyright rules'' (p. 149). The same is true of audio, video, and animation files. (emphasis mine, 9.6, p. 148)
+</blockquote>
+
+
 
 
 
