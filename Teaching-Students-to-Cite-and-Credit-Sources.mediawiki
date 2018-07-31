@@ -55,7 +55,7 @@ Where these ten handbooks differ is in the ways that they address research proje
 
 In its discussion of website projects, the ''McGraw-Hill Handbook'' states, “Always cite material that you do not generate yourself,” and outlines these specific suggestions: “If your Web text will be public, request permission for use of material not in the public domain unless the site says permission is not needed. Check for a credit in the source, and if the contact information of the creator is not apparent, e-mail the sponsor of the site and ask for it”  (14c-2, p. 251).
 
- ''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
+''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
 
 There are exceptions to the coverage of documentation of images, audio, and video sources however. ''The Prentice Hall Reference Guide'', for example, outlines the following “Information That Requires Documentation,” focusing primarily on “words”:
 <blockquote>
