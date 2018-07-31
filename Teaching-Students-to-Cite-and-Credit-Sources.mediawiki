@@ -55,7 +55,7 @@ Where these ten handbooks differ is in the ways that they address research proje
 
 In its discussion of website projects, the ''McGraw-Hill Handbook'' states, “Always cite material that you do not generate yourself,” and outlines these specific suggestions: “If your Web text will be public, request permission for use of material not in the public domain unless the site says permission is not needed. Check for a credit in the source, and if the contact information of the creator is not apparent, e-mail the sponsor of the site and ask for it”  (14c-2, p. 251).
 
-''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
+ ''The McGraw-Hill Handbook'' also addresses visual sources that are included in word processor-style documents, explaining “When using an image from another source, be sure to cite it correctly. If the image will appear on a public Web site, ask the copyright holder for permission.” (17b-3, p. 298).
 
 There are exceptions to the coverage of documentation of images, audio, and video sources however. ''The Prentice Hall Reference Guide'', for example, outlines the following “Information That Requires Documentation,” focusing primarily on “words”:
 <blockquote>
@@ -141,7 +141,6 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 |-
 |}
 
-
 ''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts are introduced in the section on plagiarism:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
@@ -158,7 +157,6 @@ Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intel
 While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
 
 Complete coverage of all four IP concepts is also included in the ''Little, Brown Handbook'' section on “Obtaining Permission When Publishing Your Work.” The section provides a general explanation of fair use: “The legal convention of fair use allows an author to use a small portion of copyrighted material without obtaining the copyright holder's permission, as long as the author acknowledges the source” (44d, p. 622). Specific guidelines follow for using text borrowed from print or online sources, using borrowed images, audio, and video, and using borrowed assets that are not copyrighted and for which copyright is not claimed.
-
 ==== Limitations in Handbook References to IP Concepts ====
 
 By comparison to the full details in the ''McGraw-Hill Handbook'' and the ''Little, Brown Handbook,'' some of the handbooks include only superficial references to the IP concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
@@ -188,6 +186,9 @@ Further, the chapter does not include the “know the law” step in the other s
 
 The section on creating videos specifically suggests that the composer may incorporate the work of others in the ''Plan your content'' step: “Will all the video be original? Will you incorporate other video such as YouTube clips? Will you include still images? Maps or graphs? Music? Voiceover?” (16c, p. 155). Despite this specific reference to borrowed assets, the step-by-step process for videos does not mention the significance of knowing the related IP rights and laws nor citing borrowed sources.
 
+There are similar gaps in the series of checklists included in the “Genre Design Gallery” chapter of  ''In Conversation.''
+
+includes a series of checklists that cover creating multimodal essays, multimedia presentations, websites, infographics, and academic essays as well as paraphrasing and summarizing.
 
 
 
