@@ -141,11 +141,21 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 |-
 |}
 
-''The McGraw-Hill Handbook, The Little, Brown Handbook, Keys for Writers,'' and ''Writing Matters'' include thorough explanations of IP concepts. ''The McGraw-Hill Handbook'' introduces IP rights in the section on plagiarism:
+''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts are introduced in the section on plagiarism:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
 </blockquote>
-Following this overview, ''McGraw-Hill'' explains the concepts of copyright, fair use, and intellectual property in more detail (20a1–3) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
+Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intellectual property in more detail (20a1–3) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
+
+''McGraw-Hill’s'' also addresses the use of copyrighted images, audio, and video, outlining the four questions that are used to determine fair use:
+<blockquote>
+* '''What is the purpose of the use?''' Educational, nonprofit, and personal uses are more likely to be considered fair than commercial use.
+* '''What is the nature of the work being used?''' In most cases, imaginative and unpublished materials can be used only if you have the permission of the copyright holder.
+* '''What effect would this use have on the market for the original?''' The use of a work is usually considered unfair if it would hurt sales of the original.
+* '''How much of the copyrighted work is being used?''' The use of a small portion of a text is more likely to be considered fair than copying a whole work. (20c, p. 325, 327)
+</blockquote>
+While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
+
 
 
 
