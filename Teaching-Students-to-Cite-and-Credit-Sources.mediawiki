@@ -156,18 +156,6 @@ Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intel
 </blockquote>
 While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
 
-Complete coverage of all four IP concepts is also included in the ''Little, Brown Handbook'' section on “Obtaining Permission When Publishing Your Work.” The section provides a general explanation of fair use: “The legal convention of fair use allows an author to use a small portion of copyrighted material without obtaining the copyright holder's permission, as long as the author acknowledges the source” (44d, p. 622). Specific guidelines follow for using text borrowed from print or online sources, using borrowed images, audio, and video, and using borrowed assets that are not copyrighted and for which copyright is not claimed.
-
-''The St. Martin’s Handbook, the Little, Brown Handbook, the McGraw-Hill Handbook,'' and ''Keys for Writers'' refer to Creative Commons in advice on finding assets for projects. In its section on in “Creating audio and video projects,” the ''The St. Martin’s Handbook'' asks readers:
-<blockquote>
-Will you need sound or images from other sources? If so, where can you acquire what you need? If you use the work of others in a project that will be posted for the public, you may need to seek permission from the rightsholders (see Chapter 14). However, critiquing or analyzing someone else’s work in your own project is often considered a “fair use” that does not require permission. You may also want to look for images and sounds distributed under a Creative Commons license, which allows others to use them freely. (18c, p. 290)
-</blockquote>
-The passage does not fully explain Creative Commons licenses, but it does suggest that they are a useful option for projects that move beyond word processor-style essays. The Little, Brown Handbook follows a similar strategy, sending students to a librarian for more information:
-<blockquote>
-To avoid having to seek permission [for  visual, audio, and video sources], you can search Web sites such as Google, Flickr Creative Commons, and Wikimedia Commons for media that are not protected by copyright. On Google, for instance, go to “Search tools” and select “Labeled for reuse.” Consult a librarian at your school if you have questions. (42i, p. 575)
-</blockquote>
-
-asfasfsdfasd
 
 ==== Limitations in Handbook References to IP Concepts ====
 
@@ -175,11 +163,46 @@ By comparison to the full details in the ''McGraw-Hill Handbook'' and the ''Litt
 
 ''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
 
-=== Attribution and Credits in Static and Dynamic Texts ===
+
+=== Coverage of Creative Commons ===
+Five of the handbooks (''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters'') mention the IP concept of Creative Commons specifically, though with differing levels of detail. Of the ten handbooks, the ''McGraw-Hill Handbook'' explains  Creative Commons in reference to finding images to use in projects:
+<blockquote>
+The Creative Commons site (<www.creativecommons.org>) lets you search for material with a Creative Commons license. Such a license specifies the permitted uses of the content. The material shown can be reproduced or altered for noncommercial purposes, as long as it is cited. All the images accompanying Wikipedia are licensed through Creative Commons, so that is another source. (17b-2, p. )
+</blockquote>
+An ideal description of Creative Commons would include all the possible licenses and explain in more specific detail their requirements. For instance, in addition to its noncommercial license, an image may be under an attribution license, which requires identification of the resource’s owner. Perhaps ''McGraw-Hill'' omits these particular details since students must cite all their sources in their work; however, this explanation does not account for the failure to explain Creative Commons’ nonderivative and share-alike licensing.
+
+Even with these shortcomings, the ''McGraw-Hill'' coverage of Creative Commons is more complete than any of other handbooks. In its section on in “Creating audio and video projects,” the ''The St. Martin’s Handbook'' gives readers a short definition, relying on an implicit comparison to licensing options that require permission for use:
+<blockquote>
+Will you need sound or images from other sources? If so, where can you acquire what you need? If you use the work of others in a project that will be posted for the public, you may need to seek permission from the rightsholders (see Chapter 14). However, critiquing or analyzing someone else’s work in your own project is often considered a “fair use” that does not require permission. You may also want to look for images and sounds distributed under a Creative Commons license, which allows others to use them freely. (18c, p. 290)
+</blockquote>
+This passage does not fully explain Creative Commons licenses, but it does suggest that the license is a useful option for projects that move beyond word processor-style essays. The Little, Brown Handbook follows a similar strategy, providing few details and sending students to a librarian for more information:
+<blockquote>
+To avoid having to seek permission [for  visual, audio, and video sources], you can search Web sites such as Google, Flickr Creative Commons, and Wikimedia Commons for media that are not protected by copyright. On Google, for instance, go to “Search tools” and select “Labeled for reuse.” Consult a librarian at your school if you have questions. (42i, p. 575)
+</blockquote>
+wow i need more here
+''Keys for Writers'' gives readers the least information, simply mentioning Creative Commons:
+<blockquote>
+Keep in mind, however, that unless the creator of the image has explicitly stated that it is free for noncommercial use (either by a statement on the Web site or by using a Creative Commons license), you should assume that the image is copyrighted and not free for the taking.
+</blockquote>
+Presumably readers of ''Keys for Writers'' will deduce the definition of Creative Commons as a way to indicate that an image is “free for noncommercial use” from the passage. Unfortunately, that definition is oversimplified, much like that in the ''McGraw-Hill Handbook,'' given that Creative Commons licenses apply to more than images and include more options than “free for noncommercial use.”
+
+Finally, ''Writing Matters'' refers to Creative Commons in the chapter on “Writing for Multiple Media,” as part of a list of information to include on a website:
+<blockquote>
+'''Copyright or Creative Commons notice.''' All material published on the web is automatically protected by copyright. Remind readers of this fact by including a copyright notice: “Copyright © 2017 Paul Jefferson.” For the copyright date, use the year in which you created or last updated the page. An increasingly popular alternative notice is a Creative Commons License. Browse the Creative Commons website (http://creativecommons.org/) to learn more about this project. (10b, p. 182)
+</blockquote>
+Note that while copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere. Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work.
+
+ ''The St. Martin’s Handbook'' seems to agree that students need a thorough understanding of IP concepts, like Creative Commons. In its chapter on “Acknowledging Sources and Avoiding Plagiarism,”  ''St. Martin’s'' asserts:
+<blockquote>
+As a writer today, you need to understand current definitions of plagiarism, which have changed over time and vary from culture to culture, as well as the concept of intellectual property — those works protected by copyright or by alternatives such as a Creative Commons license — so you can give credit where credit is due. (14, p. 241)
+</blockquote>
+Unfortunately, neither the ''St. Martin’s Handbook'' nor any of the other handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students a complete understanding of Creative Commons..
+
 
 === Attribution and Credits in Static and Dynamic Texts ===
 Despite the fact that these ten handbooks consider documentation for images, audio, and video and cover at least some aspects of IP rights, they all fall short in their explanation of how to cite borrowed assets in static and dynamic texts that do not fit the form of word processor-style documents and webpages.
----
+
+----
 
 [http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png Screenshot from In Conversation]
 KOACSI/Writer2Writer-usingimages.png
