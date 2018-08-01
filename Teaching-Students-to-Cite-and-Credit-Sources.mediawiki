@@ -157,6 +157,18 @@ Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intel
 While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
 
 Complete coverage of all four IP concepts is also included in the ''Little, Brown Handbook'' section on “Obtaining Permission When Publishing Your Work.” The section provides a general explanation of fair use: “The legal convention of fair use allows an author to use a small portion of copyrighted material without obtaining the copyright holder's permission, as long as the author acknowledges the source” (44d, p. 622). Specific guidelines follow for using text borrowed from print or online sources, using borrowed images, audio, and video, and using borrowed assets that are not copyrighted and for which copyright is not claimed.
+
+''The St. Martin’s Handbook, the Little, Brown Handbook, the McGraw-Hill Handbook,'' and ''Keys for Writers'' refer to Creative Commons in advice on finding assets for projects. In its section on in “Creating audio and video projects,” the ''The St. Martin’s Handbook'' asks readers:
+<blockquote>
+Will you need sound or images from other sources? If so, where can you acquire what you need? If you use the work of others in a project that will be posted for the public, you may need to seek permission from the rightsholders (see Chapter 14). However, critiquing or analyzing someone else’s work in your own project is often considered a “fair use” that does not require permission. You may also want to look for images and sounds distributed under a Creative Commons license, which allows others to use them freely. (18c, p. 290)
+</blockquote>
+The passage does not fully explain Creative Commons licenses, but it does suggest that they are a useful option for projects that move beyond word processor-style essays. The Little, Brown Handbook follows a similar strategy, sending students to a librarian for more information:
+<blockquote>
+To avoid having to seek permission [for  visual, audio, and video sources], you can search Web sites such as Google, Flickr Creative Commons, and Wikimedia Commons for media that are not protected by copyright. On Google, for instance, go to “Search tools” and select “Labeled for reuse.” Consult a librarian at your school if you have questions. (42i, p. 575)
+</blockquote>
+
+asfasfsdfasd
+
 ==== Limitations in Handbook References to IP Concepts ====
 
 By comparison to the full details in the ''McGraw-Hill Handbook'' and the ''Little, Brown Handbook,'' some of the handbooks include only superficial references to the IP concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
