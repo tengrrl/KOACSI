@@ -163,9 +163,8 @@ By comparison to the full details in the ''McGraw-Hill Handbook'' and the ''Litt
 
 ''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
 
-
 === Coverage of Creative Commons ===
-Five of the handbooks (''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters'') mention the IP concept of Creative Commons specifically, though with differing levels of detail. Of the ten handbooks, the ''McGraw-Hill Handbook'' explains  Creative Commons in reference to finding images to use in projects:
+Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the IP concept of Creative Commons specifically, though with differing levels of detail. Of the ten handbooks, the ''McGraw-Hill Handbook'' explains  Creative Commons in reference to finding images to use in projects:
 <blockquote>
 The Creative Commons site (<www.creativecommons.org>) lets you search for material with a Creative Commons license. Such a license specifies the permitted uses of the content. The material shown can be reproduced or altered for noncommercial purposes, as long as it is cited. All the images accompanying Wikipedia are licensed through Creative Commons, so that is another source. (17b-2, p. )
 </blockquote>
