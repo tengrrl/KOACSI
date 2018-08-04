@@ -173,7 +173,7 @@ For work that you want to protect, here are some tips for making sure that other
 </blockquote>
 This passage begins with a brief explanation of students’ own copyright of the works they create. Confusingly, it moves next to the “open source movement,” a term used to describe software licenses. While open source is clearly related to copyright, it is not the best concept to use in this context.  A discussion of Creative Commons licensing would have been more appropriate, since it is the system used to allow less restrictive sharing and collaboration of the kind of projects students create in first-year composition.
 
-Next the passage addresses actions that students can take to protect their intellectual property. Rather than connecting these actions to copyright however, the text seems to blame the victim with warnings to be careful of digital security issues. In short, the section brings up complicated issues of the ownership of publicly posted material without exploring the underlying IP rights or discussing how students can enforce their rights.
+Next the passage addresses actions that students can take to protect their intellectual property. Rather than connecting these actions to copyright however, the text seems to blame the victim with warnings to be careful of digital security issues. In short, the section brings up complicated issues of the ownership of publicly posted material without exploring the underlying IP rights or discussing how students can enforce their rights. While there are places at the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” could be improved.
 
 ==== Coverage of Creative Commons ====
 To demonstrate the gaps in coverage of IP concepts more fully, I will examine the specific discussion of Creative Commons licenses in these texts. Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
@@ -207,15 +207,19 @@ While the other four handbooks discuss Creative Commons in the context of using 
 Note that although copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere.
 
 Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
-
 === Attribution and Credits in Static and Dynamic Texts ===
 For students writing word processor-based academic essays, any of the ten handbooks will provide them all the details they need on how to document images, audio, and video that they describe or quote in their projects. Students composing static or dynamic texts that take the form of images, audio, and video, however, are not as likely to find the information they need.
 
-Naturally, all of the handbooks instruct readers to cite the sources that they incorporate in their work, as these examples demonstrate:
+Naturally, all of the handbooks instruct readers to cite the sources that they incorporate in their projects, as these examples demonstrate:
 *''Writing Matters'' explains, “Whenever you borrow images from an outside source, be sure to identify your source, either in the figure caption (for most illustrations) or in a source note (for tables)” (5c, p. 84).
 *''A Writer’s Reference'' reminds students, “Keep in mind that if you download a visual or use published information to create your own visual, you must credit your source” (C2b, p. 17).
 *''The Prentice Hall Reference Guide'' states, “'''Give credit to your sources:''' Use the citation style requested by your instructor. In many programs, you can also insert links to the sources you refer to in your writing” (4c, p. 46)
 *''The DK Handbook'' indicates that “If in your composition you use a photograph, painting, drawing, chart, diagram, graph, or table made by someone else, you need to cite the source.” (p. 261)
+*''The McGraw-Hill Handbook'' (as noted above) instructs, “When using an image from another source, be sure to cite it correctly” (17b-3, p. 298).
+
+With these clear directives to “cite your sources,” the handbooks all emphasize the value of documentation for work that is not students’ own creation. This process is relatively simple for students composing the customary academic essay. Students who are ''not'' creating word processor-based projects, however, face challenges as they go about this process of citing their sources.
+
+
 
 ----
 
