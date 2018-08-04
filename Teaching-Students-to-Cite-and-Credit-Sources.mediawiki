@@ -208,25 +208,53 @@ Note that although copyright is explained, Creative Commons is identified only a
 
 Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
 === Attribution and Credits in Static and Dynamic Texts ===
-For students writing word processor-based academic essays, any of the ten handbooks will provide them all the details they need on how to document images, audio, and video that they describe or quote in their projects. Students composing static or dynamic texts that take the form of images, audio, and video, however, are not as likely to find the information they need.
+For students writing word processor-based academic essays, any of the ten handbooks will provide them all the details they need on how to document images, audio, and video that they describe or quote in their projects.
 
 Naturally, all of the handbooks instruct readers to cite the sources that they incorporate in their projects, as these examples demonstrate:
 *''Writing Matters'' explains, “Whenever you borrow images from an outside source, be sure to identify your source, either in the figure caption (for most illustrations) or in a source note (for tables)” (5c, p. 84).
 *''A Writer’s Reference'' reminds students, “Keep in mind that if you download a visual or use published information to create your own visual, you must credit your source” (C2b, p. 17).
-*''The Prentice Hall Reference Guide'' states, “'''Give credit to your sources:''' Use the citation style requested by your instructor. In many programs, you can also insert links to the sources you refer to in your writing” (4c, p. 46)
-*''The DK Handbook'' indicates that “If in your composition you use a photograph, painting, drawing, chart, diagram, graph, or table made by someone else, you need to cite the source.” (p. 261)
+*''The Prentice Hall Reference Guide'' states, “'''Give credit to your sources:''' Use the citation style requested by your instructor. In many programs, you can also insert links to the sources you refer to in your writing” (4c, p. 46).
+*''The DK Handbook'' indicates that “If in your composition you use a photograph, painting, drawing, chart, diagram, graph, or table made by someone else, you need to cite the source” (p. 261).
 *''The McGraw-Hill Handbook'' (as noted above) instructs, “When using an image from another source, be sure to cite it correctly” (17b-3, p. 298).
 
 With these clear directives to “cite your sources,” the handbooks all emphasize the value of documentation for work that is not students’ own creation. This process is relatively simple for students composing the customary academic essay. Students who are ''not'' creating word processor-based projects, however, face challenges as they go about this process of citing their sources.
 
+In its section on “How to cite visuals,” ''Keys for Writers'' assumes students using visuals are writing customary “papers” and will follow the related documentation styles:
+<blockquote>
+Provide a number and a source note for all tables and figures you include in your paper. In MLA style, place the visual close to the text it illustrates, with a credit line immediately beneath it. For APA papers, consult with your instructor. Some recommend including visuals within the text of a college paper; others adhere to strict APA style, with tables and figures placed at the end of the paper. (9c, p. 182)
+</blockquote>
 
+In its section “Use Visuals Effectively,” the  ''Writer’s Handbook'' likewise proceeds as though that students are composing traditional academic essays:
+<blockquote>
+Like quotations, visuals should not be dropped in without introductions.
+* Place all visuals as close as possible to the related text.
+* Introduce each visual in your text. In MLA style give each visual a figure number (abbreviated Fig.) and a caption.
+* Give complete information about the source in the caption.
+* If the source is not mentioned in the text, you do not need to include it in the list of works cited. (21g, p. 217)
+</blockquote>
+Note that visuals are given figure numbers and captions, and possibly listed on the works cited page. None of these strategies for integrating and documenting visuals would make sense in an audio or video project.
 
-----
+''In Conversation'' gives broader attention to “nontextual sources” in this “Writer to Writer” highlight box that addresses projects beyond word processor-based documents:
 
-[http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png Screenshot from In Conversation]
+[http://github.com/tengrrl/KOACSI/Writer2Writer-usingimages.png “Writer to Writer” Screenshot from ''In Conversation'']
 KOACSI/Writer2Writer-usingimages.png
 
 <img src=https://github.com/tengrrl/KOACSI/raw/master/images/Writer2Writer-usingimages.png />
+
+[# Transcript for “Writer to Writer” image]
+----
+How should I integrate nontextual sources in a digital document? In a web page or a multimedia presentation, use the following approach for integrating digital illustrations.
+
+* Make a link between your document and a document that contains an image, sound clip, or video clip — rather than simply copying the image and placing it in your document.
+* If it isn’t possible or appropriate to create a link to another document, you should contact the owner of the image, sound clip, or video clip for permission to use it.
+* If you cannot contact the owner, review the discussion of fair use on page 152 for guidance about using the material.
+
+As you’ve done for the other sources you cite in your document, make sure you present images, audio, or video fairly and identify their authors or creators.
+----
+The advice here is for students to link to images, audio, and video rather than include them in their projects. Following this suggestion does circumvent any permissions issues related to using the assets, but it ultimately limits the project.  For example, a student who chooses an audio recording as background music for a project would fundamentally change the project by asking readers to click a link rather than automatically playing background music. The textbook does advise
+“ it isn’t possible or appropriate to create a link to another document”
+no discussion of fair use or Creative Commons aternatives, either of which could eliminate the complication of contacting the asset owner.
+
 
 === Identification of Gaps in Current Resources ===
 
