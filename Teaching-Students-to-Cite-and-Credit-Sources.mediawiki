@@ -167,7 +167,7 @@ This final example from the ''St. Martin’s Handbook'' jumps from copyright to 
 Although you may not have thought too much about it, all of your work in college — including all the research and writing you do, online and off — represents a growing bank of intellectual property. In fact, such original work is automatically copyrighted, even if it lacks the © symbol. But remember that the open source movement is gaining momentum and that sharing your ideas and writing freely with others is a way to perpetuate them and to gain an audience for your views.<br />
 
 For work that you want to protect, here are some tips for making sure that others respect your intellectual property just as you respect theirs:<br />
-
+<br />
 * Realize that your text and email messages, blog posts and comments, and posts to social networking sites and discussion groups are essentially public. If you don’t want your thoughts and ideas repeated or forwarded, keep them offline. Let recipients know specifically when you do not want your email messages passed on to any third parties. In turn, remember that you should not use material from email, discussion groups, or other online forums without first asking for permission.
 * Be careful with your passwords, and use a secure storage method so that only you can give someone access to your work.
 * Save all your drafts and notes so that you can show where your work has come from should anyone ask you. (14f, p. 247)
