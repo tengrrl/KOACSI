@@ -206,10 +206,16 @@ While the other four handbooks discuss Creative Commons in the context of using 
 </blockquote>
 Note that although copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere.
 
-Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects. 
+Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
 
 === Attribution and Credits in Static and Dynamic Texts ===
-Despite the fact that these ten handbooks consider documentation for images, audio, and video and cover at least some aspects of IP rights, they all fall short in their explanation of how to cite borrowed assets in static and dynamic texts that do not fit the form of word processor-style documents and webpages.
+For students writing word processor-based academic essays, any of the ten handbooks will provide them all the details they need on how to document images, audio, and video that they describe or quote in their projects. Students composing static or dynamic texts that take the form of images, audio, and video, however, are not as likely to find the information they need.
+
+Naturally, all of the handbooks instruct readers to cite the sources that they incorporate in their work, as these examples demonstrate:
+*''Writing Matters'' explains, “Whenever you borrow images from an outside source, be sure to identify your source, either in the figure caption (for most illustrations) or in a source note (for tables)” (5c, p. 84).
+*''A Writer’s Reference'' reminds students, “Keep in mind that if you download a visual or use published information to create your own visual, you must credit your source” (C2b, p. 17).
+*''The Prentice Hall Reference Guide'' states, “'''Give credit to your sources:''' Use the citation style requested by your instructor. In many programs, you can also insert links to the sources you refer to in your writing” (4c, p. 46)
+*''The DK Handbook'' indicates that “If in your composition you use a photograph, painting, drawing, chart, diagram, graph, or table made by someone else, you need to cite the source.” (p. 261)
 
 ----
 
