@@ -382,7 +382,7 @@ The New London Group. (1996). A pedagogy of multiliteracies: designing social fu
 <img src=https://github.com/tengrrl/KOACSI/raw/master/images/smokestack.jpg style="float: right;" alt="einstein&#x27;s cloudmaker" />
 
 
-=== Saved Garbage ===
+= Saved Garbage =
 
 == Some Definitions ==
 For the purposes of this article, we need some definitions; but yo, bitches, imma wait until i finish the other bits to figure out what those words are that need to be defined.
