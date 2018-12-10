@@ -209,6 +209,13 @@ While the other four handbooks discuss Creative Commons in the context of using 
 Note that although copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere.
 
 Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
+
+==== Coverage of Fair Use ====
+lorem ipsum by sum bacon
+
+==== Coverage of Public Domain ====
+lorem ipsum by sum bacon
+
 === Attribution and Credits in Static and Dynamic Texts ===
 For students writing word processor-based academic essays, any of the ten handbooks will provide them all the details they need on how to document images, audio, and video that they describe or quote in their projects.
 
