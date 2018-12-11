@@ -147,7 +147,7 @@ While the text does not identify these questions as related specifically to fair
 
 
 ==== Coverage of Creative Commons ====
-To demonstrate the gaps in coverage of IP concepts more fully, I will examine the specific discussion of Creative Commons licenses in these texts. Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
+Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
 
 Of the ten handbooks, the ''McGraw-Hill Handbook'' provides the most details of the five, explaining  Creative Commons in reference to finding images to use in projects:
 <blockquote>
@@ -169,7 +169,7 @@ This passage does not fully explain Creative Commons licenses, but it does sugge
 <blockquote>
 To avoid having to seek permission [for  visual, audio, and video sources], you can search Web sites such as Google, Flickr Creative Commons, and Wikimedia Commons for media that are not protected by copyright. On Google, for instance, go to “Search tools” and select “Labeled for reuse.” Consult a librarian at your school if you have questions. (42i, p. 575)
 </blockquote>
-''Little, Brown'' improves on the ''St. Martin’s Handbook''  by indicating places where students can find Creative Commons resources, but it does not explain the related licenses at all. Further, ''Little, Brown'' includes the incorrect assertion that these “media that are not protected by copyright.” As [https://creativecommons.org/faq/#is-creative-commons-against-copyright the Creative Commons FAQ] explains, “CC licenses are copyright licenses, and depend on the existence of copyright to work. CC licenses are legal tools that creators and other rights holders can use to offer certain usage rights to the public, while reserving other rights.”  Taken literally, students can certainly search out “media that are not protected by copyright” ; however, the passage suggests a Creative Commons searches will provide those media, which is at best misleading.
+''Little, Brown'' improves on the ''St. Martin’s Handbook''  by indicating places where students can find Creative Commons resources, but it does not explain the related licenses at all. Further, ''Little, Brown'' includes the incorrect assertion that these “media that are not protected by copyright.” As [https://creativecommons.org/faq/#is-creative-commons-against-copyright the Creative Commons FAQ] explains, “CC licenses are copyright licenses, and depend on the existence of copyright to work. CC licenses are legal tools that creators and other rights holders can use to offer certain usage rights to the public, while reserving other rights.”  Taken literally, students can certainly search out “media that are not protected by copyright” ; however, the passage suggests a Creative Commons search will provide those media, which is at best misleading.
 
 While the other four handbooks discuss Creative Commons in the context of using assets created by others, ''Writing Matters'' refers to Creative Commons in its checklist of information writers should include when creating a website. In the chapter on “Writing for Multiple Media,” ''Writing Matters'' tells readers to indicate their preferred IP licensing on the websites they compose:
 <blockquote>
@@ -177,7 +177,7 @@ While the other four handbooks discuss Creative Commons in the context of using 
 </blockquote>
 Note that although copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere.
 
-Given that students are following these instructions to create their own websites, they will surely need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
+Given that students are following these instructions to create their own websites, they will need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
 
 ==== Coverage of Fair Use ====
 lorem ipsum by sum bacon
@@ -187,7 +187,7 @@ Complete coverage of all four IP concepts is also included in the ''Little, Brow
 Keys 22e, p. 406
 
 Sophisticated and original graphics are usually copyrighted, so if you intend to use an image in a document that you post on the Web or make widely available in print, you must do more than download the image and cite the source. The “fair use” principle of copyright law allows use of a small portion of a source in a noncommercial work, but you may need to write to the originator for permission to use an image or text.
-For a college paper intended for your classmates and instructor alone and not posted publicly on the Web, you may want to include an illustration you find on the Web, such as a graph, a map, a photograph of an author or artist, a work of art, or an illustration from an online ency- clopedia. You can do so without getting permission, but you must cite the source in your paper.
+For a college paper intended for your classmates and instructor alone and not posted publicly on the Web, you may want to include an illustration you find on the Web, such as a graph, a map, a photograph of an author or artist, a work of art, or an illustration from an online encyclopedia. You can do so without getting permission, but you must cite the source in your paper.
 
 IC 10.3, p. 153
 The concept of fair use deals with how much of a source you can borrow or quote. According to Section 107 of the Copyright Act of 1976 — the fair use provision, available at copyright.gov/title17/ — writers can use copyrighted materials for purposes of “criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research.” In other words, writers generally don’t need to seek permission to use brief quotations from a source or to summarize or paraphrase a source.
