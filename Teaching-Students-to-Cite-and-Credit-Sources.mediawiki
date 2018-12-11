@@ -145,40 +145,6 @@ Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intel
 </blockquote>
 While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
 
-
-==== Coverage of Creative Commons ====
-Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
-
-Of the ten handbooks, the ''McGraw-Hill Handbook'' provides the most details of the five, explaining  Creative Commons in reference to finding images to use in projects:
-<blockquote>
-The ''Creative Commons'' site (&lt;www.creativecommons.org&gt;) lets you search for material with a Creative Commons license. Such a license specifies the permitted uses of the content. The material shown can be reproduced or altered for noncommercial purposes, as long as it is cited. All the images accompanying ''Wikipedia'' are licensed through ''Creative Commons,'' so that is another source. (17b-2, p. 300)
-</blockquote>
-An ideal description of Creative Commons would include [https://creativecommons.org/licenses/ all the possible licenses] and explain their requirements in more specific detail . For instance, in addition to its noncommercial license, an image may be under an attribution license, which requires identification of the resource’s owner. Perhaps ''McGraw-Hill'' omits these particular details since students must cite all their sources anyway; however, this fact does not account for the failure to explain Creative Commons’ nonderivative and share-alike licensing.
-
-''Keys for Writers'' simply mentions Creative Commons in a passage on evaluating whether an image can be used in a student project:
-<blockquote>
-Keep in mind, however, that unless the creator of the image has explicitly stated that it is free for noncommercial use (either by a statement on the Web site or by using a Creative Commons license), you should assume that the image is copyrighted and not free for the taking.
-</blockquote>
-Presumably readers of ''Keys for Writers'' will deduce the definition of Creative Commons as a way to indicate that an image is “free for noncommercial use” from the passage. Unfortunately, that definition is oversimplified, much like that in ''McGraw-Hill,'' given that Creative Commons licenses apply to more than images and include more options than “free for noncommercial use.”
-
-''The St. Martin’s Handbook'' moves beyond images to include sound in its explanation of Creative Commons. The handbook gives readers a short definition in its section on “Creating audio and video projects,” relying on an implicit comparison to licensing options that require permission for use:
-<blockquote>
-Will you need sound or images from other sources? If so, where can you acquire what you need? If you use the work of others in a project that will be posted for the public, you may need to seek permission from the rightsholders (see Chapter 14). However, critiquing or analyzing someone else’s work in your own project is often considered a “fair use” that does not require permission. You may also want to look for images and sounds distributed under a Creative Commons license, which allows others to use them freely. (18c, p. 290)
-</blockquote>
-This passage does not fully explain Creative Commons licenses, but it does suggest that the license is a useful option for projects that move beyond word processor-style essays. ''The Little, Brown Handbook'' follows a similar strategy, providing few details and sending students to a librarian for more information:
-<blockquote>
-To avoid having to seek permission [for  visual, audio, and video sources], you can search Web sites such as Google, Flickr Creative Commons, and Wikimedia Commons for media that are not protected by copyright. On Google, for instance, go to “Search tools” and select “Labeled for reuse.” Consult a librarian at your school if you have questions. (42i, p. 575)
-</blockquote>
-''Little, Brown'' improves on the ''St. Martin’s Handbook''  by indicating places where students can find Creative Commons resources, but it does not explain the related licenses at all. Further, ''Little, Brown'' includes the incorrect assertion that these “media that are not protected by copyright.” As [https://creativecommons.org/faq/#is-creative-commons-against-copyright the Creative Commons FAQ] explains, “CC licenses are copyright licenses, and depend on the existence of copyright to work. CC licenses are legal tools that creators and other rights holders can use to offer certain usage rights to the public, while reserving other rights.”  Taken literally, students can certainly search out “media that are not protected by copyright” ; however, the passage suggests a Creative Commons search will provide those media, which is at best misleading.
-
-While the other four handbooks discuss Creative Commons in the context of using assets created by others, ''Writing Matters'' refers to Creative Commons in its checklist of information writers should include when creating a website. In the chapter on “Writing for Multiple Media,” ''Writing Matters'' tells readers to indicate their preferred IP licensing on the websites they compose:
-<blockquote>
-'''Copyright or Creative Commons notice.''' All material published on the web is automatically protected by copyright. Remind readers of this fact by including a copyright notice: “Copyright © 2017 Paul Jefferson.” For the copyright date, use the year in which you created or last updated the page. An increasingly popular alternative notice is a Creative Commons License. Browse the Creative Commons website (http://creativecommons.org/) to learn more about this project. (10b, p. 182)
-</blockquote>
-Note that although copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere.
-
-Given that students are following these instructions to create their own websites, they will need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a manner that would provide students the information they need to choose a license for their own work or to interpret the licenses that apply to assets they want incorporate in their projects.
-
 ==== Coverage of Fair Use ====
 lorem ipsum by sum bacon
 
@@ -221,6 +187,39 @@ Students composing static or dynamic texts that take the form of images, audio, 
 ==== Coverage of Public Domain ====
 lorem ipsum by sum bacon
 
+
+==== Coverage of Creative Commons ====
+Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
+
+Of the ten handbooks, the ''McGraw-Hill Handbook'' provides the most details of the five, explaining  Creative Commons in reference to finding images to use in projects:
+<blockquote>
+The ''Creative Commons'' site (&lt;www.creativecommons.org&gt;) lets you search for material with a Creative Commons license. Such a license specifies the permitted uses of the content. The material shown can be reproduced or altered for noncommercial purposes, as long as it is cited. All the images accompanying ''Wikipedia'' are licensed through ''Creative Commons,'' so that is another source. (17b-2, p. 300)
+</blockquote>
+An ideal description of Creative Commons would include [https://creativecommons.org/licenses/ all the possible licenses] and explain their requirements in more specific detail . For instance, in addition to its noncommercial license, an image may be under an attribution license, which requires identification of the resource’s owner. Perhaps ''McGraw-Hill'' omits these particular details since students must cite all their sources anyway; however, this fact does not account for the failure to explain Creative Commons’ nonderivative and share-alike licensing.
+
+''Keys for Writers'' simply mentions Creative Commons in a passage on evaluating whether an image can be used in a student project:
+<blockquote>
+Keep in mind, however, that unless the creator of the image has explicitly stated that it is free for noncommercial use (either by a statement on the Web site or by using a Creative Commons license), you should assume that the image is copyrighted and not free for the taking.
+</blockquote>
+Presumably readers of ''Keys for Writers'' will deduce the definition of Creative Commons as a way to indicate that an image is “free for noncommercial use” from the passage. Unfortunately, that definition is oversimplified, much like that in ''McGraw-Hill,'' given that Creative Commons licenses apply to more than images and include more options than “free for noncommercial use.”
+
+''The St. Martin’s Handbook'' moves beyond images to include sound in its explanation of Creative Commons. The handbook gives readers a short definition in its section on “Creating audio and video projects,” relying on an implicit comparison to licensing options that require permission for use:
+<blockquote>
+Will you need sound or images from other sources? If so, where can you acquire what you need? If you use the work of others in a project that will be posted for the public, you may need to seek permission from the rightsholders (see Chapter 14). However, critiquing or analyzing someone else’s work in your own project is often considered a “fair use” that does not require permission. You may also want to look for images and sounds distributed under a Creative Commons license, which allows others to use them freely. (18c, p. 290)
+</blockquote>
+This passage does not fully explain Creative Commons licenses, but it does suggest that the license is a useful option for projects that move beyond word processor-style essays. ''The Little, Brown Handbook'' follows a similar strategy, providing few details and sending students to a librarian for more information:
+<blockquote>
+To avoid having to seek permission [for  visual, audio, and video sources], you can search Web sites such as Google, Flickr Creative Commons, and Wikimedia Commons for media that are not protected by copyright. On Google, for instance, go to “Search tools” and select “Labeled for reuse.” Consult a librarian at your school if you have questions. (42i, p. 575)
+</blockquote>
+''Little, Brown'' improves on the ''St. Martin’s Handbook''  by indicating places where students can find Creative Commons resources, but it does not explain the related licenses at all. Further, ''Little, Brown'' includes the incorrect assertion that these “media that are not protected by copyright.” As [https://creativecommons.org/faq/#is-creative-commons-against-copyright the Creative Commons FAQ] explains, “CC licenses are copyright licenses, and depend on the existence of copyright to work. CC licenses are legal tools that creators and other rights holders can use to offer certain usage rights to the public, while reserving other rights.”  Taken literally, students can certainly search out “media that are not protected by copyright” ; however, the passage suggests a Creative Commons search will provide those media, which is at best misleading.
+
+While the other four handbooks discuss Creative Commons in the context of using assets created by others, ''Writing Matters'' refers to Creative Commons in its checklist of information writers should include when creating a website. In the chapter on “Writing for Multiple Media,” ''Writing Matters'' tells readers to indicate their preferred IP licensing on the websites they compose:
+<blockquote>
+'''Copyright or Creative Commons notice.''' All material published on the web is automatically protected by copyright. Remind readers of this fact by including a copyright notice: “Copyright © 2017 Paul Jefferson.” For the copyright date, use the year in which you created or last updated the page. An increasingly popular alternative notice is a Creative Commons License. Browse the Creative Commons website (http://creativecommons.org/) to learn more about this project. (10b, p. 182)
+</blockquote>
+Note that although copyright is explained, Creative Commons is identified only as an “alternative notice.” For the specific information, students must go elsewhere.
+
+Given that students are following these instructions to create their own websites, they need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a way that would help students choose a license for their own work or interpret the licenses that apply to assets they want incorporate in their projects.
 
 
 ==== Limitations in Handbook References to IP Concepts ====
