@@ -143,7 +143,7 @@ Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intel
 * '''What effect would this use have on the market for the original?''' The use of a work is usually considered unfair if it would hurt sales of the original.
 * '''How much of the copyrighted work is being used?''' The use of a small portion of a text is more likely to be considered fair than copying a whole work. (20c, p. 325, 327)
 </blockquote>
-While the text does not identify these questions as related specifically to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
+While the text does not explicitly identify these questions as related to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
 
 ==== Coverage of Fair Use ====
 lorem ipsum by sum bacon
@@ -153,6 +153,7 @@ Complete coverage of all four IP concepts is also included in the ''Little, Brow
 Keys 22e, p. 406
 
 Sophisticated and original graphics are usually copyrighted, so if you intend to use an image in a document that you post on the Web or make widely available in print, you must do more than download the image and cite the source. The “fair use” principle of copyright law allows use of a small portion of a source in a noncommercial work, but you may need to write to the originator for permission to use an image or text.
+
 For a college paper intended for your classmates and instructor alone and not posted publicly on the Web, you may want to include an illustration you find on the Web, such as a graph, a map, a photograph of an author or artist, a work of art, or an illustration from an online encyclopedia. You can do so without getting permission, but you must cite the source in your paper.
 
 IC 10.3, p. 153
@@ -184,8 +185,18 @@ wm to a website (in its entirety, rather than specific assets)
 Students composing static or dynamic texts that take the form of images, audio, and video, however, are not as likely to find the information they need.
 
 
+''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
+
+
+
+
+
 ==== Coverage of Public Domain ====
-lorem ipsum by sum bacon
+lorem ipsum buy sum bacon
+
+''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
+
+
 
 
 ==== Coverage of Creative Commons ====
@@ -223,36 +234,9 @@ Given that students are following these instructions to create their own website
 
 
 ==== Limitations in Handbook References to IP Concepts ====
-By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the handbooks include only superficial references to the IP concepts. ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
+By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the handbooks include only superficial references to the IP concepts.
 
-''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
 
-In some cases, the information is incomplete or misleading. In its chapter “Compose in Online Genres,” ''The Writer’s Handbook'' includes a section on creating podcasts that alludes to copyright, but oversimplifies the range of permissions possible:
-<blockquote>
-'''Know the law:'''
-If you use music created by someone else, you likely will have to pay for the right to broadcast that music. If someone agrees to be your guest, you have the right to broadcast that person’s voice. (16b, p 154)
-
-</blockquote>
-Granted, the passage does allow for other options by stating “you ''likely'' will” (emphasis mine); however, the statement glosses over the possibility that the “music created by someone else” may be in the public domain, copyright-protected but royalty-free, or available for free use under a Creative Commons license. It doesn’t even indicate what law it is the student needs to know. While the admonition to “know the law” is important, failing to consider all the situations the student podcaster may encounter creates a significant gap in the coverage.
-
-Further, the chapter does not include the “know the law” step in the other sections of the chapter. The section on creating web pages states only, “Provide links to sources” (16a, p. 152), with no details on the permissions to consider when incorporating images, audio, or video that the student did not create. Linking to a source is obviously not the same as documenting it and does not in any way correlate with permission for using that source.
-
-''The Writer’s Handbook’s''  section on creating videos specifically suggests that the composer may incorporate the work of others in the ''Plan your content'' step: “Will all the video be original? Will you incorporate other video such as YouTube clips? Will you include still images? Maps or graphs? Music? Voiceover?” (16c, p. 155). Despite this specific reference to borrowed assets, the step-by-step process for creating videos does not mention the significance of knowing the related IP rights and laws nor citing the borrowed sources.
-
-This final example from the ''St. Martin’s Handbook'' jumps from copyright to open source to personal privacy:
-<blockquote>
-'''14f Considering your intellectual property'''<br />
-
-Although you may not have thought too much about it, all of your work in college — including all the research and writing you do, online and off — represents a growing bank of intellectual property. In fact, such original work is automatically copyrighted, even if it lacks the © symbol. But remember that the open source movement is gaining momentum and that sharing your ideas and writing freely with others is a way to perpetuate them and to gain an audience for your views.<br />
-
-For work that you want to protect, here are some tips for making sure that others respect your intellectual property just as you respect theirs:<br />
-* Realize that your text and email messages, blog posts and comments, and posts to social networking sites and discussion groups are essentially public. If you don’t want your thoughts and ideas repeated or forwarded, keep them offline. Let recipients know specifically when you do not want your email messages passed on to any third parties. In turn, remember that you should not use material from email, discussion groups, or other online forums without first asking for permission.
-* Be careful with your passwords, and use a secure storage method so that only you can give someone access to your work.
-* Save all your drafts and notes so that you can show where your work has come from should anyone ask you. (14f, p. 247)
-</blockquote>
-This passage begins with a brief explanation of students’ own copyright of the works they create. Confusingly, it moves next to the “open source movement,” a term used to describe software licenses. While open source is clearly related to copyright, it is not the best concept to use in this context.  A discussion of Creative Commons licensing would have been more appropriate, since it is the system used to allow less restrictive sharing and collaboration of the kind of projects students create in first-year composition.
-
-Next the passage addresses actions that students can take to protect their intellectual property. Rather than connecting these actions to copyright however, the text seems to blame the victim with warnings to be careful of digital security issues. In short, the section brings up complicated issues of the ownership of publicly posted material without exploring the underlying IP rights or discussing how students can enforce their rights. While there are places the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” could be improved.
 
 
 
@@ -326,6 +310,32 @@ Next???
 Guessing: Little to no support for how to provide attribution for sources used in heavily-multimodal composing. Privileging of linguistic text sources and text-focused systems of attribution.
 
 
+In some cases, the information is incomplete or misleading. In its chapter “Compose in Online Genres,” ''The Writer’s Handbook'' includes a section on creating podcasts that alludes to copyright, but oversimplifies the range of permissions possible:
+<blockquote>
+'''Know the law:'''
+If you use music created by someone else, you likely will have to pay for the right to broadcast that music. If someone agrees to be your guest, you have the right to broadcast that person’s voice. (16b, p 154)
+
+</blockquote>
+Granted, the passage does allow for other options by stating “you ''likely'' will” (emphasis mine); however, the statement glosses over the possibility that the “music created by someone else” may be in the public domain, copyright-protected but royalty-free, or available for free use under a Creative Commons license. It doesn’t even indicate what law it is the student needs to know. While the admonition to “know the law” is important, failing to consider all the situations the student podcaster may encounter creates a significant gap in the coverage.
+
+Further, the chapter does not include the “know the law” step in the other sections of the chapter. The section on creating web pages states only, “Provide links to sources” (16a, p. 152), with no details on the permissions to consider when incorporating images, audio, or video that the student did not create. Linking to a source is obviously not the same as documenting it and does not in any way correlate with permission for using that source.
+
+''The Writer’s Handbook’s''  section on creating videos specifically suggests that the composer may incorporate the work of others in the ''Plan your content'' step: “Will all the video be original? Will you incorporate other video such as YouTube clips? Will you include still images? Maps or graphs? Music? Voiceover?” (16c, p. 155). Despite this specific reference to borrowed assets, the step-by-step process for creating videos does not mention the significance of knowing the related IP rights and laws nor citing the borrowed sources.
+
+This final example from the ''St. Martin’s Handbook'' jumps from copyright to open source to personal privacy:
+<blockquote>
+'''14f Considering your intellectual property'''<br />
+
+Although you may not have thought too much about it, all of your work in college — including all the research and writing you do, online and off — represents a growing bank of intellectual property. In fact, such original work is automatically copyrighted, even if it lacks the © symbol. But remember that the open source movement is gaining momentum and that sharing your ideas and writing freely with others is a way to perpetuate them and to gain an audience for your views.<br />
+
+For work that you want to protect, here are some tips for making sure that others respect your intellectual property just as you respect theirs:<br />
+* Realize that your text and email messages, blog posts and comments, and posts to social networking sites and discussion groups are essentially public. If you don’t want your thoughts and ideas repeated or forwarded, keep them offline. Let recipients know specifically when you do not want your email messages passed on to any third parties. In turn, remember that you should not use material from email, discussion groups, or other online forums without first asking for permission.
+* Be careful with your passwords, and use a secure storage method so that only you can give someone access to your work.
+* Save all your drafts and notes so that you can show where your work has come from should anyone ask you. (14f, p. 247)
+</blockquote>
+This passage begins with a brief explanation of students’ own copyright of the works they create. Confusingly, it moves next to the “open source movement,” a term used to describe software licenses. While open source is clearly related to copyright, it is not the best concept to use in this context.  A discussion of Creative Commons licensing would have been more appropriate, since it is the system used to allow less restrictive sharing and collaboration of the kind of projects students create in first-year composition.
+
+Next the passage addresses actions that students can take to protect their intellectual property. Rather than connecting these actions to copyright however, the text seems to blame the victim with warnings to be careful of digital security issues. In short, the section brings up complicated issues of the ownership of publicly posted material without exploring the underlying IP rights or discussing how students can enforce their rights. While there are places the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” could be improved.
 
 
 
