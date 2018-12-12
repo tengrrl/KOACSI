@@ -8,6 +8,7 @@ __TOC__
 '''Published''': at this rate, never<br />
 
 == Introduction ==
+
 The first-year writing course no longer focuses solely on basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects (like the visual argument poster on the left) that combine images and linguistic text to build their messages. They may even compose digital projects that include audio recordings and video clips.
 [[File:images/windturbines.jpg|300px|thumb|left|Visual Argument on Wind Turbines]]
 [[https://github.com/tengrrl/KOACSI/raw/master/images/windturbines.jpg]]
@@ -34,7 +35,9 @@ For this article, I reviewed ten first-year writing handbooks for instruction on
 I used [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball ''Writer/Designer'', 2nd ed.] (2018) by Cheryl E. Ball, Jennifer Sheppard, and Kristin L. Arola as a model of a thorough coverage of Creative Commons and of attribution practices in texts that go beyond the word processor-based essays.
 
 To ensure a thorough search of these handbooks and ''Writer/Designer'', I used digital versions of the handbooks obtained through the [https://bookshelf.vitalsource.com/#/ Vital Source Bookshelf] and the related search tools on the Vital Source website. I also reviewed the sections on research, documentation, and plagiarism in all the handbooks and used the site’s full-text search tools to check specifically for references to Creative Commons, copyright, fair use, and  public domain.
+
 === Documentation of Images, Audio, and Video Sources ===
+
 Most handbooks adopted for first-year writing courses, including the ten reviewed for this article, focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
 Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
@@ -54,6 +57,7 @@ There are exceptions to the coverage of documentation of images, audio, and vide
 Following the advice from this list, a student may surmise that no documentation is needed for borrowed photographs, drawings, video clips, and other resources that go beyond words on a printable page.
 
 === Coverage of IP Rights ===
+
 In their discussion of the research and composing processes, these handbooks refer to IP rights as part of their explanation of why documentation is necessary. In particular, the textbooks focus on the ownership of resources that students may incorporate in their projects, addressing how to find sources they can use and how to determine when permission is required to use those sources.
 
 In this context, students need details on how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. All ten handbooks mention copyright and cover some aspects of IP rights, but only ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook'' mention all four IP concepts (copyright, Creative Commons, fair use, and public domain).   Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
@@ -136,17 +140,16 @@ Related to plagiarism are the concepts of copyright and intellectual property. '
 </blockquote>
 Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intellectual property in more detail (20a1–3, pp. 321–327) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
 
-''McGraw-Hill'' also addresses the use of copyrighted images, audio, and video, outlining the four questions that are used to determine fair use:
+In addition to copyrighted text, ''McGraw-Hill'' addresses the use of copyrighted images, audio, and video. The text walks students through a decisionmaking process by outlining the four questions that are used to determine fair use:
 <blockquote>
 * '''What is the purpose of the use?''' Educational, nonprofit, and personal uses are more likely to be considered fair than commercial use.
 * '''What is the nature of the work being used?''' In most cases, imaginative and unpublished materials can be used only if you have the permission of the copyright holder.
 * '''What effect would this use have on the market for the original?''' The use of a work is usually considered unfair if it would hurt sales of the original.
 * '''How much of the copyrighted work is being used?''' The use of a small portion of a text is more likely to be considered fair than copying a whole work. (20c, p. 325, 327)
 </blockquote>
-While the text does not explicitly identify these questions as related to fair use, the section’s focus “Use copyrighted materials fairly” clearly alludes to the concept.
+Students’ responses to these questions are intended to help them decide what they can use in their own projects. While the text does not explicitly identify these questions as related to fair use, the section’s title, “Use copyrighted materials fairly,” clearly alludes to the concept. Better coverage would directly employ the term ''fair use'' so that students learn the underlying language of intellectual property rights.
 
-==== Coverage of Fair Use ====
-lorem ipsum by sum bacon
+
 
 Complete coverage of all four IP concepts is also included in the ''Little, Brown Handbook'' section on “Obtaining Permission When Publishing Your Work.” The section provides a general explanation of fair use: “The legal convention of fair use allows an author to use a small portion of copyrighted material without obtaining the copyright holder's permission, as long as the author acknowledges the source” (44d, p. 622). Specific guidelines follow for using text borrowed from print or online sources, using borrowed images, audio, and video, and using borrowed assets that are not copyrighted and for which copyright is not claimed.
 
@@ -192,6 +195,7 @@ Students composing static or dynamic texts that take the form of images, audio, 
 
 
 ==== Coverage of Public Domain ====
+
 lorem ipsum buy sum bacon
 
 ''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
@@ -200,6 +204,7 @@ lorem ipsum buy sum bacon
 
 
 ==== Coverage of Creative Commons ====
+
 Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
 
 Of the ten handbooks, the ''McGraw-Hill Handbook'' provides the most details of the five, explaining  Creative Commons in reference to finding images to use in projects:
@@ -234,6 +239,7 @@ Given that students are following these instructions to create their own website
 
 
 ==== Limitations in Handbook References to IP Concepts ====
+
 By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the handbooks include only superficial references to the IP concepts.
 
 
@@ -244,6 +250,7 @@ By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the h
 
 
 === Attribution and Credits in Static and Dynamic Texts ===
+
 For students writing word processor-based academic essays, any of the ten handbooks will provide them all the details they need on how to document images, audio, and video that they describe or quote in their projects.
 
 Naturally, all of the handbooks instruct readers to cite the sources that they incorporate in their projects, as these examples demonstrate:
@@ -291,6 +298,7 @@ The advice here is for students to link to images, audio, and video rather than 
 
 
 ==== Hereforth it falls apart ====
+
 The textbook does advise
 “ it isn’t possible or appropriate to create a link to another document”
 no discussion of fair use or Creative Commons alternatives, either of which could eliminate the complication of contacting the asset owner.
@@ -368,6 +376,7 @@ Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], fro
 * Extensive examples of attribution system in authentic projects
 
 == Conclusion ==
+
 The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
 
@@ -388,7 +397,9 @@ and kairos style guides
 
 
 == Bibliography ==
+
 === Handbooks Reviewed ===
+
 Faigley, Lester. (2018). [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html ''The Writer's Handbook''] (6th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134573861].
 
 Fowler, H. Ramsey, Aaron, Jane E., and Greer, Michael. (2016).  [https://www.pearson.com/us/higher-education/product/Fowler-Little-Brown-Handbook-The-14th-Edition/9780134759722.html ''The Little, Brown Handbook''] (13th ed.). Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780321988430].
@@ -479,3 +490,51 @@ Keys, 9a, p. 180
 LANGUAGE AND CULTURE
 Ownership Rights across Cultures
 American academic culture takes seriously the ownership of words and text. It respects both the individual as author (and authority) and the originality of the individual’s ideas. In some cultures, memorization and the use of classic texts are common in all walks of life. And worldwide, the ownership of language, texts, music, and videos is being called into question by the democratic, interactive nature of the Internet. In short, therefore, plagiarism is not something universal and easy to define. In American academic culture, basic ground rules exist for the “fair use” of another writer’s work without payment, but easy access to music and media sources poses interesting questions about intellectual property and the opportunities to create and remix culture.
+
+
+{HTML()}
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
+.tg .tg-9hbo{font-weight:bold;vertical-align:top}
+.tg .tg-yw4l{vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-9hbo">Learn Markdown</th>
+    <th class="tg-yw4l">Markdown Editors</th>
+    <th class="tg-yw4l">Markdown Conversion</th>
+    <th class="tg-yw4l">Markdown Slideware</th>
+    <th class="tg-yw4l">Markdown Email</th>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"><a href="commonmark.org/help/tutorial/">Commonmark Tutorial</a></td>
+    <td class="tg-yw4l">Any basic text editor (Atom, Gedit, Notepad, emacs)</td>
+    <td class="tg-yw4l"><a href="http://pandoc.org">Pandoc</a></td>
+    <td class="tg-yw4l"><a href="http://deckdown.org">Deckdown</a></td>
+    <td class="tg-yw4l"><a href="http://markdown-here.com/index.html">Markdown Here</a></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://stackedit.io">StackEdit</a></td>
+    <td class="tg-yw4l"><a href="http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Pandoc for Academic Webtexts</a></td>
+    <td class="tg-yw4l"><a href="https://www.swipe.to/markdown/">Swipe</a></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><br><a href="http://dillinger.io">Dillinger</a><br></td>
+    <td class="tg-yw4l"><a href="http://pandoc.org/epub.html">Pandoc for Ebooks</a></td>
+    <td class="tg-yw4l"><a href-"https://remarkjs.com/#1">Remark</a></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+  <tr>
+    <td class="tg-yw4l"></td>
+    <td class="tg-yw4l"><a href="https://write-box.appspot.com">WriteBox</a></td>
+    <td class="tg-yw4l"><a href="http://linguisticmystic.com/2015/03/02/how-to-make-a-website-using-pandoc/">Pandoc for Websites</a></td>
+    <td class="tg-yw4l"><a href="https://github.com/adamzap/landslide">Landslide</a></td>
+    <td class="tg-yw4l"></td>
+  </tr>
+</table>
+{HTML}
