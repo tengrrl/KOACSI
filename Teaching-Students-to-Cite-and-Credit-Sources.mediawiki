@@ -164,6 +164,14 @@ Several libraries and other archival institutions maintain collections of images
 </blockquote>
 The difficulty of this approach lies in the failure to explain what the term ''public domain'' means. The handbook clearly indicates that the public domain resources are useful, but it does not indicate how or why.
 
+
+I need to figure out how/if other texts do public domain, and if one of them does a better job, deal with it
+
+plus i need to figure out the move from this section to creative commons. why are they in separate sections? Perhaps point to the point of the analysis. we know that the handbooks are good at x, y, and z, but they have a lesser track record with CC
+
+
+
+
 ==== Coverage of Creative Commons ====
 
 Five of the handbooks—''The McGraw-Hill Handbook,'' the ''St. Martin’s Handbook,'' the ''Little, Brown Handbook,'' ''Keys for Writers,'' and ''Writing Matters''—mention the Creative Commons specifically, though with differing levels of detail.
