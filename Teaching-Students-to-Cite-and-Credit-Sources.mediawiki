@@ -40,7 +40,7 @@ To ensure a thorough search of these handbooks and ''Writer/Designer'', I used d
 
 Most handbooks adopted for first-year writing courses, including the ten reviewed for this article, focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
-Each of the ten handbooks include information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
+Each of the ten handbooks includes information on how to write in-text citations and bibliographic entries for static images, audio recordings, and video in  MLA, APA, and Chicago style formats. Nine of the ten also cover the CSE style format, with ''A Writer’s Reference'' as the exception. Additionally, each handbook discusses the research process, covering how to gather and evaluate resources, how to use resources in a research project, and how to cite sources and avoid plagiarism. Finally, each includes a deep cache of examples that demonstrate how these steps in the research process work.
 
 Where these ten handbooks differ is in the ways that they address research projects that include (rather than simply refer to, quote, paraphrase, or summarize) static images, audio recordings, and videos. Those that discuss these resources, emphasize the importance of citing the sources properly. ''Keys for Writers'' explains, “As a general rule, whichever style of documentation you use, you need to identify and label a visual source, such as a figure or a table, where you include it in your paper. Be sure to give credit to the original source of the image” (7e, p. 162).
 
@@ -134,73 +134,26 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 |-
 |}
 
-''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The terms are explained in the section on plagiarism:
+==== Copyright, Fair Use, and Public Domain ====
+
+''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts of copyright and intellectual property are introduced in the section on plagiarism:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
 </blockquote>
 Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intellectual property in more detail (20a1–3, pp. 321–327) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
 
-In addition to copyrighted text, ''McGraw-Hill'' addresses the use of copyrighted images, audio, and video. The text walks students through a decisionmaking process by outlining the four questions that are used to determine fair use:
+As part of the explanation, ''McGraw-Hill'' walks students through a decisionmaking process by outlining the four questions that are used to determine fair use:
 <blockquote>
+Before you publish your work on the Web or produce a multimedia presentation that includes audio, video, and graphic elements copied from a Web site, make sure that you have used copyrighted material fairly by considering these four questions:
+
 * '''What is the purpose of the use?''' Educational, nonprofit, and personal uses are more likely to be considered fair than commercial use.
 * '''What is the nature of the work being used?''' In most cases, imaginative and unpublished materials can be used only if you have the permission of the copyright holder.
 * '''What effect would this use have on the market for the original?''' The use of a work is usually considered unfair if it would hurt sales of the original.
 * '''How much of the copyrighted work is being used?''' The use of a small portion of a text is more likely to be considered fair than copying a whole work. (20c, p. 325, 327)
 </blockquote>
-Students’ responses to these questions are intended to help them decide what they can use in their own projects. While the text does not explicitly identify these questions as related to fair use, the section’s title, “Use copyrighted materials fairly,” clearly alludes to the concept. Better coverage would directly employ the term ''fair use'' so that students learn the underlying language of intellectual property rights.
+Students’ responses to these questions are intended to help them decide what they can use in their own projects. 
 
-
-
-Complete coverage of all four IP concepts is also included in the ''Little, Brown Handbook'' section on “Obtaining Permission When Publishing Your Work.” The section provides a general explanation of fair use: “The legal convention of fair use allows an author to use a small portion of copyrighted material without obtaining the copyright holder's permission, as long as the author acknowledges the source” (44d, p. 622). Specific guidelines follow for using text borrowed from print or online sources, using borrowed images, audio, and video, and using borrowed assets that are not copyrighted and for which copyright is not claimed.
-
-Keys 22e, p. 406
-
-Sophisticated and original graphics are usually copyrighted, so if you intend to use an image in a document that you post on the Web or make widely available in print, you must do more than download the image and cite the source. The “fair use” principle of copyright law allows use of a small portion of a source in a noncommercial work, but you may need to write to the originator for permission to use an image or text.
-
-For a college paper intended for your classmates and instructor alone and not posted publicly on the Web, you may want to include an illustration you find on the Web, such as a graph, a map, a photograph of an author or artist, a work of art, or an illustration from an online encyclopedia. You can do so without getting permission, but you must cite the source in your paper.
-
-IC 10.3, p. 153
-The concept of fair use deals with how much of a source you can borrow or quote. According to Section 107 of the Copyright Act of 1976 — the fair use provision, available at copyright.gov/title17/ — writers can use copyrighted materials for purposes of “criticism, comment, news reporting, teaching (including multiple copies for classroom use), scholarship, or research.” In other words, writers generally don’t need to seek permission to use brief quotations from a source or to summarize or paraphrase a source.
-
-DK, Part 4, p. 117
-Fair Use
-Fair use, a doctrine in copyright law, allows certain uses of others’ copyrighted material without permission. Fair use does not specify how much of another’s work one may use; instead, four factors are considered, in legal cases, to determine if a use is fair:
-1	The purpose and character of the use. Is the use commercial or is it for nonprofit and educational purposes (such as criticism, parody, or art)? Fair use is meant to support public, not personal, enrichment. If the use transforms the copied work, making something new of it, that is also more likely to be considered fair use.
-2	The nature of the copyrighted work. Generally, uses of published nonfiction works are considered to benefit the public—and not harm the rights of a copyright holder—more so than uses of unpublished or fictional works.
-3	The amount and substantiality of the portion used in relation to the copyrighted work as a whole. The less one copies, the more likely the copying is to be considered fair use.
-4	The effect of the use upon the potential market for or value of the copyrighted work. If the use will not cause the copyright holder to lose income, it is more likely to be considered fair use.
-The doctrine of fair use underpins academic uses of the words of others—as in research writing—which is what we discuss in this part of this book. Fair use protects most academic uses of intellectual property—but as soon as you use that property for personal gain or commercial ends, the use is no longer protected.
-WM, 1b-3, pp.9
-Obtain copyright clearance While plagiarism is concerned with acknowledging sources of ideas or language, copyright focuses on the right to compensation for the use of writers’ words and ideas in a public context. When writers use a substantial portion of another writer’s text, they must not only acknowledge the source but may also need to obtain the original author’s permission, often in exchange for a fee.
-
-As a student, your use of sources is covered under the fair use provision of US copyright law, which allows you to include copyrighted material without permission when you are doing your college assignments. What counts as fair use cannot be expressed in percentages or checklists. The Center for Social Media at American University offers a “Code of Best Practices in Fair Use for Media Literacy Education” that you can find online. It explains that if you copy someone else’s text or music files and avoid paying for it, you are violating copyright. But if you are using parts of a text or a song for educational purposes, and if you are not interfering with the copyright owner’s ability to profit from the material, you are making fair use of it and do not need the copyright owner’s permission. Because plagiarism and copyright are separate issues, though, you must always acknowledge your source, even when no permission is needed.
-
-
-
-
-Note all talk only about “media” resources, not text; and there are limitations even there.
-
-Mcgh and keys refer to images
-sm to sound and images
-lb to visual, audio, and video sources
-wm to a website (in its entirety, rather than specific assets)
-
-Students composing static or dynamic texts that take the form of images, audio, and video, however, are not as likely to find the information they need.
-
-
-''The Writer’s Handbook'' includes only a cursory reference to the concept of fair use: “́The ''Chicago Manual'' also gives advice on copyright law, such as how a work is granted copyright, what may constitute copyright violation, and what is fair use” (25a, p. 319). To learn about fair use, the student using the ''Writer’s Handbook'' must presumably search out a copy of the ''Chicago Manual.''
-
-
-
-
-
-==== Coverage of Public Domain ====
-
-lorem ipsum buy sum bacon
-
-''The Prentice Hall Reference Guide'', for instance, provides only a definition of the term ''public domain'':  “'''public domain'''—phrase used to refer to works that are not granted or are no longer granted exclusive protection by copyright law” (68b, p. 388). The text includes no further discussion of the term and no examples, leaving students to suss out how the idea of public domain relates to their work.
-
-
+Public domain is 
 
 
 ==== Coverage of Creative Commons ====
