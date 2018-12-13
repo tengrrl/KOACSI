@@ -153,10 +153,12 @@ Before you publish your work on the Web or produce a multimedia presentation tha
 </blockquote>
 
 While this chapter of ''The McGraw-Hill Handbook'' covers the concepts of copyright and fair use thoroughly, the section is missing details on how resources in the public domain relate to intellectual property use. Public domain is mentioned in the chapter on “Multimedia Writing” (Chapter 14), specifically as it pertains to the use of images and videos for web sites: 
+
 <blockquote>
 Always cite material that you do not generate yourself. If your Web text will be public, request permission for use of material not in the public domain unless the site says permission is not needed. (14c.2, p. 251)
 </blockquote>
 The other references to public domain appear in Chapter 17, “Finding and Creating Effective Visuals, Audio Clips, and Videos.” The passages, like the one below, suggest where to find resources that can be used in multimedia projects:
+
 <blockquote> 
 Several libraries and other archival institutions maintain collections of images online. The Library of Congress, for example, is a rich source of images (most in the public domain) relating to American history. Follow the guidelines for usage posted on these sites.
 </blockquote>
