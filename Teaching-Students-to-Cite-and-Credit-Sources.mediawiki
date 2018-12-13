@@ -136,7 +136,7 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 
 ==== Copyright, Fair Use, and Public Domain ====
 
-''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts of copyright and intellectual property are introduced in the section on plagiarism:
+''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts of copyright and intellectual property are introduced in the chapter on “Plagiarism, Copyright, and Intellectual Property”:
 <blockquote>
 Related to plagiarism are the concepts of copyright and intellectual property. '''Copyright''' is the legal right to control the reproduction of an original work—a piece of writing, a musical composition, a play, a movie, a computer program, a photograph, a work of art. A copyrighted work is the '''intellectual property''' of the copyright holder, whether that entity is a publisher, a record company, an entertainment conglomerate, or the individual creator of the work. (emphasis original, 20a, p. 321)
 </blockquote>
@@ -151,9 +151,11 @@ Before you publish your work on the Web or produce a multimedia presentation tha
 * '''What effect would this use have on the market for the original?''' The use of a work is usually considered unfair if it would hurt sales of the original.
 * '''How much of the copyrighted work is being used?''' The use of a small portion of a text is more likely to be considered fair than copying a whole work. (20c, p. 325, 327)
 </blockquote>
-Students’ responses to these questions are intended to help them decide what they can use in their own projects. 
 
-Public domain is 
+While this chapter of ''The McGraw-Hill Handbook'' covers the concepts of copyright and fair use thoroughly, the section is missing details on how resources in the public domain relate to intellectual property use.
+
+
+
 
 
 ==== Coverage of Creative Commons ====
