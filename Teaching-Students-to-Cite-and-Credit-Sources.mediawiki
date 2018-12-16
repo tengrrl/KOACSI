@@ -165,8 +165,8 @@ Several libraries and other archival institutions maintain collections of images
 The difficulty of this approach lies in the failure to explain what the term ''public domain'' means. The handbook clearly indicates that the public domain resources are useful, but it does not indicate how or why. While seven of the handbooks mention public domain, most cover the topic much as ''The McGraw-Hill Handbook''—providing little detail or explanation. ''The Prentice-Hall Handbook'' provides the most explicit definition: “public domain—phrase used to refer to works that are not granted or no longer granted exclusive protection by copyright law” (68b, p. 388).
 
 
-<span style="color: #FF6600;">I need to figure out how/if other texts do public domain, and if one of them does a better job, deal with it
-
+<span style="color:#FF0000">I need to figure out how/if other texts do public domain, and if one of them does a better job, deal with it
+<br />
 plus i need to figure out the move from this section to creative commons. why are they in separate sections? Perhaps point to the point of the analysis. we know that the handbooks are good at x, y, and z, but they have a lesser track record with CC</span>
 
 
