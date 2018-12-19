@@ -240,43 +240,11 @@ Note that although copyright is explained, Creative Commons is identified only a
 
 Given that students are following these instructions to create their own websites, they need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a way that would help students choose a license for their own work or interpret the licenses that apply to assets they want incorporate in their projects.
 
-
-==== Limitations in Handbook References to IP Concepts ====
-
-By comparison to the full details in the ''McGraw-Hill Handbook,'' some of the handbooks include only superficial references to the IP concepts.
-
-
-
-
-
-
-
-
-
-
-
-==== Hereforth it falls apart ====
-
-The textbook does advise
-“ it isn’t possible or appropriate to create a link to another document”
-no discussion of fair use or Creative Commons alternatives, either of which could eliminate the complication of contacting the asset owner.
-
-
-
-
-
-
-
-
-
 === Identification of Gaps in Current Resources ===
 
-Next???
+The ten handbooks examined provide little to no support for how to provide attribution for sources used in heavily-multimodal composing. All privilege linguistic text sources and text-focused systems of attribution, giving little attention to the needs of writing projects that are not papers or essays.
 
-Guessing: Little to no support for how to provide attribution for sources used in heavily-multimodal composing. Privileging of linguistic text sources and text-focused systems of attribution.
-
-
-In some cases, the information is incomplete or misleading. In its chapter “Compose in Online Genres,” ''The Writer’s Handbook'' includes a section on creating podcasts that alludes to copyright, but oversimplifies the range of permissions possible:
+In some cases, the information relating to IP concepts in these handbooks is incomplete or misleading. In its chapter “Compose in Online Genres,” ''The Writer’s Handbook'', for example, includes a section on creating podcasts that alludes to copyright, but oversimplifies the range of permissions possible:
 <blockquote>
 '''Know the law:'''
 If you use music created by someone else, you likely will have to pay for the right to broadcast that music. If someone agrees to be your guest, you have the right to broadcast that person’s voice. (16b, p 154)
