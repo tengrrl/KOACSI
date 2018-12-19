@@ -162,7 +162,9 @@ The other references to public domain appear in Chapter 17, “Finding and Creat
 <blockquote> 
 Several libraries and other archival institutions maintain collections of images online. The Library of Congress, for example, is a rich source of images (most in the public domain) relating to American history. Follow the guidelines for usage posted on these sites. (17b-1, p. 299)
 </blockquote>
-The difficulty of this approach lies in the failure to explain what the term ''public domain'' means. The handbook clearly indicates that the public domain resources are useful, but it does not indicate how or why. While seven of the handbooks mention public domain, most cover the topic much as ''The McGraw-Hill Handbook''—providing little detail or explanation. ''The Prentice-Hall Handbook'' provides the most explicit definition: “public domain—phrase used to refer to works that are not granted or no longer granted exclusive protection by copyright law” (68b, p. 388).
+The difficulty of this approach lies in the failure to explain what the term ''public domain'' means. The handbook clearly indicates that the public domain resources are useful, but it does not indicate how or why. 
+
+While seven of the handbooks mention public domain, most cover the topic much as ''The McGraw-Hill Handbook'' does—providing little detail or explanation. ''The Prentice-Hall Handbook'' provides the most explicit definition: “public domain—phrase used to refer to works that are not granted or no longer granted exclusive protection by copyright law” (68b, p. 388). This definition is accurate, but it relies on the reader already knowing what “protection by copyright law” means. Further, it does not suggest why or when “works . . . are not granted” copyright nor when a work is “no longer granted exclusive protection.” For students to understand the value that public domain works can contribute to their projects, they need to know much more about the concept.
 
 
 <blockquote>'''''I need to figure out how/if other texts do public domain, and if one of them does a better job, deal with it
