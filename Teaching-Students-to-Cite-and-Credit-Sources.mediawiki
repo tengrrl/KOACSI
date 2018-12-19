@@ -91,6 +91,8 @@ As you’ve done for the other sources you cite in your document, make sure you 
 ----
 The advice here is for students to link to images, audio, and video rather than include them in their projects. Following this suggestion does circumvent any permissions issues related to using the assets, but it ultimately limits the project.  For example, a student who chooses an audio recording as background music for a project would fundamentally change the project by asking readers to click a link rather than automatically playing background music.
 
+Frustratingly, these handbooks rely primarily on adding research-paper style citations, such as an MLA bibliographic citation for an image, as the method for all sources—a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch. The coverage in these handbooks is simply not an authentic representation of how composers customarily document their sources in texts other than word processor documents and essays. 
+
 === Coverage of IP Rights ===
 
 In their discussion of the research and composing processes, these handbooks refer to IP rights as part of their explanation of why documentation is necessary. In particular, the textbooks focus on the ownership of resources that students may incorporate in their projects, addressing how to find sources they can use and how to determine when permission is required to use those sources.
@@ -262,7 +264,7 @@ no discussion of fair use or Creative Commons alternatives, either of which coul
 
 
 
-Frustratingly, their coverage of citing these sources relies on adding research-paper style citations, such as an MLA bibliographic citation for an image, a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. These solutions are not an authentic representation of how composers customarily document their sources in these kinds of texts. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next blockbuster movie you watch.
+
 
 
 
