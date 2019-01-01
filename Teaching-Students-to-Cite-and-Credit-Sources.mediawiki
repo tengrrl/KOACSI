@@ -273,6 +273,11 @@ Next the passage addresses actions that students can take to protect their intel
 
 == Best Practices ==
 
+Need to convince students (the world) that finding is just as valuable as creating.......
+
+
+
+
 === Identification of Alternative Instructional Resources ===
 
 Pull from [http://faq.tracigardner.com/category/graphics/ http://faq.tracigardner.com/category/graphics/]
@@ -347,9 +352,9 @@ Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.
 
 === Other Sources ===
 
-Adler-Kassner, L., Anson, C. M., & Howard, R. M. (2008). Framing Plagiarism. In C. Eisner & M. Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 231–246). Ann Arbor, MI: University of Michigan Press. Retrieved from [https://quod.lib.umich.edu/d/dcbooks/5653382.0001.001/1:4/--originality-imitation-and-plagiarism-teaching-writing?g=dculture;rgn=div1;view=fulltext;xc=1#4.7 https://quod.lib.umich.edu/d/dcbooks/5653382.0001.001/1:4/--originality-imitation-and-plagiarism-teaching-writing?g=dculture;rgn=div1;view=fulltext;xc=1#4.7]
+Adler-Kassner, Linda, Anson, Chris M., & Howard, Rebecca Moore. (2008). Framing Plagiarism. In Caroline Eisner & Martha Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 231–246). Ann Arbor, MI: University of Michigan Press. [https://doi.org/10.3998/dcbooks.5653382.0001.001 https://doi.org/10.3998/dcbooks.5653382.0001.001]
 
-Arola, Kristin. L., Sheppard, J., & Ball, C. E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
+Arola, Kristin L., Sheppard, Jennifer, & Ball, Cheryl E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
 
 Barkley, E. F. (2016). Using Citation Analysis in Writing Center Tutorials to Encourage Deeper Engagement with Sources. ''Praxis: A Writing Center Journal,'' 13(2). Retrieved from [http://www.praxisuwc.com/kleinfeld-132/ http://www.praxisuwc.com/kleinfeld-132/]
 
@@ -377,9 +382,9 @@ Litman, J. (2008). Choosing Metaphors. In C. Eisner & M. Vicinus (Eds.), ''Origi
 
 Newbold, C. (2014, July 14). Can I Use that Picture? The Terms, Laws, and Ethics for Using Copyrighted Images. Retrieved September 22, 2017, from [http://thevisualcommunicationguy.com/2014/07/14/can-i-use-that-picture/ http://thevisualcommunicationguy.com/2014/07/14/can-i-use-that-picture/]
 
-Rife, M. C. (2007). The fair use doctrine: History, application, and implications for (new media) writing teachers. ''Computers and Composition,'' 24(2), 154–178. [https://doi.org/10.1016/j.compcom.2007.02.002 https://doi.org/10.1016/j.compcom.2007.02.002]
+Rife, Martine Courant. (2007). The fair use doctrine: History, application, and implications for (new media) writing teachers. ''Computers and Composition,'' 24(2), 154–178. [https://doi.org/10.1016/j.compcom.2007.02.002 https://doi.org/10.1016/j.compcom.2007.02.002]
 
-Rife, M. C. (2008). “Fair Use,” Copyright Law, and the Composition Teacher. In ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 145–156). Ann Arbor, MI: University of Michigan Press. Retrieved from [https://quod.lib.umich.edu/d/dcbooks/5653382.0001.001/1:3/--originality-imitation-and-plagiarism-teaching-writing?g=dculture;rgn=div1;view=fulltext;xc=1#3.7 https://quod.lib.umich.edu/d/dcbooks/5653382.0001.001/1:3/--originality-imitation-and-plagiarism-teaching-writing?g=dculture;rgn=div1;view=fulltext;xc=1#3.7]
+Rife, Martine Courant. (2008). “Fair Use,” Copyright Law, and the Composition Teacher. In Caroline Eisner & Martha Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 145–156). Ann Arbor, MI: University of Michigan Press. [https://doi.org/10.3998/dcbooks.5653382.0001.001 https://doi.org/10.3998/dcbooks.5653382.0001.001]
 
 Serviss, T. (2016). Creating Faculty Development Programming to Prevent Plagiarism: Three Approaches. In T. Bretag (Ed.), ''Handbook of Academic Integrity'' (pp. 551–567). Singapore: Springer Singapore. [https://doi.org/10.1007/978-981-287-098-8_73 https://doi.org/10.1007/978-981-287-098-8_73]
 
