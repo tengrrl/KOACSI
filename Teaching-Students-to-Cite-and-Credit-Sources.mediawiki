@@ -89,13 +89,13 @@ As you’ve done for the other sources you cite in your document, make sure you 
 ----
 The advice here is for students to link to images, audio, and video rather than include them in their projects. Following this suggestion does circumvent any permissions issues related to using the assets, but it ultimately limits the project.  For example, a student who chooses an audio recording as background music for a project would fundamentally change the project by asking readers to click a link rather than automatically playing background music. Further, best digital authoring practices avoid hot linking, the process of linking to or embedding an image rather than using a local copy, to ensure the sustainability of the project.
 
-Frustratingly, these handbooks rely primarily on adding research-paper style citations, such as an MLA bibliographic citation for an image, as the method for all sources—a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next documentary movie you watch. The coverage in these handbooks is simply not an authentic representation of how digitally-savvy composers customarily document their sources in texts other than word processor documents and essays. 
+Frustratingly, these handbooks rely primarily on adding research-paper style citations, such as an MLA bibliographic citation for an image, as the method for all sources—a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next documentary movie you watch. The coverage in these handbooks is simply not an authentic representation of how digitally-savvy composers customarily document their sources in texts other than word processor documents and essays.
 
 === Coverage of IP Rights ===
 
 In their discussion of the research and composing processes, these handbooks refer to IP rights as part of their explanation of why documentation is necessary. In particular, the textbooks focus on the ownership of resources that students may incorporate in their projects, addressing how to find sources they can use and how to determine when permission is required to use those sources.
 
-In this context, students need details on how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. All ten handbooks mention copyright and cover some aspects of IP rights, but only ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook'' mention all four IP concepts (copyright, Creative Commons, fair use, and public domain).   Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
+In this context, students need to know how copyright and Creative Commons licenses work, what it means for an asset to be in the public domain, and how fair use governs the permission required to use a source. All ten handbooks mention copyright and cover some aspects of IP rights, but only ''Keys for Writers'', ''The Little, Brown Handbook'', and ''The McGraw-Hill Handbook'' mention all four IP concepts (copyright, Creative Commons, fair use, and public domain).   Eight of the handbooks include the term fair use, and seven mention public domain. Only half of the handbooks refer to Creative Commons.
 
 The table below shows which of the IP concepts are covered in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
@@ -177,7 +177,7 @@ Related to plagiarism are the concepts of copyright and intellectual property. '
 </blockquote>
 Following this overview, ''McGraw-Hill'' explains copyright, fair use, and intellectual property in more detail (20a1–3, pp. 321–327) and includes a highlight box with links to additional information for “Learning More about Plagiarism, Copyright and Fair Use, and Intellectual Property” (p. 325).
 
-As part of the explanation, ''McGraw-Hill'' walks students through a decisionmaking process by outlining the four questions that are used to determine fair use:
+As part of the explanation, ''McGraw-Hill'' walks students through a decision-making process by outlining the four questions used to determine fair use:
 <blockquote>
 Before you publish your work on the Web or produce a multimedia presentation that includes audio, video, and graphic elements copied from a Web site, make sure that you have used copyrighted material fairly by considering these four questions:
 
@@ -199,7 +199,7 @@ Several libraries and other archival institutions maintain collections of images
 </blockquote>
 The difficulty of this approach lies in the failure to explain what the term ''public domain'' means. The handbook clearly indicates that the public domain resources are useful, but it does not indicate how or why.
 
-While seven of the handbooks mention public domain, most cover the topic much as ''The McGraw-Hill Handbook'' does—providing little detail or explanation. ''The Prentice-Hall Handbook'' provides the most explicit definition: “public domain—phrase used to refer to works that are not granted or no longer granted exclusive protection by copyright law” (68b, p. 388). This definition is accurate, but it relies on the reader already knowing what “protection by copyright law” means. Further, it does not suggest why or when “works . . . are not granted” copyright nor when a work is “no longer granted exclusive protection.” For students to understand the ways that public domain works can contribute to their projects, they need to know much more about the concept.
+While seven of the handbooks mention public domain, most cover the topic much as ''The McGraw-Hill Handbook'' does—providing little detail or explanation. ''The Prentice-Hall Handbook'' provides the most explicit definition: “public domain—phrase used to refer to works that are not granted or no longer granted exclusive protection by copyright law” (68b, p. 388). This definition is accurate, but it requires that the reader already knows what “protection by copyright law” means. Further, the definition does not suggest why or when “works . . . are not granted” copyright nor when a work is “no longer granted exclusive protection.” For students to understand the ways that public domain works can contribute to their projects, they need to know much more about the concept and its relationship to other IP concepts.
 
 ==== Coverage of Creative Commons ====
 
