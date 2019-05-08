@@ -276,11 +276,40 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 * Failure to outline documentation and citation practices beyond in-text citations, endnotes, and bibliographic references.
 * Insufficient explanation of how to apply one or more of the varying IP licenses to the students’ own work.
 
+
+
 == Best Practices ==
 
-Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources. As outlined in the Council of Writing Program Administrators’ ''Defining and Avoiding Plagiarism: The WPA Statement on Best Practices'' emphasizes that attempts at citation, documentation, and related writing from sources (i.e., quotation, paraphrase, summary) are examples of citation and documentation errors, rather than examples of plagiarism. This same approach can inform the ways that handbooks teach students how to create with sources.
+Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources.
+
+As outlined in the Council of Writing Program Administrators’ ''Defining and Avoiding Plagiarism: The WPA Statement on Best Practices'' emphasizes that attempts at citation, documentation, and related writing from sources (i.e., quotation, paraphrase, summary) are examples of citation and documentation errors, rather than examples of plagiarism. This same approach can inform the ways that handbooks teach students how to create with sources.
 
 The handbooks need to provide full explanations of all IP concepts, without focusing on scare tactics and blame (see x, y, and z).
+
+
+
+-----------------------------------
+While plagiarism is well-covered in the 2003 statement “Defining and Avoiding Plagiarism: The WPA Statement on Best Practices,” writing programs today need to do more than cover plagiarism. As we expand the definition of “college writing” to include forms of writing beyond traditional papers, we need to expand our discussion of how these various sources are used and cited as well.
+
+Based on an analysis of the 2003 statement and a survey of current writing handbooks, this presentation identifies gaps in the discussion of ownership and copyright, suggests ways WPAs can address these oversights, and calls for a new WPA statement that covers best practices for defining and respecting intellectual property rights.
+
+
+Talking About Plagiarism Isn’t Enough: Radical Thoughts on “Defining and Avoiding Plagiarism: The WPA Statement on Best Practices”
+
+
+
+
+
+To fill the gaps in current textbook coverage, writing teachers and students need resources that provide the following:
+
+* Full explanation of Creative Commons, with examples and potential sources
+* Full explanation of Public Domain, with examples and potential sources
+* Full explanation of Fair Use, with examples
+* Clear guidelines for attribution and credit of images, audio, and video in digital projects
+* Extensive examples of attribution system in authentic projects
+
+
+
 
 
 
@@ -289,7 +318,7 @@ When writing from sources, students are often corrected or suspected ugh
 
 Need to convince students (the world) that finding is just as valuable as creating.......
 
-How are the current resources buying into the issues of the student as cheater and the student as naive; how is the banking model (ultimately the structural principle for all handbooks) playing into the gaps and misinformation?
+How are the current resources buying into the issues of the student as cheater and the student as naïve; how is the banking model (ultimately the structural principle for all handbooks) playing into the gaps and misinformation?
 
 What do the handbooks need to do to provide the materials that students need? Can the citation analysis idea be modified from the process for "writing from sources" to the process of "creating WITH sources"?
 
@@ -313,13 +342,7 @@ Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], fro
 
 == Ideal Strategies ==
 
-=== Arguments for Handbook Revision ===
 
-* Full explanation of Creative Commons, with examples and potential sources
-* Full explanation of Public Domain, with examples and potential sources
-* Full explanation of Fair Use, again, with examples
-* New guidelines for attribution and credit of iimages, audio, and video in digital projects
-* Extensive examples of attribution system in authentic projects
 
 == Conclusion ==
 
