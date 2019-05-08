@@ -302,11 +302,11 @@ Talking About Plagiarism Isn’t Enough: Radical Thoughts on “Defining and Avo
 
 To fill the gaps in current textbook coverage, writing teachers and students need resources that provide the following:
 
-* Full explanation of Creative Commons, with examples and potential sources
-* Full explanation of Public Domain, with examples and potential sources
-* Full explanation of Fair Use, with examples
-* Clear guidelines for attribution and credit of images, audio, and video in digital projects
-* Extensive examples of attribution system in authentic projects
+* Full explanation of Creative Commons, with examples and potential sources.
+* Full explanation of Public Domain, with examples and potential sources.
+* Full explanation of Fair Use, with examples.
+* Clear guidelines for attribution and credit of images, audio, and video in digital projects.
+* Extensive examples of attribution system in authentic projects.
 
 
 
