@@ -277,7 +277,7 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 * Insufficient explanation of how to apply one or more of the varying IP licenses to the students’ own work.
 * Limited examples of citation and attribution practices.
 
-== Redesigning Handbooks to Improve IP Rights Coverage ==
+= Redesigning Handbooks to Improve IP Rights Coverage =
 
 I conclude by offering suggestions for how to address the oversight in these handbooks so students more fully understand how IP rights as they cite and credit sources.
 
@@ -343,7 +343,7 @@ LANGUAGE AND CULTURE
 Ownership Rights across Cultures
 American academic culture takes seriously the ownership of words and text. It respects both the individual as author (and authority) and the originality of the individual’s ideas. In some cultures, memorization and the use of classic texts are common in all walks of life. And worldwide, the ownership of language, texts, music, and videos is being called into question by the democratic, interactive nature of the Internet. In short, therefore, plagiarism is not something universal and easy to define. In American academic culture, basic ground rules exist for the “fair use” of another writer’s work without payment, but easy access to music and media sources poses interesting questions about intellectual property and the opportunities to create and remix culture.
 
-== Conclusion ==
+= Conclusion =
 
 The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
@@ -357,7 +357,7 @@ Time for an open source guide to citations and attribution that takes the educat
 
 
 
-== Bibliography ==
+= Bibliography =
 
 == Handbooks Reviewed ==
 
