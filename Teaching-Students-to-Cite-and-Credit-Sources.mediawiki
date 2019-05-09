@@ -269,13 +269,15 @@ This passage begins with a brief explanation of students’ own copyright of the
 
 Next the passage addresses actions that students can take to protect their intellectual property. Rather than connecting these actions to copyright however, the text seems to blame the victim with warnings about digital security issues. In short, the section brings up complicated issues of the ownership of publicly posted material without exploring the underlying IP rights or discussing how students can enforce their rights.
 
-While there are places the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” is emblematic of the shortcomings in discussion of IP rights in these handbooks. Currently available textbooks suffer from the following gaps:
+While there are places the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” is emblematic of the shortcomings in discussion of IP rights in these handbooks. To fill these gaps in current coverage, writing teachers and students need textbooks or other resources that provide the following:
 
-* Inadequate coverage of IP rights as they apply to highly-multimodal compositions that move beyond customary essay-style forms.
-* Incomplete discussion of Creative Commons licenses and public domain.
-* Failure to outline documentation and citation practices beyond in-text citations, endnotes, and bibliographic references.
-* Insufficient explanation of how to apply one or more of the varying IP licenses to the students’ own work.
-* Limited examples of citation and attribution practices.
+* Full explanation of Creative Commons, Public Domain, and Fair Use.
+* Clear guidelines for attribution and credit of text, images, audio, and video in a range of digital projects (e.g., posters, digital presentations, video).
+* Extensive examples of attribution systems in authentic digital projects.
+* List of sustainable, reliable sources of digital assets that are appropriate for student projects.
+* Details on how to apply one or more of the varying IP licenses to the students’ own work.
+
+
 
 = Redesigning Handbooks to Improve IP Rights Coverage =
 
@@ -283,21 +285,14 @@ I conclude by offering suggestions for how to address the oversight in these han
 
 
 
-== The handbooks need to provide full explanations of all IP concepts, without focusing on scare tactics and blame (see x, y, and z). ==
+== Full explanations of all IP concepts, without focusing on scare tactics and blame (see x, y, and z). ==
 
-To fill the gaps in current textbook coverage, writing teachers and students need resources that provide the following:
-
-* Full explanation of Creative Commons, with examples and potential sources.
-* Full explanation of Public Domain, with examples and potential sources.
-* Full explanation of Fair Use, with examples.
-* Clear guidelines for attribution and credit of images, audio, and video in digital projects.
-* Extensive examples of attribution system in authentic projects.
 
 
 How are the current resources buying into the issues of the student as cheater and the student as naïve; how is the banking model (ultimately the structural principle for all handbooks) playing into the gaps and misinformation?
 
 
-== Identification of Alternative Instructional Resources ==
+== Include Alternative Resources ==
 
 Pull from [http://faq.tracigardner.com/category/graphics/ http://faq.tracigardner.com/category/graphics/]
 
@@ -315,7 +310,9 @@ Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], fro
 
 
 
-== Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources. ==
+== Shift from ''Writing With'' Sources to ''Creating With'' Sources  ==
+
+Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources.
 
 Need to convince students (the world) that finding is just as valuable as creating .......
 
@@ -330,7 +327,7 @@ While plagiarism is well-covered in the 2003 statement “Defining and Avoiding 
 Based on an analysis of the 2003 statement and a survey of current writing handbooks, this presentation identifies gaps in the discussion of ownership and copyright, suggests ways WPAs can address these oversights, and calls for a new WPA statement that covers best practices for defining and respecting intellectual property rights.
 
 
-=== Applying error-based Teaching===
+=== Treat Error as Error, Not Plagiarism or Copyright Violation ===
 
 The Council of Writing Program Administrators’ ''Defining and Avoiding Plagiarism: The WPA Statement on Best Practices'' emphasizes that attempts at citation, documentation, and related writing from sources (i.e., quotation, paraphrase, summary) are examples of citation and documentation errors, rather than examples of plagiarism. This same approach can inform the ways that handbooks teach students how to create with sources.
 
@@ -487,5 +484,16 @@ Wojahn, Patti, Westbrock, Theresa, Milloy, Rachel, Myers, Seth, Moberly, Matthew
   </tr>
 </table>
 {HTML}
+
+
+== other stuff ==
+Currently available textbooks suffer from the following gaps:
+
+* Inadequate coverage of IP rights as they apply to highly-multimodal compositions that move beyond customary essay-style forms.
+* Incomplete discussion of Creative Commons licenses and public domain.
+* Failure to outline documentation and citation practices beyond in-text citations, endnotes, and bibliographic references.
+* Insufficient explanation of how to apply one or more of the varying IP licenses to the students’ own work.
+* Limited examples of citation and attribution practices.
+
 
 = FIN =
