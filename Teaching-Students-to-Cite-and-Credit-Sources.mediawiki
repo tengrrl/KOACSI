@@ -7,7 +7,7 @@ __TOC__
 '''Released''': sometime in the year 3963<br />
 '''Published''': at this rate, never<br />
 
-== Introduction ==
+= Introduction =
 
 The first-year writing course no longer focuses solely on basic word processor documents comprised of nothing more than words on a page. Instead, students compose essays that include static images that contribute to their documents. They create static projects that combine images and linguistic text to build their messages. They may even compose digital projects that include audio recordings and video clips.
 
@@ -15,7 +15,7 @@ The assets students use in these compositions may be their own work, but they ju
 
 In this article, I survey first-year writing handbooks for instruction on using copyrighted and Creative Commons-licensed resources in citation and attribution practices. By examining the discussion of documentation practices for static images, audio recordings, and video clips in these handbooks, I provide further insight into the gaps in the discussion of ownership, authorship, and copyright in student handbooks published in the U.S. I conclude by offering suggestions for how to address the oversight in these handbooks so students more fully understand how IP rights as they cite and credit sources.
 
-== Survey of Current Handbooks ==
+= Survey of Current Handbooks =
 
 For this article, I reviewed ten first-year writing handbooks for instruction on documentation of images, audio, and video sources, coverage of IP rights, and attribution and credits in static and dynamic texts that go beyond word processor-based essays. My review focused on these handbooks (in alphabetical order by title):
 
