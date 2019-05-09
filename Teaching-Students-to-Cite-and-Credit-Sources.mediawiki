@@ -275,10 +275,9 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 * Incomplete discussion of Creative Commons licenses and public domain.
 * Failure to outline documentation and citation practices beyond in-text citations, endnotes, and bibliographic references.
 * Insufficient explanation of how to apply one or more of the varying IP licenses to the students’ own work.
+* Limited examples of citation and attribution practices.
 
-
-
-== Best Practices ==
+== Redesigning Handbooks to Meet Today’s Needs ==
 
 Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources.
 
