@@ -34,7 +34,7 @@ I used [https://www.macmillanlearning.com/Catalog/product/writerdesigner-seconde
 
 To ensure a thorough search of these handbooks and ''Writer/Designer'', I used digital versions of the handbooks obtained through the [https://bookshelf.vitalsource.com/#/ Vital Source Bookshelf] and the related search tools on the Vital Source website. I also reviewed the sections on research, documentation, and plagiarism in all the handbooks and used the Vital Source’s full-text search tools to check specifically for references to Creative Commons, copyright, fair use, and  public domain.
 
-=== Documentation of Images, Audio, and Video Sources ===
+== Documentation of Images, Audio, and Video Sources ==
 
 Most handbooks adopted for first-year writing courses, including the ten reviewed for this article, focus on the customary curricula of essays and reports written in various genres—from description and narrative to persuasion and argument.  Documented research projects comprise a strong portion of these texts, with sections that demonstrate how to evaluate potential sources, integrate found materials into drafts, and cite sources used in these documents.
 
@@ -91,7 +91,7 @@ The advice here is for students to link to images, audio, and video rather than 
 
 Frustratingly, these handbooks rely primarily on adding research-paper style citations, such as an MLA bibliographic citation for an image, as the method for all sources—a clunky option for students creating projects that take the form of static images, animations, audio recordings, and videos. Imagine, if you will, MLA citations for the songs in the soundtrack of the end of the next documentary movie you watch. The coverage in these handbooks is simply not an authentic representation of how digitally-savvy composers customarily document their sources in texts other than word processor documents and essays.
 
-=== Coverage of IP Rights ===
+== Coverage of IP Rights ==
 
 In their discussion of the research and composing processes, these handbooks refer to IP rights as part of their explanation of why documentation is necessary. In particular, the textbooks focus on the ownership of resources that students may incorporate in their projects, addressing how to find sources they can use and how to determine when permission is required to use those sources.
 
@@ -169,7 +169,7 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 |-
 |}
 
-==== Copyright, Fair Use, and Public Domain ====
+=== Copyright, Fair Use, and Public Domain ===
 
 ''The McGraw-Hill Handbook'' has the most extensive discussion of IP rights of the ten handbooks. The concepts of copyright and intellectual property are introduced in the chapter on “Plagiarism, Copyright, and Intellectual Property”:
 <blockquote>
@@ -201,7 +201,7 @@ The difficulty of this approach lies in the failure to explain what the term ''p
 
 While seven of the handbooks mention public domain, most cover the topic much as ''The McGraw-Hill Handbook'' does—providing little detail or explanation. ''The Prentice-Hall Handbook'' provides the most explicit definition: “public domain—phrase used to refer to works that are not granted or no longer granted exclusive protection by copyright law” (68b, p. 388). This definition is accurate, but it requires that the reader already knows what “protection by copyright law” means. Further, the definition does not suggest why or when “works . . . are not granted” copyright nor when a work is “no longer granted exclusive protection.” For students to understand the ways that public domain works can contribute to their projects, they need to know much more about the concept and its relationship to other IP concepts.
 
-==== Creative Commons ====
+=== Creative Commons ===
 
 Like resources in the public domain, assets protected by Creative Commons licenses can be a valuable addition to writing projects, particularly as many can be used without obtaining any additional permission. It is critical then that handbooks cover Creative Commons to help students understand the options available to them.
 
@@ -238,7 +238,7 @@ Note that although copyright is explained, Creative Commons is identified only a
 
 Given that students are following these instructions to create their own websites, they need more information before they can determine how to apply a Creative Commons license to their work. Unfortunately, none of the handbooks reviewed provides an explanation that explores all aspects of a Creative Commons license in a way that would help students choose a license for their own work or interpret the licenses that apply to assets they want incorporate in their projects.
 
-=== Gaps in Current Resources ===
+== Gaps in Current Resources ==
 
 The ten handbooks examined provide little to no support for how to provide attribution for sources used in heavily-multimodal composing. All privilege linguistic text sources and text-focused systems of attribution, giving little attention to the needs of writing projects that are not pages, papers, or essays.
 
@@ -283,7 +283,7 @@ I conclude by offering suggestions for how to address the oversight in these han
 
 
 
-=== The handbooks need to provide full explanations of all IP concepts, without focusing on scare tactics and blame (see x, y, and z). ===
+== The handbooks need to provide full explanations of all IP concepts, without focusing on scare tactics and blame (see x, y, and z). ==
 
 To fill the gaps in current textbook coverage, writing teachers and students need resources that provide the following:
 
@@ -297,7 +297,7 @@ To fill the gaps in current textbook coverage, writing teachers and students nee
 How are the current resources buying into the issues of the student as cheater and the student as naïve; how is the banking model (ultimately the structural principle for all handbooks) playing into the gaps and misinformation?
 
 
-=== Identification of Alternative Instructional Resources ===
+== Identification of Alternative Instructional Resources ==
 
 Pull from [http://faq.tracigardner.com/category/graphics/ http://faq.tracigardner.com/category/graphics/]
 
@@ -315,13 +315,13 @@ Use the [http://librarycopyright.net/resources/fairuse/ Fair Use Evaluator], fro
 
 
 
-=== Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources. ===
+== Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources. ==
 
 Need to convince students (the world) that finding is just as valuable as creating .......
 
 What do the handbooks need to do to provide the materials that students need? Can the citation analysis idea be modified from the process for "writing from sources" to the process of "creating WITH sources"?
 
-=== New WPA statement ===
+== New WPA statement ==
 
 Talking About Plagiarism Isn’t Enough: Radical Thoughts on “Defining and Avoiding Plagiarism: The WPA Statement on Best Practices”
 
@@ -330,7 +330,7 @@ While plagiarism is well-covered in the 2003 statement “Defining and Avoiding 
 Based on an analysis of the 2003 statement and a survey of current writing handbooks, this presentation identifies gaps in the discussion of ownership and copyright, suggests ways WPAs can address these oversights, and calls for a new WPA statement that covers best practices for defining and respecting intellectual property rights.
 
 
-==== Applying error-based Teaching====
+=== Applying error-based Teaching===
 
 The Council of Writing Program Administrators’ ''Defining and Avoiding Plagiarism: The WPA Statement on Best Practices'' emphasizes that attempts at citation, documentation, and related writing from sources (i.e., quotation, paraphrase, summary) are examples of citation and documentation errors, rather than examples of plagiarism. This same approach can inform the ways that handbooks teach students how to create with sources.
 
@@ -348,9 +348,9 @@ American academic culture takes seriously the ownership of words and text. It re
 The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
 
-=== How More Thorough Coverage Addresses Writers’ Needs ===
+== How More Thorough Coverage Addresses Writers’ Needs ==
 
-=== Call to Advocate for More Friendly and Complete Models and Instruction ===
+== Call to Advocate for More Friendly and Complete Models and Instruction ==
 
 Time for an open source guide to citations and attribution that takes the education away from the publishers, who are more invested in copyright ownership than in free and open systems of citation.
 
@@ -359,7 +359,7 @@ Time for an open source guide to citations and attribution that takes the educat
 
 == Bibliography ==
 
-=== Handbooks Reviewed ===
+== Handbooks Reviewed ==
 
 Faigley, Lester. (2018). [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html ''The Writer's Handbook''] (6th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134573861].
 
@@ -383,7 +383,7 @@ Wysocki, Anne Frances, and Lynch, Dennis A. (2017). [https://www.pearson.com/us/
 
 Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball ''Writer/Designer''] (2nd ed.). Boston, MA: Bedford/St. Martin's. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319107789].
 
-=== Other Sources ===
+== Other Sources ==
 
 Adler-Kassner, Linda, Anson, Chris M., & Howard, Rebecca Moore. (2008). Framing Plagiarism. In Caroline Eisner & Martha Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 231–246). Ann Arbor, MI: University of Michigan Press. [https://doi.org/10.3998/dcbooks.5653382.0001.001 https://doi.org/10.3998/dcbooks.5653382.0001.001]
 
