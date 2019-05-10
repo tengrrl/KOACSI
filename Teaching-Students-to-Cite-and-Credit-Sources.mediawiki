@@ -101,7 +101,7 @@ The table below shows which of the IP concepts are covered in the ten handbooks.
 
 {| class="wikitable"
 |-
-! scope="col"  style="text-align: !left;" | Textbook
+! scope="col"| Textbook
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
 ! scope="col"| Fair Use
