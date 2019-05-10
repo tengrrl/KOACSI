@@ -99,9 +99,9 @@ In this context, students need to know how copyright and Creative Commons licens
 
 The table below shows which of the IP concepts are covered in the ten handbooks. A “Yes” in the table indicates that the topic is mentioned in the handbook.
 
-{| class="wikitable"  style="text-align: !left;"
+{| class="wikitable"
 |-
-! scope="col"| Textbook
+! scope="col"  style="text-align: !left;" | Textbook
 ! scope="col"| Copyright
 ! scope="col"| Creative Commons
 ! scope="col"| Fair Use
