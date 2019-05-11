@@ -281,7 +281,7 @@ To fill these gaps in current coverage, writing teachers and students need textb
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
 
-More than any of these specific items however, current textbooks need to shift from solely discussing strategies for ''writing with'' sources to embracing the techniques for ''creating with'' sources. Asking students to collect research that they then insert into their papers is no longer enough. As students create 
+More than any of these specific items however, current textbooks need to shift from solely discussing strategies for ''writing with'' sources to embracing the techniques for ''creating with'' sources. Asking students to collect research that they then insert into their papers is no longer enough. As students create
 
 
 What do the handbooks need to do to provide the materials that students need? Can the citation analysis idea be modified from the process for "writing from sources" to the process of "creating WITH sources"?
@@ -293,9 +293,9 @@ What do the handbooks need to do to provide the materials that students need? Ca
 The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
 
-== How More Thorough Coverage Addresses Writers’ Needs ==
+How More Thorough Coverage Addresses Writers’ Needs
 
-== Call to Advocate for More Friendly and Complete Models and Instruction ==
+Call to Advocate for More Friendly and Complete Models and Instruction
 
 Time for an open source guide to citations and attribution that takes the education away from the publishers, who are more invested in copyright ownership than in free and open systems of citation.
 
@@ -374,74 +374,6 @@ Vosen, Melissa A. (2008). Using Bloom’s Taxonomy to Teach Students about Plagi
 
 Wojahn, Patti, Westbrock, Theresa, Milloy, Rachel, Myers, Seth, Moberly, Matthew, & Ramirez, Lisa. (2016). Understanding and Using Sources: Student Practices and Perceptions. In Barbara J. D’angelo, Sandra Jamieson, Barry Maid, & Janice R. Walker (Eds.), ''Information Literacy: Research and Collaboration across Disciplines'' (pp. 185–209). Fort Collins, CO: The WAC Clearinghouse and University Press of Colorado. Retrieved September 28, 2018, from [https://wac.colostate.edu/books/infolit/chapter9.pdf https://wac.colostate.edu/books/infolit/chapter9.pdf]
 
-
-
-
-
-
-
-
-
-
-= Saved Garbage =
-
-== Code for styled table from a kairos thing, i think ==
-{HTML()}
-<style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;border-color:#999;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#444;background-color:#F7FDFA;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:#999;color:#fff;background-color:#26ADE4;}
-.tg .tg-9hbo{font-weight:bold;vertical-align:top}
-.tg .tg-yw4l{vertical-align:top}
-</style>
-<table class="tg">
-  <tr>
-    <th class="tg-9hbo">Learn Markdown</th>
-    <th class="tg-yw4l">Markdown Editors</th>
-    <th class="tg-yw4l">Markdown Conversion</th>
-    <th class="tg-yw4l">Markdown Slideware</th>
-    <th class="tg-yw4l">Markdown Email</th>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"><a href="commonmark.org/help/tutorial/">Commonmark Tutorial</a></td>
-    <td class="tg-yw4l">Any basic text editor (Atom, Gedit, Notepad, emacs)</td>
-    <td class="tg-yw4l"><a href="http://pandoc.org">Pandoc</a></td>
-    <td class="tg-yw4l"><a href="http://deckdown.org">Deckdown</a></td>
-    <td class="tg-yw4l"><a href="http://markdown-here.com/index.html">Markdown Here</a></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://stackedit.io">StackEdit</a></td>
-    <td class="tg-yw4l"><a href="http://programminghistorian.org/lessons/sustainable-authorship-in-plain-text-using-pandoc-and-markdown">Pandoc for Academic Webtexts</a></td>
-    <td class="tg-yw4l"><a href="https://www.swipe.to/markdown/">Swipe</a></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><br><a href="http://dillinger.io">Dillinger</a><br></td>
-    <td class="tg-yw4l"><a href="http://pandoc.org/epub.html">Pandoc for Ebooks</a></td>
-    <td class="tg-yw4l"><a href-"https://remarkjs.com/#1">Remark</a></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-  <tr>
-    <td class="tg-yw4l"></td>
-    <td class="tg-yw4l"><a href="https://write-box.appspot.com">WriteBox</a></td>
-    <td class="tg-yw4l"><a href="http://linguisticmystic.com/2015/03/02/how-to-make-a-website-using-pandoc/">Pandoc for Websites</a></td>
-    <td class="tg-yw4l"><a href="https://github.com/adamzap/landslide">Landslide</a></td>
-    <td class="tg-yw4l"></td>
-  </tr>
-</table>
-{HTML}
-
-
-== other stuff ==
-Currently available textbooks suffer from the following gaps:
-
-* Inadequate coverage of IP rights as they apply to highly-multimodal compositions that move beyond customary essay-style forms.
-* Incomplete discussion of Creative Commons licenses and public domain.
-* Failure to outline documentation and citation practices beyond in-text citations, endnotes, and bibliographic references.
-* Insufficient explanation of how to apply one or more of the varying IP licenses to the students’ own work.
-* Limited examples of citation and attribution practices.
 
 
 = FIN =
