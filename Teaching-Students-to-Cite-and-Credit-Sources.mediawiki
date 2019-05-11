@@ -269,7 +269,11 @@ This passage begins with a brief explanation of students’ own copyright of the
 
 Next the passage addresses actions that students can take to protect their intellectual property. Rather than connecting these actions to copyright however, the text seems to blame the victim with warnings about digital security issues. In short, the section brings up complicated issues of the ownership of publicly posted material without exploring the underlying IP rights or discussing how students can enforce their rights.
 
-While there are places the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” is emblematic of the shortcomings in discussion of IP rights in these handbooks. To fill these gaps in current coverage, writing teachers and students need textbooks or other resources that provide the following:
+While there are places the ''St. Martin’s Handbook'' shines, like its discussion of fair use in relation to images (13e, p.237), this section on “Considering your intellectual property” is emblematic of the shortcomings in discussion of IP rights in these handbooks.
+
+= Redesigning Handbooks to Improve IP Rights Coverage =
+
+To fill these gaps in current coverage, writing teachers and students need textbooks or other resources that provide the following:
 
 * Full explanation of Creative Commons, Public Domain, and Fair Use.
 * Clear guidelines for attribution and credit of text, images, audio, and video in a range of digital projects (e.g., posters, digital presentations, video).
@@ -277,15 +281,9 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
 
+More than any of these specific to-do’s however, current textbooks need to shift from solely discussing strategies for ''writing with'' sources to embracing the techniques for ''creating with'' sources.
 
 
-= Redesigning Handbooks to Improve IP Rights Coverage =
-
-
-
-== Shift from ''Writing With'' Sources to ''Creating With'' Sources  ==
-
-Ideal coverage of IP rights would extend what we know about teaching students to ''write from'' sources to teaching students to ''create with'' sources.
 
 Need to convince students (the world) that finding is just as valuable as creating .......
 
@@ -293,7 +291,7 @@ What do the handbooks need to do to provide the materials that students need? Ca
 
 
 
-= Conclusion =
+= Final Thoughts =
 
 The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
