@@ -273,7 +273,7 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 
 = Redesigning Handbooks to Improve IP Rights Coverage =
 
-To fill these gaps in current coverage, writing teachers and students need textbooks or other resources that provide the following:
+To fill these gaps in current coverage, writing teachers and students need textbooks that provide the following resources:
 
 * Full explanation of Creative Commons, Public Domain, and Fair Use.
 * Clear guidelines for attribution and credit of text, images, audio, and video in a range of digital projects (e.g., posters, digital presentations, video).
@@ -281,11 +281,10 @@ To fill these gaps in current coverage, writing teachers and students need textb
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
 
-More than any of these specific items however, current textbooks need to shift from solely discussing strategies for ''writing with'' sources to embracing the techniques for ''creating with'' sources. Asking students to collect research that they then insert into their papers is no longer enough. As students create
+In addition to these specific resources, current textbooks need to shift from solely discussing strategies for ''writing from'' sources to embracing the techniques for ''creating with'' sources. Quotation, paraphrase, and summary are all important  
 
 
-What do the handbooks need to do to provide the materials that students need? Can the citation analysis idea be modified from the process for "writing from sources" to the process of "creating WITH sources"?
-
+What do the handbooks need to do to provide the materials that students need?
 
 
 = Final Thoughts =
