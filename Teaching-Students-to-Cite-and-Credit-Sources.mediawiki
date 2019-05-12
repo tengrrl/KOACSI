@@ -273,7 +273,11 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 
 = Redesigning Handbooks to Improve IP Rights Coverage =
 
-Current textbooks need to shift from solely discussing strategies for ''writing from'' sources to embracing the techniques for ''creating with'' sources. Quotation, paraphrase, and summary are all important aspects of writing from sources. When students turn to creating projects with sources however, they need to understand the strategies of linking, framing, embedding, clipping, sampling, and remixing. In the same way that textbooks demonstrate how to include a quotation of words, they need to show students composition strategies such as how to sample from an audio recording and how to remix video clips into a new digital project. 
+First-year writing handbooks need to shift from solely discussing strategies for ''writing from'' sources to embracing the techniques for ''creating with'' sources. Further, they need to emphasize that finding a solid source or asset is just as valuable as creating one. 
+
+Quotation, paraphrase, and summary are all important aspects of writing from sources. When students turn to creating projects with sources however, they need to understand the strategies of linking, framing, embedding, clipping, sampling, and remixing. In the same way that textbooks demonstrate how to include a quotation of words, they need to show students composition strategies such as how to sample from an audio recording and how to remix video clips into a new digital project.
+
+and then how to document, credit, attribute, etc all that junk
 
 To fill the gaps in current coverage, writing teachers and students need textbooks that provide the following resources:
 
@@ -282,11 +286,6 @@ To fill the gaps in current coverage, writing teachers and students need textboo
 * Extensive examples of attribution systems in authentic digital projects.
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
-
-
-
-
-and then how to document, credit, attribute, etc all that junk
 
 
 
@@ -332,8 +331,6 @@ Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.
 
 == Other Sources ==
 
-Adler-Kassner, Linda, Anson, Chris M., & Howard, Rebecca Moore. (2008). Framing Plagiarism. In Caroline Eisner & Martha Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 231–246). Ann Arbor, MI: University of Michigan Press. [https://doi.org/10.3998/dcbooks.5653382.0001.001 https://doi.org/10.3998/dcbooks.5653382.0001.001]
-
 Arola, Kristin L., Sheppard, Jennifer, & Ball, Cheryl E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
 
 Barkley, Elizabeth F. (2016). Using Citation Analysis in Writing Center Tutorials to Encourage Deeper Engagement with Sources. ''Praxis: A Writing Center Journal,'' 13(2). Retrieved December 28, 2018, from [http://www.praxisuwc.com/kleinfeld-132/ http://www.praxisuwc.com/kleinfeld-132/]
@@ -344,10 +341,6 @@ Creative Commons. (2014, March 5). ''Best practices for attribution''. Retrieved
 
 Creative Commons. (2018, July 25). Frequently Asked Questions. Retrieved August 4, 2018, from [https://creativecommons.org/faq/ https://creativecommons.org/faq/]
 
-DeVoss, Dànielle Nicole. (2013). Intellectual Property in “College English”— and English Studies. ''College English'', 75(5), 534–547. Retrieved September 22, 2017, from [https://www.jstor.org/stable/24238251 https://www.jstor.org/stable/24238251]
-
-Freire, Paulo, & Macedo, Donaldo. (2000). ''Pedagogy of the Oppressed, 30th Anniversary Edition''. (Myra Bergman Ramos, Trans.) (30th Anniversary edition). New York: Continuum.
-
 Head, Alison, & Eisenberg, Michael. (2009). Lessons Learned: How College Students Seek Information in the Digital Age (SSRN Scholarly Paper No. ID 2281478). Rochester, NY: Social Science Research Network. [http://dx.doi.org/10.2139/ssrn.2281478 http://dx.doi.org/10.2139/ssrn.2281478]
 
 Howard, Rebecca Moore. (1995). Plagiarisms, Authorships, and the Academic Death Penalty. ''College English,'' 57(7), 788.  [https://doi.org/10.2307/378403 https://doi.org/10.2307/378403]
@@ -356,26 +349,8 @@ Howard, Rebecca Moore, Serviss, Tricia, & Rodrigue, Tanya K. (2010). Writing fro
 
 Jamieson, Sandra. (2017). What The Citation Project Tells Us about Information Literacy in College Composition. In Tricia Serviss & Sandra Jamieson (Eds.), ''Points of Departure: Rethinking Student Source Use and Writing Studies Research Methods'' (pp. 33–61). Utah State University Press. [https://doi.org/10.7330/9781607326250.c008 https://doi.org/10.7330/9781607326250.c008]
 
-Kleinfeld, Elizabeth. (2017). Just Read the Assignment: Using Course Documents to Analyze Research Pedagogy. In Tricia Serviss & Sandra Jamieson (Eds.), ''Points of Departure: Rethinking Student Source Use and Writing Studies Research Methods'' (pp. 227–244). Utah State University Press. [https://doi.org/10.7330/9781607326250.c008 https://doi.org/10.7330/9781607326250.c008]
-
-Litman, Jessica. (2008). Choosing Metaphors. In Caroline Eisner & Martha Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 13–26). Ann Arbor, MI: University of Michigan Press. [https://doi.org/10.3998/dcbooks.5653382.0001.001 https://doi.org/10.3998/dcbooks.5653382.0001.001]
-
-Newbold, Curtis. (2014, July 14). Can I Use that Picture? The Terms, Laws, and Ethics for Using Copyrighted Images. Retrieved September 22, 2017, from [http://thevisualcommunicationguy.com/2014/07/14/can-i-use-that-picture/ http://thevisualcommunicationguy.com/2014/07/14/can-i-use-that-picture/]
-
-Rife, Martine Courant. (2007). The fair use doctrine: History, application, and implications for (new media) writing teachers. ''Computers and Composition,'' 24(2), 154–178. [https://doi.org/10.1016/j.compcom.2007.02.002 https://doi.org/10.1016/j.compcom.2007.02.002]
-
-Rife, Martine Courant. (2008). “Fair Use,” Copyright Law, and the Composition Teacher. In Caroline Eisner & Martha Vicinus (Eds.), ''Originality, Imitation, and Plagiarism: Teaching Writing in the Digital Age'' (pp. 145–156). Ann Arbor, MI: University of Michigan Press. [https://doi.org/10.3998/dcbooks.5653382.0001.001 https://doi.org/10.3998/dcbooks.5653382.0001.001]
-
 Serviss, Tricia. (2016). Creating Faculty Development Programming to Prevent Plagiarism: Three Approaches. In Tracey Bretag (Ed.), ''Handbook of Academic Integrity'' (pp. 551–567). Singapore: Springer Singapore. [https://doi.org/10.1007/978-981-287-098-8_73 https://doi.org/10.1007/978-981-287-098-8_73]
 
 Serviss, Tricia. (2016). Using Citation Analysis Heuristics to Prepare TAs Across the Disciplines as Teachers and Writers. ''Across the Disciplines,'' 13(3). Retrieved December 28, 2018, from [https://wac.colostate.edu/docs/atd/wacta/serviss2016.pdf https://wac.colostate.edu/docs/atd/wacta/serviss2016.pdf]
-
-The New London Group. (1996). A pedagogy of multiliteracies: designing social futures. ''Harvard Educational Review'', (1), 60–93. [https://doi.org/10.17763/haer.66.1.17370n67v22j160u https://doi.org/10.17763/haer.66.1.17370n67v22j160u]
-
-Vosen, Melissa A. (2008). Using Bloom’s Taxonomy to Teach Students about Plagiarism. ''The English Journal,'' 97(6), 43–46. Retrieved September 22, 2017, from [https://www.jstor.org/stable/40503410 https://www.jstor.org/stable/40503410]
-
-Wojahn, Patti, Westbrock, Theresa, Milloy, Rachel, Myers, Seth, Moberly, Matthew, & Ramirez, Lisa. (2016). Understanding and Using Sources: Student Practices and Perceptions. In Barbara J. D’angelo, Sandra Jamieson, Barry Maid, & Janice R. Walker (Eds.), ''Information Literacy: Research and Collaboration across Disciplines'' (pp. 185–209). Fort Collins, CO: The WAC Clearinghouse and University Press of Colorado. Retrieved September 28, 2018, from [https://wac.colostate.edu/books/infolit/chapter9.pdf https://wac.colostate.edu/books/infolit/chapter9.pdf]
-
-
 
 = FIN =
