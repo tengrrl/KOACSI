@@ -273,7 +273,9 @@ While there are places the ''St. Martin’s Handbook'' shines, like its discussi
 
 = Redesigning Handbooks to Improve IP Rights Coverage =
 
-To fill these gaps in current coverage, writing teachers and students need textbooks that provide the following resources:
+Current textbooks need to shift from solely discussing strategies for ''writing from'' sources to embracing the techniques for ''creating with'' sources. Quotation, paraphrase, and summary are all important aspects of writing from sources. When students turn to creating projects with sources however, they need to understand the strategies of linking, framing, embedding, clipping, sampling, and remixing. In the same way that textbooks demonstrate how to include a quotation of words, they need to show students composition strategies such as how to sample from an audio recording and how to remix video clips into a new digital project. 
+
+To fill the gaps in current coverage, writing teachers and students need textbooks that provide the following resources:
 
 * Full explanation of Creative Commons, Public Domain, and Fair Use.
 * Clear guidelines for attribution and credit of text, images, audio, and video in a range of digital projects (e.g., posters, digital presentations, video).
@@ -281,7 +283,7 @@ To fill these gaps in current coverage, writing teachers and students need textb
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
 
-In addition to these specific resources, current textbooks need to shift from solely discussing strategies for ''writing from'' sources to embracing the techniques for ''creating with'' sources. Quotation, paraphrase, and summary are all important aspects of writing from sources. When students turn to creating projects with sources however, they need to understand the strategies of linking, framing, embedding, clipping, sampling, and remixing.
+
 
 
 and then how to document, credit, attribute, etc all that junk
