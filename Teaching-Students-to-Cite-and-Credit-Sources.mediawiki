@@ -279,6 +279,8 @@ Not so for the student composing anything other than a paper. Though the handboo
 
 Additionally, students need to understand how to cite these various sources in projects that don’t lend themselves to a Works Cited list. They need to know when to include a photographer’s name in a caption, how to document the audio clips used as background in a podcasting project, and what details to include when they use footage from a public domain video in their own video project. Most importantly, they need to learn that attribution is required even when the their projects are not share in  public forums. Student writers need to have a strong enough understanding of fair use to recognize that freedom to use an asset does not dismiss them from citing their sources. Finally, students need to learn how to match the citation practices they use to the genre of their project.
 
+= Final Thoughts =
+
 To fill the gaps in current coverage and meet the needs of I have outlined, writing teachers and students need textbooks that provide the following resources:
 
 * Full explanation of Creative Commons, Public Domain, and Fair Use.
@@ -291,15 +293,11 @@ To fill the gaps in current coverage and meet the needs of I have outlined, writ
 
 The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and occasionally discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
-How More Thorough Coverage Addresses Writers’ Needs
 
-Call to Advocate for More Friendly and Complete Models and Instruction
-
-Time for an open source guide to citations and attribution that takes the education away from the publishers, who are more invested in copyright ownership than in free and open systems of citation.
 
 = Bibliography =
 
-== Handbooks Reviewed ==
+Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball ''Writer/Designer''] (2nd ed.). Boston, MA: Bedford/St. Martin's. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319107789].
 
 Faigley, Lester. (2018). [https://www.pearson.com/us/higher-education/product/Faigley-The-Writer-s-Handbook-6th-Edition/9780134571331.html ''The Writer's Handbook''] (6th ed.). New York, NY: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134573861].
 
@@ -320,31 +318,3 @@ Palmquist, Mike, and Wallraff, Barbara. (2018). [https://www.macmillanlearning.c
 Raimes, Ann, and Miller-Cochran, Susan K. (2018). [https://www.cengage.com/c/keys-for-writers-8e-raimes ''Keys for Writers'', 8th ed.] Boston, MA: Cengage Learning. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781337516006].
 
 Wysocki, Anne Frances, and Lynch, Dennis A. (2017). [https://www.pearson.com/us/higher-education/program/Wysocki-DK-Handbook-MLA-Update-The-4th-Edition/PGM1636407.html ''The DK Handbook''] (4th ed.).  Boston, MA: Pearson. Retrieved from [https://bookshelf.vitalsource.com/#/books/9780134151021].
-
-Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball ''Writer/Designer''] (2nd ed.). Boston, MA: Bedford/St. Martin's. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319107789].
-
-== Other Sources ==
-
-Arola, Kristin L., Sheppard, Jennifer, & Ball, Cheryl E. (2014). ''Writer/Designer: A Guide to Making Multimodal Projects''. Boston: Bedford/St. Martin’s.
-
-Barkley, Elizabeth F. (2016). Using Citation Analysis in Writing Center Tutorials to Encourage Deeper Engagement with Sources. ''Praxis: A Writing Center Journal,'' 13(2). Retrieved December 28, 2018, from [http://www.praxisuwc.com/kleinfeld-132/ http://www.praxisuwc.com/kleinfeld-132/]
-
-Council of Writing Program Administrators. (2003, January). Defining and Avoiding Plagiarism: The WPA Statement on Best Practices | Council of Writing Program Administrators. Retrieved December 30, 2018, from [http://wpacouncil.org/positions/WPAplagiarism.pdf http://wpacouncil.org/positions/WPAplagiarism.pdf]
-
-Creative Commons. (2014, March 5). ''Best practices for attribution''. Retrieved September 22, 2017, from [https://wiki.creativecommons.org/wiki/Best_practices_for_attribution https://wiki.creativecommons.org/wiki/Best_practices_for_attribution].
-
-Creative Commons. (2018, July 25). Frequently Asked Questions. Retrieved August 4, 2018, from [https://creativecommons.org/faq/ https://creativecommons.org/faq/]
-
-Head, Alison, & Eisenberg, Michael. (2009). Lessons Learned: How College Students Seek Information in the Digital Age (SSRN Scholarly Paper No. ID 2281478). Rochester, NY: Social Science Research Network. [http://dx.doi.org/10.2139/ssrn.2281478 http://dx.doi.org/10.2139/ssrn.2281478]
-
-Howard, Rebecca Moore. (1995). Plagiarisms, Authorships, and the Academic Death Penalty. ''College English,'' 57(7), 788.  [https://doi.org/10.2307/378403 https://doi.org/10.2307/378403]
-
-Howard, Rebecca Moore, Serviss, Tricia, & Rodrigue, Tanya K. (2010). Writing from Sources, Writing from Sentences. ''Writing & Pedagogy,'' 2(2). [https://doi.org/10.1558/wap.v2i2.177 https://doi.org/10.1558/wap.v2i2.177]
-
-Jamieson, Sandra. (2017). What The Citation Project Tells Us about Information Literacy in College Composition. In Tricia Serviss & Sandra Jamieson (Eds.), ''Points of Departure: Rethinking Student Source Use and Writing Studies Research Methods'' (pp. 33–61). Utah State University Press. [https://doi.org/10.7330/9781607326250.c008 https://doi.org/10.7330/9781607326250.c008]
-
-Serviss, Tricia. (2016). Creating Faculty Development Programming to Prevent Plagiarism: Three Approaches. In Tracey Bretag (Ed.), ''Handbook of Academic Integrity'' (pp. 551–567). Singapore: Springer Singapore. [https://doi.org/10.1007/978-981-287-098-8_73 https://doi.org/10.1007/978-981-287-098-8_73]
-
-Serviss, Tricia. (2016). Using Citation Analysis Heuristics to Prepare TAs Across the Disciplines as Teachers and Writers. ''Across the Disciplines,'' 13(3). Retrieved December 28, 2018, from [https://wac.colostate.edu/docs/atd/wacta/serviss2016.pdf https://wac.colostate.edu/docs/atd/wacta/serviss2016.pdf]
-
-= FIN =
