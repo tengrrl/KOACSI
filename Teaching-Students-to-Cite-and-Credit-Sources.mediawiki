@@ -277,13 +277,9 @@ The first-year writing handbooks I reviewed focus on strategies for writing with
 
 Not so for the student composing anything other than a paper. Though the handbooks provide remarkable resources for students ''writing with'' sources, these ten textbooks do not adequately explore the techniques for ''creating with'' sources. When students turn to filming documentaries, recording oral histories, and composing and designing websites, they need to understand the strategies of linking, framing, embedding, clipping, sampling, and remixing. In the same way that textbooks demonstrate how to include strategies like quoting words from an outside source, they need to show students techniques such as how to sample from an audio recording and how to remix video clips into a new digital project.
 
-Additionally, students need to understand how to cite these various sources in projects that don’t lend themselves to a Works Cited list. They need to understand when to include a photographer’s name in a caption, how to document the audio clips used as background in a video project, and what details to include when they 
+Additionally, students need to understand how to cite these various sources in projects that don’t lend themselves to a Works Cited list. They need to know when to include a photographer’s name in a caption, how to document the audio clips used as background in a podcasting project, and what details to include when they use footage from a public domain video in their own video project. Most importantly, they need to learn that attribution is required even when the their projects are not share in  public forums. Student writers need to have a strong enough understanding of fair use to recognize that freedom to use an asset does not dismiss them from citing their sources. Finally, students need to learn how to match the citation practices they use to the genre of their project.
 
-
-
-
-
-To fill the gaps in current coverage, writing teachers and students need textbooks that provide the following resources:
+To fill the gaps in current coverage and meet the needs of I have outlined, writing teachers and students need textbooks that provide the following resources:
 
 * Full explanation of Creative Commons, Public Domain, and Fair Use.
 * Clear guidelines for attribution and credit of text, images, audio, and video in a range of digital projects (e.g., posters, digital presentations, video).
@@ -293,19 +289,13 @@ To fill the gaps in current coverage, writing teachers and students need textboo
 
 
 
-= Final Thoughts =
-
-The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and more rarely discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
-
+The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and occasionally discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
 
 How More Thorough Coverage Addresses Writers’ Needs
 
 Call to Advocate for More Friendly and Complete Models and Instruction
 
 Time for an open source guide to citations and attribution that takes the education away from the publishers, who are more invested in copyright ownership than in free and open systems of citation.
-
-
-
 
 = Bibliography =
 
