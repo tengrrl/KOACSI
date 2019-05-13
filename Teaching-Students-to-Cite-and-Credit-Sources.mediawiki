@@ -289,13 +289,15 @@ To fill the gaps in current coverage and meet the needs of I have outlined, writ
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
 
-
-
-The primary domain of these handbooks is the print-ready word-processor document. They sometimes mention student-composed webpages and occasionally discuss student-created projects that result in static images, audio recordings, and video. From this perspective, perhaps the handbook authors and editors do not see it as a practical concern to address issues such as how to add an attribution to a persuasive poster or a documentary video.
+The primary domain of the handbooks currently used in the writing classroom is the print-ready word-processor document. They sometimes mention student-composed webpages and occasionally discuss student-created projects that result in static images, audio recordings, and video. Projects that include various multimedia assets in their composition are rarely, if ever, mentioned. Despite this absence in the textbooks, first-year writing programs increasingly include multimedia projects.
 
 
 
-= Bibliography =
+= Acknowledgements =
+
+Thank you to Karen Lunsford, for originally encouraging this project. I also thank Cheryl E. Ball and Elkie Burnside for  feedback on an early draft.
+
+= References =
 
 Ball, Cheryl E., Sheppard, Jennifer, and Arola, Kristin L. (2018). [https://www.macmillanlearning.com/Catalog/product/writerdesigner-secondedition-ball ''Writer/Designer''] (2nd ed.). Boston, MA: Bedford/St. Martin's. Retrieved from [https://bookshelf.vitalsource.com/#/books/9781319107789].
 
