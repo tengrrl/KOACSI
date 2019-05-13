@@ -281,7 +281,9 @@ Additionally, students need to understand how to cite these various sources in p
 
 = Final Thoughts =
 
-To fill the gaps in current coverage and meet the needs of I have outlined, writing teachers and students need textbooks that provide the following resources:
+The handbooks currently used in the writing classroom foreground print-ready word-processor documents. They sometimes mention student-composed webpages and occasionally discuss student-created projects that result in static images, audio recordings, and video. Projects that incorporate multimedia assets, like film and audio, are infrequently mentioned. Despite this absence in the textbooks, first-year writing programs increasingly include multimedia projects that require students to know how to use and cite multimedia assets in ethical and authentic ways. There are simply too many gaps in the current coverage of research and documentation in the handbooks available today. To teach students to cite and credit their sources, teachers need handbooks that cover ''all'' of the possible sources students use in ''all'' of the ways that they use them.
+
+To fill the gaps in current coverage, textbooks need to provide the following resources:
 
 * Full explanation of Creative Commons, Public Domain, and Fair Use.
 * Clear guidelines for attribution and credit of text, images, audio, and video in a range of digital projects (e.g., posters, digital presentations, video).
@@ -289,13 +291,13 @@ To fill the gaps in current coverage and meet the needs of I have outlined, writ
 * List of sustainable, reliable sources of digital assets that are appropriate for student projects.
 * Details on how to apply one or more of the varying IP licenses to the students’ own work.
 
-The primary domain of the handbooks currently used in the writing classroom is the print-ready word-processor document. They sometimes mention student-composed webpages and occasionally discuss student-created projects that result in static images, audio recordings, and video. Projects that include various multimedia assets in their composition are rarely, if ever, mentioned. Despite this absence in the textbooks, first-year writing programs increasingly include multimedia projects.
 
 
 
-= Acknowledgements =
 
-Thank you to Karen Lunsford, for originally encouraging this project. I also thank Cheryl E. Ball and Elkie Burnside for  feedback on an early draft.
+= Acknowledgments =
+
+I want to thank Karen Lunsford, for originally encouraging this project. I also thank Cheryl E. Ball and Elkie Burnside for  feedback on an early draft.
 
 = References =
 
